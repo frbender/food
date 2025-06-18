@@ -6,6 +6,9 @@ on:
     - cron: '0 7 * * *' # Runs at 7 AM UTC daily (adjust as needed, e.g., 5 AM Berlin time is 3 or 4 AM UTC depending on DST)
   workflow_dispatch: # Allows manual triggering from the Actions tab
 
+permissions:
+  contents: write
+
 jobs:
   crawl-and-commit:
     runs-on: ubuntu-latest
