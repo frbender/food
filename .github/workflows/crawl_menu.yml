@@ -1,0 +1,44 @@
+# .github/workflows/crawl_menu.yml
+name: Daily Menu Crawl & Update
+
+on:
+  schedule:
+    - cron: '0 7 * * *' # Runs at 7 AM UTC daily (adjust as needed, e.g., 5 AM Berlin time is 3 or 4 AM UTC depending on DST)
+  workflow_dispatch: # Allows manual triggering from the Actions tab
+
+jobs:
+  crawl-and-commit:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10' 
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests 
+          # Add other dependencies here if your script uses them
+
+      - name: Run menu crawler script
+        env:
+          PACE_API_KEY: ${{ secrets.PACE_API_KEY }} # Use the secret you created
+        run: python menu_crawler.py # Make sure this matches your Python script's filename
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "GitHub Actions Bot"
+          git config --global user.email "actions@github.com"
+          git add raw_data/ menu_database.json # Add the raw data folder and the clean DB file
+          # Check if there are changes to commit
+          if ! git diff --staged --quiet; then
+            git commit -m "Update menu data - $(date -u +'%Y-%m-%d %H:%M:%S UTC')"
+            git push
+            echo "Changes committed and pushed."
+          else
+            echo "No changes to menu data."
+          fi
