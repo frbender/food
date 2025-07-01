@@ -1,891 +1,9 @@
 {
   "canteen": {
-    "2025-06-30": {
-      "Mittagessen": [
-        {
-          "id": "2379704",
-          "item_id": "17549",
-          "recipe_id": "4368",
-          "description_de": "Edamame | Avocado | Chinakohl",
-          "description_en": "Edamame | Avocado | Chinese cabbage",
-          "category": "COUNTER 1.1 Bowls_",
-          "price": "10.00",
-          "price_2": null,
-          "allergens": {
-            "gluten": "Glutenhaltiges Getreide",
-            "soja": "Soja und Sojaerzeugnisse",
-            "erdnuss": "Erdnüsse und Erdnusserzeugnisse",
-            "sesam": "Sesamsamen und Sesamsamenerzeugnisse"
-          },
-          "attributes": {
-            "vegan": "Vegan",
-            "vegetarisch": "Vegetarisch"
-          },
-          "nutrition": [
-            {
-              "name": "Energie",
-              "shortName": "En",
-              "digitalSignageCode": "En",
-              "unit": "kJ",
-              "value": "1257.8",
-              "value100": "381.0"
-            },
-            {
-              "name": "Energie Kilokalorien",
-              "shortName": "kcal",
-              "digitalSignageCode": "kcal",
-              "unit": "kcal",
-              "value": "307.4",
-              "value100": "93.1"
-            },
-            {
-              "name": "Fett",
-              "shortName": "F",
-              "digitalSignageCode": "F",
-              "unit": "g",
-              "value": "4.9",
-              "value100": "1.5"
-            },
-            {
-              "name": "Gesättigte Fettsäuren",
-              "shortName": "GF",
-              "digitalSignageCode": "GF",
-              "unit": "g",
-              "value": "0.6",
-              "value100": "0.2"
-            },
-            {
-              "name": "Kohlenhydrate",
-              "shortName": "Kh",
-              "digitalSignageCode": "Kh",
-              "unit": "g",
-              "value": "60.1",
-              "value100": "18.2"
-            },
-            {
-              "name": "Zucker",
-              "shortName": "Z",
-              "digitalSignageCode": "Z",
-              "unit": "g",
-              "value": "8.4",
-              "value100": "2.5"
-            },
-            {
-              "name": "Eiweiß",
-              "shortName": "Ew",
-              "digitalSignageCode": "Ew",
-              "unit": "g",
-              "value": "4.1",
-              "value100": "1.2"
-            },
-            {
-              "name": "Salz",
-              "shortName": "S",
-              "digitalSignageCode": "S",
-              "unit": "g",
-              "value": "2.560",
-              "value100": "0.775"
-            },
-            {
-              "name": "Einfach ungesättigte Fett",
-              "shortName": "EuF",
-              "digitalSignageCode": "EuF",
-              "unit": "g",
-              "value": "0.0",
-              "value100": "0.0"
-            },
-            {
-              "name": "Merf.ungesättigte Fettsäu",
-              "shortName": "MgF",
-              "digitalSignageCode": "MgF",
-              "unit": "g",
-              "value": "0.1",
-              "value100": "0.0"
-            },
-            {
-              "name": "Ballststoffe",
-              "shortName": "B",
-              "digitalSignageCode": "B",
-              "unit": "g",
-              "value": "3.0",
-              "value100": "0.9"
-            },
-            {
-              "name": "Vitamine",
-              "shortName": "V",
-              "digitalSignageCode": "V",
-              "unit": "µg",
-              "value": "15144.6",
-              "value100": "4587.2"
-            }
-          ],
-          "additives": [
-            {
-              "de": "Phosphat",
-              "en": "Phosphate"
-            },
-            {
-              "de": "Antioxidationsmittel",
-              "en": "Antioxidation"
-            }
-          ],
-          "co2_value": "243.00",
-          "co2_rating": "A",
-          "print_order": "0"
-        },
-        {
-          "id": "2379705",
-          "item_id": "17550",
-          "recipe_id": "5155",
-          "description_de": "Schweinefilet | Glasierte Äpfel | Kartoffelmousseline",
-          "description_en": "Pork tenderloin | Glazed apples | Potato mousseline",
-          "category": "COUNTER 2.1 Meat",
-          "price": "12.00",
-          "price_2": null,
-          "allergens": {
-            "gluten": "Glutenhaltiges Getreide",
-            "milch": "Milch und Milcherzeugnisse",
-            "sellerie": "Sellerie und Sellerieerzeugnisse",
-            "senf": "Senf und Senferzeugnisse",
-            "schwefel": "Schwefeldioxid und Sulfide"
-          },
-          "attributes": {
-            "schwein": "Schwein"
-          },
-          "nutrition": [
-            {
-              "name": "Energie",
-              "shortName": "En",
-              "digitalSignageCode": "En",
-              "unit": "kJ",
-              "value": "2339.1",
-              "value100": "424.5"
-            },
-            {
-              "name": "Energie Kilokalorien",
-              "shortName": "kcal",
-              "digitalSignageCode": "kcal",
-              "unit": "kcal",
-              "value": "559.1",
-              "value100": "101.5"
-            },
-            {
-              "name": "Fett",
-              "shortName": "F",
-              "digitalSignageCode": "F",
-              "unit": "g",
-              "value": "17.1",
-              "value100": "3.1"
-            },
-            {
-              "name": "Gesättigte Fettsäuren",
-              "shortName": "GF",
-              "digitalSignageCode": "GF",
-              "unit": "g",
-              "value": "8.7",
-              "value100": "1.6"
-            },
-            {
-              "name": "Kohlenhydrate",
-              "shortName": "Kh",
-              "digitalSignageCode": "Kh",
-              "unit": "g",
-              "value": "33.2",
-              "value100": "6.0"
-            },
-            {
-              "name": "Zucker",
-              "shortName": "Z",
-              "digitalSignageCode": "Z",
-              "unit": "g",
-              "value": "12.0",
-              "value100": "2.2"
-            },
-            {
-              "name": "Eiweiß",
-              "shortName": "Ew",
-              "digitalSignageCode": "Ew",
-              "unit": "g",
-              "value": "64.7",
-              "value100": "11.7"
-            },
-            {
-              "name": "Salz",
-              "shortName": "S",
-              "digitalSignageCode": "S",
-              "unit": "g",
-              "value": "2.399",
-              "value100": "0.435"
-            },
-            {
-              "name": "Einfach ungesättigte Fett",
-              "shortName": "EuF",
-              "digitalSignageCode": "EuF",
-              "unit": "g",
-              "value": "4.3",
-              "value100": "0.8"
-            },
-            {
-              "name": "Merf.ungesättigte Fettsäu",
-              "shortName": "MgF",
-              "digitalSignageCode": "MgF",
-              "unit": "g",
-              "value": "0.7",
-              "value100": "0.1"
-            },
-            {
-              "name": "Ballststoffe",
-              "shortName": "B",
-              "digitalSignageCode": "B",
-              "unit": "g",
-              "value": "5.9",
-              "value100": "1.1"
-            },
-            {
-              "name": "Vitamine",
-              "shortName": "V",
-              "digitalSignageCode": "V",
-              "unit": "µg",
-              "value": "105309.1",
-              "value100": "19112.3"
-            }
-          ],
-          "additives": [
-            {
-              "de": "Alkohol",
-              "en": "Alcohol"
-            }
-          ],
-          "co2_value": "3823.00",
-          "co2_rating": "D",
-          "print_order": "1"
-        },
-        {
-          "id": "2379706",
-          "item_id": "17552",
-          "recipe_id": "8922",
-          "description_de": "Lachsfilet | Pesto - Gnocchi | Zuckerschoten",
-          "description_en": "Salmon | Pesto - Gnocchi | Sugar snap peas",
-          "category": "COUNTER 3.1 Fish",
-          "price": "12.00",
-          "price_2": null,
-          "allergens": {
-            "gluten": "Glutenhaltiges Getreide",
-            "fisch": "Fisch und Fischerzeugnisse",
-            "milch": "Milch und Milcherzeugnisse"
-          },
-          "attributes": "",
-          "nutrition": [
-            {
-              "name": "Energie",
-              "shortName": "En",
-              "digitalSignageCode": "En",
-              "unit": "kJ",
-              "value": "2517.9",
-              "value100": "585.6"
-            },
-            {
-              "name": "Energie Kilokalorien",
-              "shortName": "kcal",
-              "digitalSignageCode": "kcal",
-              "unit": "kcal",
-              "value": "600.5",
-              "value100": "139.7"
-            },
-            {
-              "name": "Fett",
-              "shortName": "F",
-              "digitalSignageCode": "F",
-              "unit": "g",
-              "value": "27.9",
-              "value100": "6.5"
-            },
-            {
-              "name": "Gesättigte Fettsäuren",
-              "shortName": "GF",
-              "digitalSignageCode": "GF",
-              "unit": "g",
-              "value": "9.9",
-              "value100": "2.3"
-            },
-            {
-              "name": "Kohlenhydrate",
-              "shortName": "Kh",
-              "digitalSignageCode": "Kh",
-              "unit": "g",
-              "value": "47.3",
-              "value100": "11.0"
-            },
-            {
-              "name": "Zucker",
-              "shortName": "Z",
-              "digitalSignageCode": "Z",
-              "unit": "g",
-              "value": "20.1",
-              "value100": "4.7"
-            },
-            {
-              "name": "Eiweiß",
-              "shortName": "Ew",
-              "digitalSignageCode": "Ew",
-              "unit": "g",
-              "value": "33.7",
-              "value100": "7.8"
-            },
-            {
-              "name": "Salz",
-              "shortName": "S",
-              "digitalSignageCode": "S",
-              "unit": "g",
-              "value": "1.342",
-              "value100": "0.312"
-            },
-            {
-              "name": "Einfach ungesättigte Fett",
-              "shortName": "EuF",
-              "digitalSignageCode": "EuF",
-              "unit": "g",
-              "value": "2.3",
-              "value100": "0.5"
-            },
-            {
-              "name": "Merf.ungesättigte Fettsäu",
-              "shortName": "MgF",
-              "digitalSignageCode": "MgF",
-              "unit": "g",
-              "value": "0.2",
-              "value100": "0.0"
-            },
-            {
-              "name": "Ballststoffe",
-              "shortName": "B",
-              "digitalSignageCode": "B",
-              "unit": "g",
-              "value": "0.2",
-              "value100": "0.0"
-            },
-            {
-              "name": "Vitamine",
-              "shortName": "V",
-              "digitalSignageCode": "V",
-              "unit": "µg",
-              "value": "2280.0",
-              "value100": "530.2"
-            }
-          ],
-          "additives": null,
-          "co2_value": "907.00",
-          "co2_rating": "B",
-          "print_order": "3"
-        },
-        {
-          "id": "2379707",
-          "item_id": "17554",
-          "recipe_id": "8183",
-          "description_de": "planted.kebab | Süßkartoffel | Kräuter-Knoblauch-Joghurt",
-          "description_en": "planted.kebab| Sweet Potato | Herb-Garlic Yoghurt",
-          "category": "COUNTER 4.1 Vegi",
-          "price": "12.00",
-          "price_2": null,
-          "allergens": {
-            "gluten": "Glutenhaltiges Getreide",
-            "schalenfruchte": "Schalenfrüchte und Schalenfruchterzeugnisse",
-            "schwefel": "Schwefeldioxid und Sulfide"
-          },
-          "attributes": {
-            "vegan": "Vegan",
-            "vegetarisch": "Vegetarisch"
-          },
-          "nutrition": [
-            {
-              "name": "Energie",
-              "shortName": "En",
-              "digitalSignageCode": "En",
-              "unit": "kJ",
-              "value": "3365.1",
-              "value100": "524.2"
-            },
-            {
-              "name": "Energie Kilokalorien",
-              "shortName": "kcal",
-              "digitalSignageCode": "kcal",
-              "unit": "kcal",
-              "value": "799.6",
-              "value100": "124.6"
-            },
-            {
-              "name": "Fett",
-              "shortName": "F",
-              "digitalSignageCode": "F",
-              "unit": "g",
-              "value": "27.8",
-              "value100": "4.3"
-            },
-            {
-              "name": "Gesättigte Fettsäuren",
-              "shortName": "GF",
-              "digitalSignageCode": "GF",
-              "unit": "g",
-              "value": "3.3",
-              "value100": "0.5"
-            },
-            {
-              "name": "Kohlenhydrate",
-              "shortName": "Kh",
-              "digitalSignageCode": "Kh",
-              "unit": "g",
-              "value": "102.1",
-              "value100": "15.9"
-            },
-            {
-              "name": "Zucker",
-              "shortName": "Z",
-              "digitalSignageCode": "Z",
-              "unit": "g",
-              "value": "18.3",
-              "value100": "2.9"
-            },
-            {
-              "name": "Eiweiß",
-              "shortName": "Ew",
-              "digitalSignageCode": "Ew",
-              "unit": "g",
-              "value": "31.3",
-              "value100": "4.9"
-            },
-            {
-              "name": "Salz",
-              "shortName": "S",
-              "digitalSignageCode": "S",
-              "unit": "g",
-              "value": "1.829",
-              "value100": "0.285"
-            },
-            {
-              "name": "Einfach ungesättigte Fett",
-              "shortName": "EuF",
-              "digitalSignageCode": "EuF",
-              "unit": "g",
-              "value": "0.1",
-              "value100": "0.0"
-            },
-            {
-              "name": "Merf.ungesättigte Fettsäu",
-              "shortName": "MgF",
-              "digitalSignageCode": "MgF",
-              "unit": "g",
-              "value": "0.6",
-              "value100": "0.1"
-            },
-            {
-              "name": "Ballststoffe",
-              "shortName": "B",
-              "digitalSignageCode": "B",
-              "unit": "g",
-              "value": "8.8",
-              "value100": "1.4"
-            },
-            {
-              "name": "Vitamine",
-              "shortName": "V",
-              "digitalSignageCode": "V",
-              "unit": "µg",
-              "value": "115542.0",
-              "value100": "17997.2"
-            }
-          ],
-          "additives": null,
-          "co2_value": "340.00",
-          "co2_rating": "A",
-          "print_order": "5"
-        }
-      ],
-      "Abendessen": [
-        {
-          "id": "2379708",
-          "item_id": "17558",
-          "recipe_id": "4368",
-          "description_de": "Edamame | Avocado | Chinakohl",
-          "description_en": "Edamame | Avocado | Chinese cabbage",
-          "category": "DINNER BOWL_",
-          "price": "10.00",
-          "price_2": null,
-          "allergens": {
-            "gluten": "Glutenhaltiges Getreide",
-            "soja": "Soja und Sojaerzeugnisse",
-            "erdnuss": "Erdnüsse und Erdnusserzeugnisse",
-            "sesam": "Sesamsamen und Sesamsamenerzeugnisse"
-          },
-          "attributes": {
-            "vegan": "Vegan",
-            "vegetarisch": "Vegetarisch"
-          },
-          "nutrition": [
-            {
-              "name": "Energie",
-              "shortName": "En",
-              "digitalSignageCode": "En",
-              "unit": "kJ",
-              "value": "1257.8",
-              "value100": "381.0"
-            },
-            {
-              "name": "Energie Kilokalorien",
-              "shortName": "kcal",
-              "digitalSignageCode": "kcal",
-              "unit": "kcal",
-              "value": "307.4",
-              "value100": "93.1"
-            },
-            {
-              "name": "Fett",
-              "shortName": "F",
-              "digitalSignageCode": "F",
-              "unit": "g",
-              "value": "4.9",
-              "value100": "1.5"
-            },
-            {
-              "name": "Gesättigte Fettsäuren",
-              "shortName": "GF",
-              "digitalSignageCode": "GF",
-              "unit": "g",
-              "value": "0.6",
-              "value100": "0.2"
-            },
-            {
-              "name": "Kohlenhydrate",
-              "shortName": "Kh",
-              "digitalSignageCode": "Kh",
-              "unit": "g",
-              "value": "60.1",
-              "value100": "18.2"
-            },
-            {
-              "name": "Zucker",
-              "shortName": "Z",
-              "digitalSignageCode": "Z",
-              "unit": "g",
-              "value": "8.4",
-              "value100": "2.5"
-            },
-            {
-              "name": "Eiweiß",
-              "shortName": "Ew",
-              "digitalSignageCode": "Ew",
-              "unit": "g",
-              "value": "4.1",
-              "value100": "1.2"
-            },
-            {
-              "name": "Salz",
-              "shortName": "S",
-              "digitalSignageCode": "S",
-              "unit": "g",
-              "value": "2.560",
-              "value100": "0.775"
-            },
-            {
-              "name": "Einfach ungesättigte Fett",
-              "shortName": "EuF",
-              "digitalSignageCode": "EuF",
-              "unit": "g",
-              "value": "0.0",
-              "value100": "0.0"
-            },
-            {
-              "name": "Merf.ungesättigte Fettsäu",
-              "shortName": "MgF",
-              "digitalSignageCode": "MgF",
-              "unit": "g",
-              "value": "0.1",
-              "value100": "0.0"
-            },
-            {
-              "name": "Ballststoffe",
-              "shortName": "B",
-              "digitalSignageCode": "B",
-              "unit": "g",
-              "value": "3.0",
-              "value100": "0.9"
-            },
-            {
-              "name": "Vitamine",
-              "shortName": "V",
-              "digitalSignageCode": "V",
-              "unit": "µg",
-              "value": "15144.6",
-              "value100": "4587.2"
-            }
-          ],
-          "additives": [
-            {
-              "de": "Phosphat",
-              "en": "Phosphate"
-            },
-            {
-              "de": "Antioxidationsmittel",
-              "en": "Antioxidation"
-            }
-          ],
-          "co2_value": "243.00",
-          "co2_rating": "A",
-          "print_order": "9"
-        },
-        {
-          "id": "2379710",
-          "item_id": "17559",
-          "recipe_id": "5155",
-          "description_de": "Schweinefilet | Glasierte Äpfel | Kartoffelmousseline",
-          "description_en": "Pork tenderloin | Glazed apples | Potato mousseline",
-          "category": "DINNER Meat_17:00-19:00",
-          "price": "12.00",
-          "price_2": null,
-          "allergens": {
-            "gluten": "Glutenhaltiges Getreide",
-            "milch": "Milch und Milcherzeugnisse",
-            "sellerie": "Sellerie und Sellerieerzeugnisse",
-            "senf": "Senf und Senferzeugnisse",
-            "schwefel": "Schwefeldioxid und Sulfide"
-          },
-          "attributes": {
-            "schwein": "Schwein"
-          },
-          "nutrition": [
-            {
-              "name": "Energie",
-              "shortName": "En",
-              "digitalSignageCode": "En",
-              "unit": "kJ",
-              "value": "2339.1",
-              "value100": "424.5"
-            },
-            {
-              "name": "Energie Kilokalorien",
-              "shortName": "kcal",
-              "digitalSignageCode": "kcal",
-              "unit": "kcal",
-              "value": "559.1",
-              "value100": "101.5"
-            },
-            {
-              "name": "Fett",
-              "shortName": "F",
-              "digitalSignageCode": "F",
-              "unit": "g",
-              "value": "17.1",
-              "value100": "3.1"
-            },
-            {
-              "name": "Gesättigte Fettsäuren",
-              "shortName": "GF",
-              "digitalSignageCode": "GF",
-              "unit": "g",
-              "value": "8.7",
-              "value100": "1.6"
-            },
-            {
-              "name": "Kohlenhydrate",
-              "shortName": "Kh",
-              "digitalSignageCode": "Kh",
-              "unit": "g",
-              "value": "33.2",
-              "value100": "6.0"
-            },
-            {
-              "name": "Zucker",
-              "shortName": "Z",
-              "digitalSignageCode": "Z",
-              "unit": "g",
-              "value": "12.0",
-              "value100": "2.2"
-            },
-            {
-              "name": "Eiweiß",
-              "shortName": "Ew",
-              "digitalSignageCode": "Ew",
-              "unit": "g",
-              "value": "64.7",
-              "value100": "11.7"
-            },
-            {
-              "name": "Salz",
-              "shortName": "S",
-              "digitalSignageCode": "S",
-              "unit": "g",
-              "value": "2.399",
-              "value100": "0.435"
-            },
-            {
-              "name": "Einfach ungesättigte Fett",
-              "shortName": "EuF",
-              "digitalSignageCode": "EuF",
-              "unit": "g",
-              "value": "4.3",
-              "value100": "0.8"
-            },
-            {
-              "name": "Merf.ungesättigte Fettsäu",
-              "shortName": "MgF",
-              "digitalSignageCode": "MgF",
-              "unit": "g",
-              "value": "0.7",
-              "value100": "0.1"
-            },
-            {
-              "name": "Ballststoffe",
-              "shortName": "B",
-              "digitalSignageCode": "B",
-              "unit": "g",
-              "value": "5.9",
-              "value100": "1.1"
-            },
-            {
-              "name": "Vitamine",
-              "shortName": "V",
-              "digitalSignageCode": "V",
-              "unit": "µg",
-              "value": "105309.1",
-              "value100": "19112.3"
-            }
-          ],
-          "additives": [
-            {
-              "de": "Alkohol",
-              "en": "Alcohol"
-            }
-          ],
-          "co2_value": "3823.00",
-          "co2_rating": "D",
-          "print_order": "10"
-        },
-        {
-          "id": "2379712",
-          "item_id": "17561",
-          "recipe_id": "8183",
-          "description_de": "planted.kebab | Süßkartoffel | Kräuter-Knoblauch-Joghurt",
-          "description_en": "planted.kebab| Sweet Potato | Herb-Garlic Yoghurt",
-          "category": "DINNER Vegi/Vegan_17:00-19:00",
-          "price": "12.00",
-          "price_2": null,
-          "allergens": {
-            "gluten": "Glutenhaltiges Getreide",
-            "schalenfruchte": "Schalenfrüchte und Schalenfruchterzeugnisse",
-            "schwefel": "Schwefeldioxid und Sulfide"
-          },
-          "attributes": {
-            "vegan": "Vegan",
-            "vegetarisch": "Vegetarisch"
-          },
-          "nutrition": [
-            {
-              "name": "Energie",
-              "shortName": "En",
-              "digitalSignageCode": "En",
-              "unit": "kJ",
-              "value": "3365.1",
-              "value100": "524.2"
-            },
-            {
-              "name": "Energie Kilokalorien",
-              "shortName": "kcal",
-              "digitalSignageCode": "kcal",
-              "unit": "kcal",
-              "value": "799.6",
-              "value100": "124.6"
-            },
-            {
-              "name": "Fett",
-              "shortName": "F",
-              "digitalSignageCode": "F",
-              "unit": "g",
-              "value": "27.8",
-              "value100": "4.3"
-            },
-            {
-              "name": "Gesättigte Fettsäuren",
-              "shortName": "GF",
-              "digitalSignageCode": "GF",
-              "unit": "g",
-              "value": "3.3",
-              "value100": "0.5"
-            },
-            {
-              "name": "Kohlenhydrate",
-              "shortName": "Kh",
-              "digitalSignageCode": "Kh",
-              "unit": "g",
-              "value": "102.1",
-              "value100": "15.9"
-            },
-            {
-              "name": "Zucker",
-              "shortName": "Z",
-              "digitalSignageCode": "Z",
-              "unit": "g",
-              "value": "18.3",
-              "value100": "2.9"
-            },
-            {
-              "name": "Eiweiß",
-              "shortName": "Ew",
-              "digitalSignageCode": "Ew",
-              "unit": "g",
-              "value": "31.3",
-              "value100": "4.9"
-            },
-            {
-              "name": "Salz",
-              "shortName": "S",
-              "digitalSignageCode": "S",
-              "unit": "g",
-              "value": "1.829",
-              "value100": "0.285"
-            },
-            {
-              "name": "Einfach ungesättigte Fett",
-              "shortName": "EuF",
-              "digitalSignageCode": "EuF",
-              "unit": "g",
-              "value": "0.1",
-              "value100": "0.0"
-            },
-            {
-              "name": "Merf.ungesättigte Fettsäu",
-              "shortName": "MgF",
-              "digitalSignageCode": "MgF",
-              "unit": "g",
-              "value": "0.6",
-              "value100": "0.1"
-            },
-            {
-              "name": "Ballststoffe",
-              "shortName": "B",
-              "digitalSignageCode": "B",
-              "unit": "g",
-              "value": "8.8",
-              "value100": "1.4"
-            },
-            {
-              "name": "Vitamine",
-              "shortName": "V",
-              "digitalSignageCode": "V",
-              "unit": "µg",
-              "value": "115542.0",
-              "value100": "17997.2"
-            }
-          ],
-          "additives": null,
-          "co2_value": "340.00",
-          "co2_rating": "A",
-          "print_order": "12"
-        }
-      ]
-    },
     "2025-07-01": {
       "Mittagessen": [
         {
-          "id": "2379714",
+          "id": "2403096",
           "item_id": "17549",
           "recipe_id": "4082",
           "description_de": "Hähnchensalat | Ei | Bacon",
@@ -1026,7 +144,7 @@
           "print_order": "0"
         },
         {
-          "id": "2379715",
+          "id": "2403097",
           "item_id": "17550",
           "recipe_id": "5155",
           "description_de": "Schweinefilet | Glasierte Äpfel | Kartoffelmousseline",
@@ -1153,11 +271,11 @@
           "print_order": "1"
         },
         {
-          "id": "2379716",
+          "id": "2403098",
           "item_id": "17552",
           "recipe_id": "8922",
-          "description_de": "Lachsfilet | Pesto - Gnocchi | Zuckerschoten",
-          "description_en": "Salmon | Pesto - Gnocchi | Sugar snap peas",
+          "description_de": "Lachsfilet | Pesto-Gnocchi | Zuckerschoten",
+          "description_en": "Salmon | Pesto Gnocchi | Sugar snap peas",
           "category": "COUNTER 3.1 Fish",
           "price": "12.00",
           "price_2": null,
@@ -1271,7 +389,7 @@
           "print_order": "3"
         },
         {
-          "id": "2379717",
+          "id": "2403099",
           "item_id": "17554",
           "recipe_id": "4483",
           "description_de": "Rote-Bete-Falafel | Curry | Basmati",
@@ -1392,7 +510,7 @@
       ],
       "Abendessen": [
         {
-          "id": "2379718",
+          "id": "2403100",
           "item_id": "17558",
           "recipe_id": "4082",
           "description_de": "Hähnchensalat | Ei | Bacon",
@@ -1533,11 +651,11 @@
           "print_order": "9"
         },
         {
-          "id": "2379720",
+          "id": "2403102",
           "item_id": "17560",
           "recipe_id": "8922",
-          "description_de": "Lachsfilet | Pesto - Gnocchi | Zuckerschoten",
-          "description_en": "Salmon | Pesto - Gnocchi | Sugar snap peas",
+          "description_de": "Lachsfilet | Pesto-Gnocchi | Zuckerschoten",
+          "description_en": "Salmon | Pesto Gnocchi | Sugar snap peas",
           "category": "DINNER Fish_17:00-19:00",
           "price": "12.00",
           "price_2": null,
@@ -1651,7 +769,7 @@
           "print_order": "11"
         },
         {
-          "id": "2379722",
+          "id": "2403104",
           "item_id": "17561",
           "recipe_id": "4483",
           "description_de": "Rote-Bete-Falafel | Curry | Basmati",
@@ -1774,7 +892,7 @@
     "2025-07-02": {
       "Mittagessen": [
         {
-          "id": "2379724",
+          "id": "2403106",
           "item_id": "17549",
           "recipe_id": "7079",
           "description_de": "Feta | Wassermelone | Gelbe Paprika",
@@ -1895,7 +1013,7 @@
           "print_order": "0"
         },
         {
-          "id": "2379725",
+          "id": "2403107",
           "item_id": "17550",
           "recipe_id": "5155",
           "description_de": "Schweinefilet | Glasierte Äpfel | Kartoffelmousseline",
@@ -2022,7 +1140,7 @@
           "print_order": "1"
         },
         {
-          "id": "2379726",
+          "id": "2403108",
           "item_id": "17552",
           "recipe_id": "7711",
           "description_de": "Bunte Dal | Curry-Zander | Kokos",
@@ -2140,7 +1258,7 @@
           "print_order": "3"
         },
         {
-          "id": "2379727",
+          "id": "2403109",
           "item_id": "17554",
           "recipe_id": "4270",
           "description_de": "Tofu | Buntes Gemüse | Kurkuma-Reis",
@@ -2273,7 +1391,7 @@
       ],
       "Abendessen": [
         {
-          "id": "2379728",
+          "id": "2403110",
           "item_id": "17558",
           "recipe_id": "7079",
           "description_de": "Feta | Wassermelone | Gelbe Paprika",
@@ -2394,7 +1512,7 @@
           "print_order": "9"
         },
         {
-          "id": "2379730",
+          "id": "2403112",
           "item_id": "17559",
           "recipe_id": "5155",
           "description_de": "Schweinefilet | Glasierte Äpfel | Kartoffelmousseline",
@@ -2521,7 +1639,7 @@
           "print_order": "10"
         },
         {
-          "id": "2379732",
+          "id": "2403114",
           "item_id": "17561",
           "recipe_id": "4270",
           "description_de": "Tofu | Buntes Gemüse | Kurkuma-Reis",
@@ -2656,7 +1774,7 @@
     "2025-07-03": {
       "Mittagessen": [
         {
-          "id": "2379734",
+          "id": "2403116",
           "item_id": "17549",
           "recipe_id": "8429",
           "description_de": "Mexikanischer Lachs | Geräucherte Paprika | Limette",
@@ -2774,10 +1892,10 @@
           "print_order": "0"
         },
         {
-          "id": "2379735",
+          "id": "2403117",
           "item_id": "17550",
           "recipe_id": "2886",
-          "description_de": "Maishähnchenkeule | Sommergemüse | Kerbelkartoffel",
+          "description_de": "Maishähnchen | Sommergemüse | Kerbelkartoffel",
           "description_en": "Corn fed Chicken | Summer vegetables | chervil potatoes",
           "category": "COUNTER 2.1 Meat",
           "price": "7.15",
@@ -2892,7 +2010,7 @@
           "print_order": "1"
         },
         {
-          "id": "2379736",
+          "id": "2403118",
           "item_id": "17552",
           "recipe_id": "7711",
           "description_de": "Bunte Dal | Curry-Zander | Kokos",
@@ -3010,7 +2128,7 @@
           "print_order": "3"
         },
         {
-          "id": "2379737",
+          "id": "2403119",
           "item_id": "17554",
           "recipe_id": "4449",
           "description_de": "Fagottini | Pomodori | Basilikum",
@@ -3132,7 +2250,7 @@
       ],
       "Abendessen": [
         {
-          "id": "2379738",
+          "id": "2403120",
           "item_id": "17558",
           "recipe_id": "8429",
           "description_de": "Mexikanischer Lachs | Geräucherte Paprika | Limette",
@@ -3250,7 +2368,7 @@
           "print_order": "9"
         },
         {
-          "id": "2379740",
+          "id": "2403122",
           "item_id": "17560",
           "recipe_id": "7711",
           "description_de": "Bunte Dal | Curry-Zander | Kokos",
@@ -3368,7 +2486,7 @@
           "print_order": "11"
         },
         {
-          "id": "2379742",
+          "id": "2403124",
           "item_id": "17561",
           "recipe_id": "4449",
           "description_de": "Fagottini | Pomodori | Basilikum",
@@ -3492,7 +2610,7 @@
     "2025-07-04": {
       "Mittagessen": [
         {
-          "id": "2379744",
+          "id": "2403126",
           "item_id": "17549",
           "recipe_id": "6948",
           "description_de": "Süßkartoffeln | Linsen | Chili Hummus",
@@ -3612,10 +2730,10 @@
           "print_order": "0"
         },
         {
-          "id": "2379745",
+          "id": "2403127",
           "item_id": "17550",
           "recipe_id": "2886",
-          "description_de": "Maishähnchenkeule | Sommergemüse | Kerbelkartoffel",
+          "description_de": "Maishähnchen | Sommergemüse | Kerbelkartoffel",
           "description_en": "Corn fed Chicken | Summer vegetables | chervil potatoes",
           "category": "COUNTER 2.1 Meat",
           "price": "7.15",
@@ -3730,7 +2848,7 @@
           "print_order": "1"
         },
         {
-          "id": "2379746",
+          "id": "2403128",
           "item_id": "17552",
           "recipe_id": "7711",
           "description_de": "Bunte Dal | Curry-Zander | Kokos",
@@ -3848,7 +2966,7 @@
           "print_order": "3"
         },
         {
-          "id": "2379747",
+          "id": "2403129",
           "item_id": "17554",
           "recipe_id": "7864",
           "description_de": "Orzo | Zucchini | Rucola Pistazien Pesto",
@@ -3977,7 +3095,7 @@
       ],
       "Abendessen": [
         {
-          "id": "2379748",
+          "id": "2403130",
           "item_id": "17558",
           "recipe_id": "6948",
           "description_de": "Süßkartoffeln | Linsen | Chili Hummus",
@@ -4097,10 +3215,10 @@
           "print_order": "9"
         },
         {
-          "id": "2379750",
+          "id": "2403132",
           "item_id": "17559",
           "recipe_id": "2886",
-          "description_de": "Maishähnchenkeule | Sommergemüse | Kerbelkartoffel",
+          "description_de": "Maishähnchen | Sommergemüse | Kerbelkartoffel",
           "description_en": "Corn fed Chicken | Summer vegetables | chervil potatoes",
           "category": "DINNER Meat_17:00-19:00",
           "price": "7.15",
@@ -4215,7 +3333,7 @@
           "print_order": "10"
         },
         {
-          "id": "2379752",
+          "id": "2403134",
           "item_id": "17561",
           "recipe_id": "7864",
           "description_de": "Orzo | Zucchini | Rucola Pistazien Pesto",
@@ -4346,7 +3464,7 @@
     "2025-07-05": {
       "Abendessen": [
         {
-          "id": "2379754",
+          "id": "2403136",
           "item_id": "17563",
           "recipe_id": "8231",
           "description_de": "Kalbsragout | Pappardelle | Zitronenthymian",
@@ -4471,7 +3589,7 @@
           "print_order": "14"
         },
         {
-          "id": "2379756",
+          "id": "2403138",
           "item_id": "17565",
           "recipe_id": "7318",
           "description_de": "Peperonata Ravioli | Balsamico-Tomate | Hüttenkäse | Basilikum",
@@ -4598,7 +3716,7 @@
           "print_order": "16"
         },
         {
-          "id": "2379758",
+          "id": "2403140",
           "item_id": "17566",
           "recipe_id": "6267",
           "description_de": "Königsberger Klopse | Rote Bete Salat | Kartoffelpüree",
@@ -4734,7 +3852,7 @@
     "2025-07-06": {
       "Abendessen": [
         {
-          "id": "2379760",
+          "id": "2403142",
           "item_id": "17558",
           "recipe_id": "8907",
           "description_de": "Köfte | Bulgursalat | Joghurtdip",
@@ -4851,7 +3969,7 @@
           "print_order": "9"
         },
         {
-          "id": "2379762",
+          "id": "2403144",
           "item_id": "17864",
           "recipe_id": "4271",
           "description_de": "Entenbrust | Basmati | Asiatischer Gurkensalat",
@@ -4969,7 +4087,7 @@
           "print_order": "18"
         },
         {
-          "id": "2379764",
+          "id": "2403146",
           "item_id": "17866",
           "recipe_id": "4564",
           "description_de": "Kichererbsen Masala | Basmati | Papadam",
@@ -5105,7 +4223,7 @@
     "2025-07-07": {
       "Mittagessen": [
         {
-          "id": "2379766",
+          "id": "2403148",
           "item_id": "17549",
           "recipe_id": "4414",
           "description_de": "Blumenkohl-Tabouleh | Linsen | Geröstete Kichererbsen",
@@ -5228,7 +4346,7 @@
           "print_order": "0"
         },
         {
-          "id": "2379767",
+          "id": "2403149",
           "item_id": "17550",
           "recipe_id": "7166",
           "description_de": "Fusilloni | Salsiccia | Grana Padano",
@@ -5349,7 +4467,7 @@
           "print_order": "1"
         },
         {
-          "id": "2379768",
+          "id": "2403150",
           "item_id": "17552",
           "recipe_id": "7089",
           "description_de": "Kabeljau | Lauwarmer Kartoffel-Thymiansalat | Parmesanbrösel",
@@ -5474,7 +4592,7 @@
           "print_order": "3"
         },
         {
-          "id": "2379769",
+          "id": "2403151",
           "item_id": "17554",
           "recipe_id": "8226",
           "description_de": "Süßkartoffelgnocchi | Brokkoli | Schwarzer Knoblauch",
@@ -5602,7 +4720,7 @@
       ],
       "Abendessen": [
         {
-          "id": "2379770",
+          "id": "2403152",
           "item_id": "17558",
           "recipe_id": "4414",
           "description_de": "Blumenkohl-Tabouleh | Linsen | Geröstete Kichererbsen",
@@ -5725,7 +4843,7 @@
           "print_order": "9"
         },
         {
-          "id": "2379772",
+          "id": "2403154",
           "item_id": "17559",
           "recipe_id": "7166",
           "description_de": "Fusilloni | Salsiccia | Grana Padano",
@@ -5846,7 +4964,7 @@
           "print_order": "10"
         },
         {
-          "id": "2379774",
+          "id": "2403156",
           "item_id": "17561",
           "recipe_id": "8226",
           "description_de": "Süßkartoffelgnocchi | Brokkoli | Schwarzer Knoblauch",
@@ -5976,7 +5094,7 @@
     "2025-07-08": {
       "Mittagessen": [
         {
-          "id": "2379776",
+          "id": "2403158",
           "item_id": "17549",
           "recipe_id": "8039",
           "description_de": "Bulgur Salat | Schweinefilet | Curry",
@@ -6098,7 +5216,7 @@
           "print_order": "0"
         },
         {
-          "id": "2379777",
+          "id": "2403159",
           "item_id": "17550",
           "recipe_id": "7166",
           "description_de": "Fusilloni | Salsiccia | Grana Padano",
@@ -6219,7 +5337,7 @@
           "print_order": "1"
         },
         {
-          "id": "2379778",
+          "id": "2403160",
           "item_id": "17552",
           "recipe_id": "7089",
           "description_de": "Kabeljau | Lauwarmer Kartoffel-Thymiansalat | Parmesanbrösel",
@@ -6344,7 +5462,7 @@
           "print_order": "3"
         },
         {
-          "id": "2379779",
+          "id": "2403161",
           "item_id": "17554",
           "recipe_id": "2998",
           "description_de": "Udon Nudeln | Chinakohl | Champignon  | Chili",
@@ -6478,7 +5596,7 @@
       ],
       "Abendessen": [
         {
-          "id": "2379780",
+          "id": "2403162",
           "item_id": "17558",
           "recipe_id": "8039",
           "description_de": "Bulgur Salat | Schweinefilet | Curry",
@@ -6600,7 +5718,7 @@
           "print_order": "9"
         },
         {
-          "id": "2379782",
+          "id": "2403164",
           "item_id": "17560",
           "recipe_id": "7089",
           "description_de": "Kabeljau | Lauwarmer Kartoffel-Thymiansalat | Parmesanbrösel",
@@ -6725,7 +5843,7 @@
           "print_order": "11"
         },
         {
-          "id": "2379784",
+          "id": "2403166",
           "item_id": "17561",
           "recipe_id": "5163",
           "description_de": "Kartoffelcurry | Paprika | Joghurt",
@@ -6849,7 +5967,7 @@
     "2025-07-09": {
       "Mittagessen": [
         {
-          "id": "2379786",
+          "id": "2403168",
           "item_id": "17549",
           "recipe_id": "8336",
           "description_de": "Inka Tomate | Tofu | marinierter Chinakohl",
@@ -6968,7 +6086,7 @@
           "print_order": "0"
         },
         {
-          "id": "2379787",
+          "id": "2403169",
           "item_id": "17550",
           "recipe_id": "7367",
           "description_de": "Rind Chop Suey | Ingwer Reis | Kroepoek",
@@ -7098,7 +6216,7 @@
           "print_order": "1"
         },
         {
-          "id": "2379788",
+          "id": "2403170",
           "item_id": "17552",
           "recipe_id": "7089",
           "description_de": "Kabeljau | Lauwarmer Kartoffel-Thymiansalat | Parmesanbrösel",
@@ -7223,7 +6341,7 @@
           "print_order": "3"
         },
         {
-          "id": "2379789",
+          "id": "2403171",
           "item_id": "17554",
           "recipe_id": "5163",
           "description_de": "Kartoffelcurry | Paprika | Joghurt",
@@ -7345,7 +6463,7 @@
       ],
       "Abendessen": [
         {
-          "id": "2379790",
+          "id": "2403172",
           "item_id": "17558",
           "recipe_id": "8336",
           "description_de": "Inka Tomate | Tofu | marinierter Chinakohl",
@@ -7464,7 +6582,7 @@
           "print_order": "9"
         },
         {
-          "id": "2379792",
+          "id": "2403174",
           "item_id": "17559",
           "recipe_id": "7367",
           "description_de": "Rind Chop Suey | Ingwer Reis | Kroepoek",
@@ -7594,7 +6712,7 @@
           "print_order": "10"
         },
         {
-          "id": "2379794",
+          "id": "2403176",
           "item_id": "17561",
           "recipe_id": "2998",
           "description_de": "Udon Nudeln| Shiitake | Chili",
@@ -7730,7 +6848,7 @@
     "2025-07-10": {
       "Mittagessen": [
         {
-          "id": "2379796",
+          "id": "2403178",
           "item_id": "17549",
           "recipe_id": "7881",
           "description_de": "Pute | Gyros | Tzatziki",
@@ -7857,7 +6975,7 @@
           "print_order": "0"
         },
         {
-          "id": "2379797",
+          "id": "2403179",
           "item_id": "17550",
           "recipe_id": "7367",
           "description_de": "Rind Chop Suey | Ingwer Reis | Kroepoek",
@@ -7987,7 +7105,7 @@
           "print_order": "1"
         },
         {
-          "id": "2379798",
+          "id": "2403180",
           "item_id": "17552",
           "recipe_id": "8806",
           "description_de": "Festonati | Lachs | Parmesan",
@@ -8105,7 +7223,7 @@
           "print_order": "3"
         },
         {
-          "id": "2379799",
+          "id": "2403181",
           "item_id": "17554",
           "recipe_id": "8221",
           "description_de": "Naan Brot | Koriander-Möhren | Cashew-Creme",
@@ -8237,7 +7355,7 @@
       ],
       "Abendessen": [
         {
-          "id": "2379800",
+          "id": "2403182",
           "item_id": "17558",
           "recipe_id": "7881",
           "description_de": "Pute | Gyros | Tzatziki",
@@ -8364,7 +7482,7 @@
           "print_order": "9"
         },
         {
-          "id": "2379802",
+          "id": "2403184",
           "item_id": "17560",
           "recipe_id": "8806",
           "description_de": "Festonati | Lachs | Parmesan",
@@ -8482,7 +7600,7 @@
           "print_order": "11"
         },
         {
-          "id": "2379804",
+          "id": "2403186",
           "item_id": "17561",
           "recipe_id": "8221",
           "description_de": "Naan Brot | Koriander-Möhren | Cashew-Creme",
@@ -8616,7 +7734,7 @@
     "2025-07-11": {
       "Mittagessen": [
         {
-          "id": "2379806",
+          "id": "2403188",
           "item_id": "17549",
           "recipe_id": "6352",
           "description_de": "Quinoabratling | Avocado | Estragon",
@@ -8746,7 +7864,7 @@
           "print_order": "0"
         },
         {
-          "id": "2379807",
+          "id": "2403189",
           "item_id": "17550",
           "recipe_id": "7367",
           "description_de": "Rind Chop Suey | Ingwer Reis | Kroepoek",
@@ -8876,7 +7994,7 @@
           "print_order": "1"
         },
         {
-          "id": "2379808",
+          "id": "2403190",
           "item_id": "17552",
           "recipe_id": "8806",
           "description_de": "Festonati | Lachs | Parmesan",
@@ -8994,7 +8112,7 @@
           "print_order": "3"
         },
         {
-          "id": "2379809",
+          "id": "2403191",
           "item_id": "17554",
           "recipe_id": "6411",
           "description_de": "Pulled Pilz Burger | Ofenkartoffeln | Paprikamayo",
@@ -9117,7 +8235,7 @@
       ],
       "Abendessen": [
         {
-          "id": "2379810",
+          "id": "2403192",
           "item_id": "17558",
           "recipe_id": "6352",
           "description_de": "Quinoabratling | Avocado | Estragon",
@@ -9247,7 +8365,7 @@
           "print_order": "9"
         },
         {
-          "id": "2379812",
+          "id": "2403194",
           "item_id": "17559",
           "recipe_id": "7367",
           "description_de": "Rind Chop Suey | Ingwer Reis | Kroepoek",
@@ -9377,7 +8495,7 @@
           "print_order": "10"
         },
         {
-          "id": "2379814",
+          "id": "2403196",
           "item_id": "17561",
           "recipe_id": "6411",
           "description_de": "Pulled Pilz Burger | Ofenkartoffeln | Paprikamayo",
@@ -9502,7 +8620,7 @@
     "2025-07-14": {
       "Mittagessen": [
         {
-          "id": "2379816",
+          "id": "2403198",
           "item_id": "17549",
           "recipe_id": "8324",
           "description_de": "Reisnudeln | Sriracha Tofu | Erdnuss-Ingwersauce",
@@ -9633,7 +8751,7 @@
           "print_order": "0"
         },
         {
-          "id": "2379817",
+          "id": "2403199",
           "item_id": "17550",
           "recipe_id": "8359",
           "description_de": "Entenbrust | Lauwarmer Bulgursalat | Cranberry",
@@ -9757,7 +8875,7 @@
           "print_order": "1"
         },
         {
-          "id": "2379818",
+          "id": "2403200",
           "item_id": "17552",
           "recipe_id": "2891",
           "description_de": "Doradenfilet | Kartoffel | Blumenkohl | Safranschaum",
@@ -9876,7 +8994,7 @@
           "print_order": "3"
         },
         {
-          "id": "2379819",
+          "id": "2403201",
           "item_id": "17554",
           "recipe_id": "4482",
           "description_de": "Kräutergnocchi | Paprika | Lauchzwiebeln",
@@ -9997,7 +9115,7 @@
       ],
       "Abendessen": [
         {
-          "id": "2379820",
+          "id": "2403202",
           "item_id": "17558",
           "recipe_id": "8324",
           "description_de": "Reisnudeln | Sriracha Tofu | Erdnuss-Ingwersauce",
@@ -10128,7 +9246,7 @@
           "print_order": "9"
         },
         {
-          "id": "2379822",
+          "id": "2403204",
           "item_id": "17559",
           "recipe_id": "8359",
           "description_de": "Entenbrust | Lauwarmer Bulgursalat | Cranberry",
@@ -10252,7 +9370,7 @@
           "print_order": "10"
         },
         {
-          "id": "2379824",
+          "id": "2403206",
           "item_id": "17561",
           "recipe_id": "4482",
           "description_de": "Kräutergnocchi | Paprika | Lauchzwiebeln",
@@ -10367,6 +9485,860 @@
           ],
           "additives": null,
           "co2_value": "376.00",
+          "co2_rating": "A",
+          "print_order": "12"
+        }
+      ]
+    },
+    "2025-07-15": {
+      "Mittagessen": [
+        {
+          "id": "2403208",
+          "item_id": "17549",
+          "recipe_id": "7843",
+          "description_de": "Asia-Kartoffelsalat | Rinderstreifen | Zitronengras",
+          "description_en": "Asian Potato Salad | Fried Beef | Lemongrass",
+          "category": "COUNTER 1.1 Bowls_",
+          "price": "12.00",
+          "price_2": null,
+          "allergens": {
+            "gluten": "Glutenhaltiges Getreide",
+            "fisch": "Fisch und Fischerzeugnisse",
+            "soja": "Soja und Sojaerzeugnisse",
+            "sellerie": "Sellerie und Sellerieerzeugnisse",
+            "schwefel": "Schwefeldioxid und Sulfide"
+          },
+          "attributes": "",
+          "nutrition": [
+            {
+              "name": "Energie",
+              "shortName": "En",
+              "digitalSignageCode": "En",
+              "unit": "kJ",
+              "value": "1699.2",
+              "value100": "354.6"
+            },
+            {
+              "name": "Energie Kilokalorien",
+              "shortName": "kcal",
+              "digitalSignageCode": "kcal",
+              "unit": "kcal",
+              "value": "401.8",
+              "value100": "83.8"
+            },
+            {
+              "name": "Fett",
+              "shortName": "F",
+              "digitalSignageCode": "F",
+              "unit": "g",
+              "value": "13.1",
+              "value100": "2.7"
+            },
+            {
+              "name": "Gesättigte Fettsäuren",
+              "shortName": "GF",
+              "digitalSignageCode": "GF",
+              "unit": "g",
+              "value": "3.9",
+              "value100": "0.8"
+            },
+            {
+              "name": "Kohlenhydrate",
+              "shortName": "Kh",
+              "digitalSignageCode": "Kh",
+              "unit": "g",
+              "value": "42.0",
+              "value100": "8.8"
+            },
+            {
+              "name": "Zucker",
+              "shortName": "Z",
+              "digitalSignageCode": "Z",
+              "unit": "g",
+              "value": "15.6",
+              "value100": "3.3"
+            },
+            {
+              "name": "Eiweiß",
+              "shortName": "Ew",
+              "digitalSignageCode": "Ew",
+              "unit": "g",
+              "value": "27.2",
+              "value100": "5.7"
+            },
+            {
+              "name": "Salz",
+              "shortName": "S",
+              "digitalSignageCode": "S",
+              "unit": "g",
+              "value": "3.417",
+              "value100": "0.713"
+            },
+            {
+              "name": "Einfach ungesättigte Fett",
+              "shortName": "EuF",
+              "digitalSignageCode": "EuF",
+              "unit": "g",
+              "value": "0.1",
+              "value100": "0.0"
+            },
+            {
+              "name": "Merf.ungesättigte Fettsäu",
+              "shortName": "MgF",
+              "digitalSignageCode": "MgF",
+              "unit": "g",
+              "value": "0.2",
+              "value100": "0.0"
+            },
+            {
+              "name": "Ballststoffe",
+              "shortName": "B",
+              "digitalSignageCode": "B",
+              "unit": "g",
+              "value": "3.8",
+              "value100": "0.8"
+            },
+            {
+              "name": "Vitamine",
+              "shortName": "V",
+              "digitalSignageCode": "V",
+              "unit": "µg",
+              "value": "42519.6",
+              "value100": "8873.6"
+            }
+          ],
+          "additives": null,
+          "co2_value": "3703.00",
+          "co2_rating": "D",
+          "print_order": "0"
+        },
+        {
+          "id": "2403209",
+          "item_id": "17550",
+          "recipe_id": "8359",
+          "description_de": "Entenbrust | Lauwarmer Bulgursalat | Cranberry",
+          "description_en": "Duck breast | Warm Bulgur Salad | Canberry",
+          "category": "COUNTER 2.1 Meat",
+          "price": "12.00",
+          "price_2": null,
+          "allergens": {
+            "gluten": "Glutenhaltiges Getreide",
+            "milch": "Milch und Milcherzeugnisse",
+            "sellerie": "Sellerie und Sellerieerzeugnisse",
+            "schwefel": "Schwefeldioxid und Sulfide"
+          },
+          "attributes": "",
+          "nutrition": [
+            {
+              "name": "Energie",
+              "shortName": "En",
+              "digitalSignageCode": "En",
+              "unit": "kJ",
+              "value": "2182.2",
+              "value100": "440.8"
+            },
+            {
+              "name": "Energie Kilokalorien",
+              "shortName": "kcal",
+              "digitalSignageCode": "kcal",
+              "unit": "kcal",
+              "value": "518.2",
+              "value100": "104.7"
+            },
+            {
+              "name": "Fett",
+              "shortName": "F",
+              "digitalSignageCode": "F",
+              "unit": "g",
+              "value": "11.0",
+              "value100": "2.2"
+            },
+            {
+              "name": "Gesättigte Fettsäuren",
+              "shortName": "GF",
+              "digitalSignageCode": "GF",
+              "unit": "g",
+              "value": "2.3",
+              "value100": "0.5"
+            },
+            {
+              "name": "Kohlenhydrate",
+              "shortName": "Kh",
+              "digitalSignageCode": "Kh",
+              "unit": "g",
+              "value": "69.6",
+              "value100": "14.1"
+            },
+            {
+              "name": "Zucker",
+              "shortName": "Z",
+              "digitalSignageCode": "Z",
+              "unit": "g",
+              "value": "12.8",
+              "value100": "2.6"
+            },
+            {
+              "name": "Eiweiß",
+              "shortName": "Ew",
+              "digitalSignageCode": "Ew",
+              "unit": "g",
+              "value": "30.5",
+              "value100": "6.2"
+            },
+            {
+              "name": "Salz",
+              "shortName": "S",
+              "digitalSignageCode": "S",
+              "unit": "g",
+              "value": "0.681",
+              "value100": "0.137"
+            },
+            {
+              "name": "Einfach ungesättigte Fett",
+              "shortName": "EuF",
+              "digitalSignageCode": "EuF",
+              "unit": "g",
+              "value": "0.9",
+              "value100": "0.2"
+            },
+            {
+              "name": "Merf.ungesättigte Fettsäu",
+              "shortName": "MgF",
+              "digitalSignageCode": "MgF",
+              "unit": "g",
+              "value": "0.2",
+              "value100": "0.0"
+            },
+            {
+              "name": "Ballststoffe",
+              "shortName": "B",
+              "digitalSignageCode": "B",
+              "unit": "g",
+              "value": "2.4",
+              "value100": "0.5"
+            },
+            {
+              "name": "Vitamine",
+              "shortName": "V",
+              "digitalSignageCode": "V",
+              "unit": "µg",
+              "value": "38793.4",
+              "value100": "7837.0"
+            }
+          ],
+          "additives": [
+            {
+              "de": "Alkohol",
+              "en": "Alcohol"
+            }
+          ],
+          "co2_value": "1074.00",
+          "co2_rating": "B",
+          "print_order": "1"
+        },
+        {
+          "id": "2403210",
+          "item_id": "17552",
+          "recipe_id": "2891",
+          "description_de": "Doradenfilet | Kartoffel | Blumenkohl | Safranschaum",
+          "description_en": "Sea Bass | Potato | Cauliflower | Safran foam",
+          "category": "COUNTER 3.1 Fish",
+          "price": "12.00",
+          "price_2": null,
+          "allergens": {
+            "fisch": "Fisch und Fischerzeugnisse",
+            "milch": "Milch und Milcherzeugnisse",
+            "sellerie": "Sellerie und Sellerieerzeugnisse",
+            "schwefel": "Schwefeldioxid und Sulfide"
+          },
+          "attributes": "",
+          "nutrition": [
+            {
+              "name": "Energie",
+              "shortName": "En",
+              "digitalSignageCode": "En",
+              "unit": "kJ",
+              "value": "2722.3",
+              "value100": "510.9"
+            },
+            {
+              "name": "Energie Kilokalorien",
+              "shortName": "kcal",
+              "digitalSignageCode": "kcal",
+              "unit": "kcal",
+              "value": "652.4",
+              "value100": "122.4"
+            },
+            {
+              "name": "Fett",
+              "shortName": "F",
+              "digitalSignageCode": "F",
+              "unit": "g",
+              "value": "43.5",
+              "value100": "8.2"
+            },
+            {
+              "name": "Gesättigte Fettsäuren",
+              "shortName": "GF",
+              "digitalSignageCode": "GF",
+              "unit": "g",
+              "value": "15.3",
+              "value100": "2.9"
+            },
+            {
+              "name": "Kohlenhydrate",
+              "shortName": "Kh",
+              "digitalSignageCode": "Kh",
+              "unit": "g",
+              "value": "30.5",
+              "value100": "5.7"
+            },
+            {
+              "name": "Zucker",
+              "shortName": "Z",
+              "digitalSignageCode": "Z",
+              "unit": "g",
+              "value": "11.0",
+              "value100": "2.1"
+            },
+            {
+              "name": "Eiweiß",
+              "shortName": "Ew",
+              "digitalSignageCode": "Ew",
+              "unit": "g",
+              "value": "34.2",
+              "value100": "6.4"
+            },
+            {
+              "name": "Salz",
+              "shortName": "S",
+              "digitalSignageCode": "S",
+              "unit": "g",
+              "value": "1.769",
+              "value100": "0.332"
+            },
+            {
+              "name": "Einfach ungesättigte Fett",
+              "shortName": "EuF",
+              "digitalSignageCode": "EuF",
+              "unit": "g",
+              "value": "2.0",
+              "value100": "0.4"
+            },
+            {
+              "name": "Merf.ungesättigte Fettsäu",
+              "shortName": "MgF",
+              "digitalSignageCode": "MgF",
+              "unit": "g",
+              "value": "0.4",
+              "value100": "0.1"
+            },
+            {
+              "name": "Ballststoffe",
+              "shortName": "B",
+              "digitalSignageCode": "B",
+              "unit": "g",
+              "value": "10.6",
+              "value100": "2.0"
+            },
+            {
+              "name": "Vitamine",
+              "shortName": "V",
+              "digitalSignageCode": "V",
+              "unit": "µg",
+              "value": "88837.6",
+              "value100": "16672.6"
+            }
+          ],
+          "additives": null,
+          "co2_value": "1184.00",
+          "co2_rating": "B",
+          "print_order": "3"
+        },
+        {
+          "id": "2403211",
+          "item_id": "17554",
+          "recipe_id": "4322",
+          "description_de": "Chili sin Carne | Taco | Sojajoghurt",
+          "description_en": "Chilli sin Carne | Taco | Soy Yoghurt",
+          "category": "COUNTER 4.1 Vegi",
+          "price": "9.50",
+          "price_2": null,
+          "allergens": {
+            "gluten": "Glutenhaltiges Getreide",
+            "schalenfruchte": "Schalenfrüchte und Schalenfruchterzeugnisse",
+            "soja": "Soja und Sojaerzeugnisse",
+            "erdnuss": "Erdnüsse und Erdnusserzeugnisse",
+            "sellerie": "Sellerie und Sellerieerzeugnisse"
+          },
+          "attributes": {
+            "vegan": "Vegan",
+            "vegetarisch": "Vegetarisch"
+          },
+          "nutrition": [
+            {
+              "name": "Energie",
+              "shortName": "En",
+              "digitalSignageCode": "En",
+              "unit": "kJ",
+              "value": "2753.8",
+              "value100": "504.3"
+            },
+            {
+              "name": "Energie Kilokalorien",
+              "shortName": "kcal",
+              "digitalSignageCode": "kcal",
+              "unit": "kcal",
+              "value": "653.5",
+              "value100": "119.7"
+            },
+            {
+              "name": "Fett",
+              "shortName": "F",
+              "digitalSignageCode": "F",
+              "unit": "g",
+              "value": "8.4",
+              "value100": "1.5"
+            },
+            {
+              "name": "Gesättigte Fettsäuren",
+              "shortName": "GF",
+              "digitalSignageCode": "GF",
+              "unit": "g",
+              "value": "1.4",
+              "value100": "0.2"
+            },
+            {
+              "name": "Kohlenhydrate",
+              "shortName": "Kh",
+              "digitalSignageCode": "Kh",
+              "unit": "g",
+              "value": "107.7",
+              "value100": "19.7"
+            },
+            {
+              "name": "Zucker",
+              "shortName": "Z",
+              "digitalSignageCode": "Z",
+              "unit": "g",
+              "value": "14.7",
+              "value100": "2.7"
+            },
+            {
+              "name": "Eiweiß",
+              "shortName": "Ew",
+              "digitalSignageCode": "Ew",
+              "unit": "g",
+              "value": "30.3",
+              "value100": "5.6"
+            },
+            {
+              "name": "Salz",
+              "shortName": "S",
+              "digitalSignageCode": "S",
+              "unit": "g",
+              "value": "1.335",
+              "value100": "0.244"
+            },
+            {
+              "name": "Einfach ungesättigte Fett",
+              "shortName": "EuF",
+              "digitalSignageCode": "EuF",
+              "unit": "g",
+              "value": "0.1",
+              "value100": "0.0"
+            },
+            {
+              "name": "Merf.ungesättigte Fettsäu",
+              "shortName": "MgF",
+              "digitalSignageCode": "MgF",
+              "unit": "g",
+              "value": "0.3",
+              "value100": "0.1"
+            },
+            {
+              "name": "Ballststoffe",
+              "shortName": "B",
+              "digitalSignageCode": "B",
+              "unit": "g",
+              "value": "9.3",
+              "value100": "1.7"
+            },
+            {
+              "name": "Vitamine",
+              "shortName": "V",
+              "digitalSignageCode": "V",
+              "unit": "µg",
+              "value": "82575.3",
+              "value100": "15123.2"
+            }
+          ],
+          "additives": null,
+          "co2_value": "709.00",
+          "co2_rating": "A",
+          "print_order": "5"
+        }
+      ],
+      "Abendessen": [
+        {
+          "id": "2403212",
+          "item_id": "17558",
+          "recipe_id": "7843",
+          "description_de": "Asia-Kartoffelsalat | Rinderstreifen | Zitronengras",
+          "description_en": "Asian Potato Salad | Fried Beef | Lemongrass",
+          "category": "DINNER BOWL_",
+          "price": "12.00",
+          "price_2": null,
+          "allergens": {
+            "gluten": "Glutenhaltiges Getreide",
+            "fisch": "Fisch und Fischerzeugnisse",
+            "soja": "Soja und Sojaerzeugnisse",
+            "sellerie": "Sellerie und Sellerieerzeugnisse",
+            "schwefel": "Schwefeldioxid und Sulfide"
+          },
+          "attributes": "",
+          "nutrition": [
+            {
+              "name": "Energie",
+              "shortName": "En",
+              "digitalSignageCode": "En",
+              "unit": "kJ",
+              "value": "1699.2",
+              "value100": "354.6"
+            },
+            {
+              "name": "Energie Kilokalorien",
+              "shortName": "kcal",
+              "digitalSignageCode": "kcal",
+              "unit": "kcal",
+              "value": "401.8",
+              "value100": "83.8"
+            },
+            {
+              "name": "Fett",
+              "shortName": "F",
+              "digitalSignageCode": "F",
+              "unit": "g",
+              "value": "13.1",
+              "value100": "2.7"
+            },
+            {
+              "name": "Gesättigte Fettsäuren",
+              "shortName": "GF",
+              "digitalSignageCode": "GF",
+              "unit": "g",
+              "value": "3.9",
+              "value100": "0.8"
+            },
+            {
+              "name": "Kohlenhydrate",
+              "shortName": "Kh",
+              "digitalSignageCode": "Kh",
+              "unit": "g",
+              "value": "42.0",
+              "value100": "8.8"
+            },
+            {
+              "name": "Zucker",
+              "shortName": "Z",
+              "digitalSignageCode": "Z",
+              "unit": "g",
+              "value": "15.6",
+              "value100": "3.3"
+            },
+            {
+              "name": "Eiweiß",
+              "shortName": "Ew",
+              "digitalSignageCode": "Ew",
+              "unit": "g",
+              "value": "27.2",
+              "value100": "5.7"
+            },
+            {
+              "name": "Salz",
+              "shortName": "S",
+              "digitalSignageCode": "S",
+              "unit": "g",
+              "value": "3.417",
+              "value100": "0.713"
+            },
+            {
+              "name": "Einfach ungesättigte Fett",
+              "shortName": "EuF",
+              "digitalSignageCode": "EuF",
+              "unit": "g",
+              "value": "0.1",
+              "value100": "0.0"
+            },
+            {
+              "name": "Merf.ungesättigte Fettsäu",
+              "shortName": "MgF",
+              "digitalSignageCode": "MgF",
+              "unit": "g",
+              "value": "0.2",
+              "value100": "0.0"
+            },
+            {
+              "name": "Ballststoffe",
+              "shortName": "B",
+              "digitalSignageCode": "B",
+              "unit": "g",
+              "value": "3.8",
+              "value100": "0.8"
+            },
+            {
+              "name": "Vitamine",
+              "shortName": "V",
+              "digitalSignageCode": "V",
+              "unit": "µg",
+              "value": "42519.6",
+              "value100": "8873.6"
+            }
+          ],
+          "additives": null,
+          "co2_value": "3703.00",
+          "co2_rating": "D",
+          "print_order": "9"
+        },
+        {
+          "id": "2403214",
+          "item_id": "17560",
+          "recipe_id": "2891",
+          "description_de": "Doradenfilet | Kartoffel | Blumenkohl | Safranschaum",
+          "description_en": "Sea Bass | Potato | Cauliflower | Safran foam",
+          "category": "DINNER Fish_17:00-19:00",
+          "price": "12.00",
+          "price_2": null,
+          "allergens": {
+            "fisch": "Fisch und Fischerzeugnisse",
+            "milch": "Milch und Milcherzeugnisse",
+            "sellerie": "Sellerie und Sellerieerzeugnisse",
+            "schwefel": "Schwefeldioxid und Sulfide"
+          },
+          "attributes": "",
+          "nutrition": [
+            {
+              "name": "Energie",
+              "shortName": "En",
+              "digitalSignageCode": "En",
+              "unit": "kJ",
+              "value": "2722.3",
+              "value100": "510.9"
+            },
+            {
+              "name": "Energie Kilokalorien",
+              "shortName": "kcal",
+              "digitalSignageCode": "kcal",
+              "unit": "kcal",
+              "value": "652.4",
+              "value100": "122.4"
+            },
+            {
+              "name": "Fett",
+              "shortName": "F",
+              "digitalSignageCode": "F",
+              "unit": "g",
+              "value": "43.5",
+              "value100": "8.2"
+            },
+            {
+              "name": "Gesättigte Fettsäuren",
+              "shortName": "GF",
+              "digitalSignageCode": "GF",
+              "unit": "g",
+              "value": "15.3",
+              "value100": "2.9"
+            },
+            {
+              "name": "Kohlenhydrate",
+              "shortName": "Kh",
+              "digitalSignageCode": "Kh",
+              "unit": "g",
+              "value": "30.5",
+              "value100": "5.7"
+            },
+            {
+              "name": "Zucker",
+              "shortName": "Z",
+              "digitalSignageCode": "Z",
+              "unit": "g",
+              "value": "11.0",
+              "value100": "2.1"
+            },
+            {
+              "name": "Eiweiß",
+              "shortName": "Ew",
+              "digitalSignageCode": "Ew",
+              "unit": "g",
+              "value": "34.2",
+              "value100": "6.4"
+            },
+            {
+              "name": "Salz",
+              "shortName": "S",
+              "digitalSignageCode": "S",
+              "unit": "g",
+              "value": "1.769",
+              "value100": "0.332"
+            },
+            {
+              "name": "Einfach ungesättigte Fett",
+              "shortName": "EuF",
+              "digitalSignageCode": "EuF",
+              "unit": "g",
+              "value": "2.0",
+              "value100": "0.4"
+            },
+            {
+              "name": "Merf.ungesättigte Fettsäu",
+              "shortName": "MgF",
+              "digitalSignageCode": "MgF",
+              "unit": "g",
+              "value": "0.4",
+              "value100": "0.1"
+            },
+            {
+              "name": "Ballststoffe",
+              "shortName": "B",
+              "digitalSignageCode": "B",
+              "unit": "g",
+              "value": "10.6",
+              "value100": "2.0"
+            },
+            {
+              "name": "Vitamine",
+              "shortName": "V",
+              "digitalSignageCode": "V",
+              "unit": "µg",
+              "value": "88837.6",
+              "value100": "16672.6"
+            }
+          ],
+          "additives": null,
+          "co2_value": "1184.00",
+          "co2_rating": "B",
+          "print_order": "11"
+        },
+        {
+          "id": "2403216",
+          "item_id": "17561",
+          "recipe_id": "4322",
+          "description_de": "Chili sin Carne | Taco | Sojajoghurt",
+          "description_en": "Chilli sin Carne | Taco | Soy Yoghurt",
+          "category": "DINNER Vegi/Vegan_17:00-19:00",
+          "price": "9.50",
+          "price_2": null,
+          "allergens": {
+            "gluten": "Glutenhaltiges Getreide",
+            "schalenfruchte": "Schalenfrüchte und Schalenfruchterzeugnisse",
+            "soja": "Soja und Sojaerzeugnisse",
+            "erdnuss": "Erdnüsse und Erdnusserzeugnisse",
+            "sellerie": "Sellerie und Sellerieerzeugnisse"
+          },
+          "attributes": {
+            "vegan": "Vegan",
+            "vegetarisch": "Vegetarisch"
+          },
+          "nutrition": [
+            {
+              "name": "Energie",
+              "shortName": "En",
+              "digitalSignageCode": "En",
+              "unit": "kJ",
+              "value": "2753.8",
+              "value100": "504.3"
+            },
+            {
+              "name": "Energie Kilokalorien",
+              "shortName": "kcal",
+              "digitalSignageCode": "kcal",
+              "unit": "kcal",
+              "value": "653.5",
+              "value100": "119.7"
+            },
+            {
+              "name": "Fett",
+              "shortName": "F",
+              "digitalSignageCode": "F",
+              "unit": "g",
+              "value": "8.4",
+              "value100": "1.5"
+            },
+            {
+              "name": "Gesättigte Fettsäuren",
+              "shortName": "GF",
+              "digitalSignageCode": "GF",
+              "unit": "g",
+              "value": "1.4",
+              "value100": "0.2"
+            },
+            {
+              "name": "Kohlenhydrate",
+              "shortName": "Kh",
+              "digitalSignageCode": "Kh",
+              "unit": "g",
+              "value": "107.7",
+              "value100": "19.7"
+            },
+            {
+              "name": "Zucker",
+              "shortName": "Z",
+              "digitalSignageCode": "Z",
+              "unit": "g",
+              "value": "14.7",
+              "value100": "2.7"
+            },
+            {
+              "name": "Eiweiß",
+              "shortName": "Ew",
+              "digitalSignageCode": "Ew",
+              "unit": "g",
+              "value": "30.3",
+              "value100": "5.6"
+            },
+            {
+              "name": "Salz",
+              "shortName": "S",
+              "digitalSignageCode": "S",
+              "unit": "g",
+              "value": "1.335",
+              "value100": "0.244"
+            },
+            {
+              "name": "Einfach ungesättigte Fett",
+              "shortName": "EuF",
+              "digitalSignageCode": "EuF",
+              "unit": "g",
+              "value": "0.1",
+              "value100": "0.0"
+            },
+            {
+              "name": "Merf.ungesättigte Fettsäu",
+              "shortName": "MgF",
+              "digitalSignageCode": "MgF",
+              "unit": "g",
+              "value": "0.3",
+              "value100": "0.1"
+            },
+            {
+              "name": "Ballststoffe",
+              "shortName": "B",
+              "digitalSignageCode": "B",
+              "unit": "g",
+              "value": "9.3",
+              "value100": "1.7"
+            },
+            {
+              "name": "Vitamine",
+              "shortName": "V",
+              "digitalSignageCode": "V",
+              "unit": "µg",
+              "value": "82575.3",
+              "value100": "15123.2"
+            }
+          ],
+          "additives": null,
+          "co2_value": "709.00",
           "co2_rating": "A",
           "print_order": "12"
         }
