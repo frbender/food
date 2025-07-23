@@ -1,211 +1,9 @@
 {
   "canteen": {
-    "2025-07-22": {
-      "Mittagessen": [
-        {
-          "id": "2707789",
-          "item_id": "17549",
-          "recipe_id": "6360",
-          "description_de": "Bibimbap | Rind | Ei",
-          "description_en": "Bibimbap | Beef | Egg",
-          "category": "COUNTER 1.1 Bowls_",
-          "price": "12.00",
-          "price_2": null,
-          "allergens": {
-            "gluten": "Glutenhaltiges Getreide",
-            "huhnerei": "Hühnerei und Hühnereierzeugnisse",
-            "soja": "Soja und Sojaerzeugnisse",
-            "sesam": "Sesamsamen und Sesamsamenerzeugnisse",
-            "schwefel": "Schwefeldioxid und Sulfide"
-          },
-          "attributes": "",
-          "nutrition": "",
-          "additives": [
-            {
-              "de": "Süßungsmittel",
-              "en": "Sweetener"
-            },
-            {
-              "de": "Phenylalaninquelle",
-              "en": "Phenylalanine"
-            },
-            {
-              "de": "Konservierungsstoff",
-              "en": "Preservatives"
-            },
-            {
-              "de": "Alkohol",
-              "en": "Alcohol"
-            }
-          ],
-          "co2_value": "1602.00",
-          "co2_rating": "C",
-          "print_order": "0"
-        },
-        {
-          "id": "2707790",
-          "item_id": "17550",
-          "recipe_id": "6993",
-          "description_de": "Fried Chicken | Sumach | Zucchini-Tsatziki",
-          "description_en": "Fried Chicken | Sumach | Courgette Tzatziki",
-          "category": "COUNTER 2.1 Meat",
-          "price": "12.00",
-          "price_2": null,
-          "allergens": {
-            "gluten": "Glutenhaltiges Getreide",
-            "huhnerei": "Hühnerei und Hühnereierzeugnisse",
-            "milch": "Milch und Milcherzeugnisse",
-            "sellerie": "Sellerie und Sellerieerzeugnisse"
-          },
-          "attributes": "",
-          "nutrition": "",
-          "additives": null,
-          "co2_value": "1645.00",
-          "co2_rating": "B",
-          "print_order": "1"
-        },
-        {
-          "id": "2707791",
-          "item_id": "17552",
-          "recipe_id": "7885",
-          "description_de": "Seelachs | Paprika-Salsa | Polenta",
-          "description_en": "Pollack | Pepper Salsa | Polenta",
-          "category": "COUNTER 3.1 Fish",
-          "price": "12.00",
-          "price_2": null,
-          "allergens": {
-            "fisch": "Fisch und Fischerzeugnisse",
-            "milch": "Milch und Milcherzeugnisse"
-          },
-          "attributes": "",
-          "nutrition": "",
-          "additives": null,
-          "co2_value": "1407.00",
-          "co2_rating": "B",
-          "print_order": "3"
-        },
-        {
-          "id": "2707792",
-          "item_id": "17554",
-          "recipe_id": "4691",
-          "description_de": "Lauwarmer Linsensalat | Tofu | Avocado",
-          "description_en": "Warm Lentilsalad | Tofu | Avocado",
-          "category": "COUNTER 4.1 Vegi",
-          "price": "9.50",
-          "price_2": null,
-          "allergens": {
-            "gluten": "Glutenhaltiges Getreide",
-            "soja": "Soja und Sojaerzeugnisse",
-            "sellerie": "Sellerie und Sellerieerzeugnisse",
-            "senf": "Senf und Senferzeugnisse",
-            "schwefel": "Schwefeldioxid und Sulfide"
-          },
-          "attributes": {
-            "vegan": "Vegan",
-            "vegetarisch": "Vegetarisch"
-          },
-          "nutrition": "",
-          "additives": null,
-          "co2_value": "208.00",
-          "co2_rating": "A",
-          "print_order": "5"
-        }
-      ],
-      "Abendessen": [
-        {
-          "id": "2707793",
-          "item_id": "17558",
-          "recipe_id": "6360",
-          "description_de": "Bibimbap | Rind | Ei",
-          "description_en": "Bibimbap | Beef | Egg",
-          "category": "DINNER BOWL_",
-          "price": "12.00",
-          "price_2": null,
-          "allergens": {
-            "gluten": "Glutenhaltiges Getreide",
-            "huhnerei": "Hühnerei und Hühnereierzeugnisse",
-            "soja": "Soja und Sojaerzeugnisse",
-            "sesam": "Sesamsamen und Sesamsamenerzeugnisse",
-            "schwefel": "Schwefeldioxid und Sulfide"
-          },
-          "attributes": "",
-          "nutrition": "",
-          "additives": [
-            {
-              "de": "Süßungsmittel",
-              "en": "Sweetener"
-            },
-            {
-              "de": "Phenylalaninquelle",
-              "en": "Phenylalanine"
-            },
-            {
-              "de": "Konservierungsstoff",
-              "en": "Preservatives"
-            },
-            {
-              "de": "Alkohol",
-              "en": "Alcohol"
-            }
-          ],
-          "co2_value": "1602.00",
-          "co2_rating": "C",
-          "print_order": "9"
-        },
-        {
-          "id": "2707795",
-          "item_id": "17559",
-          "recipe_id": "6993",
-          "description_de": "Fried Chicken | Sumach | Zucchini-Tsatziki",
-          "description_en": "Fried Chicken | Sumach | Courgette Tzatziki",
-          "category": "DINNER Meat_17:00-19:00",
-          "price": "12.00",
-          "price_2": null,
-          "allergens": {
-            "gluten": "Glutenhaltiges Getreide",
-            "huhnerei": "Hühnerei und Hühnereierzeugnisse",
-            "milch": "Milch und Milcherzeugnisse",
-            "sellerie": "Sellerie und Sellerieerzeugnisse"
-          },
-          "attributes": "",
-          "nutrition": "",
-          "additives": null,
-          "co2_value": "1645.00",
-          "co2_rating": "B",
-          "print_order": "10"
-        },
-        {
-          "id": "2707797",
-          "item_id": "17561",
-          "recipe_id": "4691",
-          "description_de": "Lauwarmer Linsensalat | Tofu | Avocado",
-          "description_en": "Warm Lentilsalad | Tofu | Avocado",
-          "category": "DINNER Vegi/Vegan_17:00-19:00",
-          "price": "9.50",
-          "price_2": null,
-          "allergens": {
-            "gluten": "Glutenhaltiges Getreide",
-            "soja": "Soja und Sojaerzeugnisse",
-            "sellerie": "Sellerie und Sellerieerzeugnisse",
-            "senf": "Senf und Senferzeugnisse",
-            "schwefel": "Schwefeldioxid und Sulfide"
-          },
-          "attributes": {
-            "vegan": "Vegan",
-            "vegetarisch": "Vegetarisch"
-          },
-          "nutrition": "",
-          "additives": null,
-          "co2_value": "208.00",
-          "co2_rating": "A",
-          "print_order": "12"
-        }
-      ]
-    },
     "2025-07-23": {
       "Mittagessen": [
         {
-          "id": "2707799",
+          "id": "2730491",
           "item_id": "17549",
           "recipe_id": "8417",
           "description_de": "Gegrillter Halloumi | Wassermelone | Kapern-Chillibrösel",
@@ -229,7 +27,7 @@
           "print_order": "0"
         },
         {
-          "id": "2707800",
+          "id": "2730492",
           "item_id": "17550",
           "recipe_id": "6993",
           "description_de": "Fried Chicken | Sumach | Zucchini-Tsatziki",
@@ -246,12 +44,12 @@
           "attributes": "",
           "nutrition": "",
           "additives": null,
-          "co2_value": "1645.00",
+          "co2_value": "1861.00",
           "co2_rating": "B",
           "print_order": "1"
         },
         {
-          "id": "2707801",
+          "id": "2730493",
           "item_id": "17552",
           "recipe_id": "8945",
           "description_de": "Lachsfilet | Harissa Crumble | Schwarze Linsen",
@@ -277,7 +75,7 @@
           "print_order": "3"
         },
         {
-          "id": "2707802",
+          "id": "2730494",
           "item_id": "17554",
           "recipe_id": "8318",
           "description_de": "Tandoori Pilz | Ingwer Reis | Pappadum",
@@ -307,7 +105,7 @@
       ],
       "Abendessen": [
         {
-          "id": "2707803",
+          "id": "2730495",
           "item_id": "17558",
           "recipe_id": "8417",
           "description_de": "Gegrillter Halloumi | Wassermelone | Kapern-Chillibrösel",
@@ -331,7 +129,7 @@
           "print_order": "9"
         },
         {
-          "id": "2707805",
+          "id": "2730497",
           "item_id": "17561",
           "recipe_id": "8318",
           "description_de": "Tandoori Pilz | Ingwer Reis | Pappadum",
@@ -363,7 +161,7 @@
     "2025-07-24": {
       "Mittagessen": [
         {
-          "id": "2707807",
+          "id": "2730499",
           "item_id": "17549",
           "recipe_id": "8323",
           "description_de": "Reisnudeln | Chili-Hähnchen | Erdnuss-Ingwersauce",
@@ -398,7 +196,7 @@
           "print_order": "0"
         },
         {
-          "id": "2707808",
+          "id": "2730500",
           "item_id": "17550",
           "recipe_id": "5119",
           "description_de": "Pulled Pork | Soft Bun | Rosmarin-Fritten",
@@ -427,7 +225,7 @@
           "print_order": "1"
         },
         {
-          "id": "2707809",
+          "id": "2730501",
           "item_id": "17552",
           "recipe_id": "8945",
           "description_de": "Lachsfilet | Harissa Crumble | Schwarze Linsen",
@@ -453,7 +251,7 @@
           "print_order": "3"
         },
         {
-          "id": "2707810",
+          "id": "2730502",
           "item_id": "17554",
           "recipe_id": "7304",
           "description_de": "Ofenkartoffel | Pfifferlinge | Gremolata",
@@ -477,7 +275,7 @@
       ],
       "Abendessen": [
         {
-          "id": "2707811",
+          "id": "2730503",
           "item_id": "17558",
           "recipe_id": "8323",
           "description_de": "Reisnudeln | Chili-Hähnchen | Erdnuss-Ingwersauce",
@@ -512,7 +310,7 @@
           "print_order": "9"
         },
         {
-          "id": "2707813",
+          "id": "2730505",
           "item_id": "17559",
           "recipe_id": "5119",
           "description_de": "Pulled Pork | Soft Bun | Rosmarin-Fritten",
@@ -541,7 +339,7 @@
           "print_order": "10"
         },
         {
-          "id": "2707815",
+          "id": "2730507",
           "item_id": "17561",
           "recipe_id": "7304",
           "description_de": "Ofenkartoffel | Pfifferlinge | Gremolata",
@@ -567,7 +365,7 @@
     "2025-07-25": {
       "Mittagessen": [
         {
-          "id": "2707817",
+          "id": "2730509",
           "item_id": "17549",
           "recipe_id": "5060",
           "description_de": "Couscous | Ofen-Paprika | Kräuterfeta",
@@ -595,7 +393,7 @@
           "print_order": "0"
         },
         {
-          "id": "2707818",
+          "id": "2730510",
           "item_id": "17550",
           "recipe_id": "5119",
           "description_de": "Pulled Pork | Soft Bun | Rosmarin-Fritten",
@@ -624,7 +422,7 @@
           "print_order": "1"
         },
         {
-          "id": "2707819",
+          "id": "2730511",
           "item_id": "17552",
           "recipe_id": "8945",
           "description_de": "Lachsfilet | Harissa Crumble | Schwarze Linsen",
@@ -650,7 +448,7 @@
           "print_order": "3"
         },
         {
-          "id": "2707820",
+          "id": "2730512",
           "item_id": "17554",
           "recipe_id": "6127",
           "description_de": "Risotto | Trüffelöl | Wildkräuter",
@@ -680,7 +478,7 @@
       ],
       "Abendessen": [
         {
-          "id": "2707821",
+          "id": "2730513",
           "item_id": "17558",
           "recipe_id": "5060",
           "description_de": "Couscous | Ofen-Paprika | Kräuterfeta",
@@ -708,7 +506,7 @@
           "print_order": "9"
         },
         {
-          "id": "2707823",
+          "id": "2730515",
           "item_id": "17559",
           "recipe_id": "5119",
           "description_de": "Pulled Pork | Soft Bun | Rosmarin-Fritten",
@@ -737,7 +535,7 @@
           "print_order": "10"
         },
         {
-          "id": "2707825",
+          "id": "2730517",
           "item_id": "17561",
           "recipe_id": "6127",
           "description_de": "Risotto | Trüffelöl | Wildkräuter",
@@ -769,7 +567,7 @@
     "2025-07-26": {
       "Mittagessen": [
         {
-          "id": "2707827",
+          "id": "2730519",
           "item_id": "17549",
           "recipe_id": "6320",
           "description_de": "Kanarische Kartoffeln | Mojo Rojo | Mojo Verde",
@@ -815,7 +613,7 @@
       ],
       "Abendessen": [
         {
-          "id": "2707828",
+          "id": "2730520",
           "item_id": "17562",
           "recipe_id": "6320",
           "description_de": "Kanarische Kartoffeln | Mojo Rojo | Mojo Verde",
@@ -859,7 +657,7 @@
           "print_order": "13"
         },
         {
-          "id": "2707830",
+          "id": "2730522",
           "item_id": "17563",
           "recipe_id": "4692",
           "description_de": "Bolognese | Vollkornnudeln | Parmesan",
@@ -881,7 +679,7 @@
           "print_order": "14"
         },
         {
-          "id": "2707832",
+          "id": "2730524",
           "item_id": "17564",
           "recipe_id": "8946",
           "description_de": "Bunte Dal | Dorade | Kokos",
@@ -906,7 +704,7 @@
     "2025-07-27": {
       "Abendessen": [
         {
-          "id": "2707834",
+          "id": "2730526",
           "item_id": "17566",
           "recipe_id": "5058",
           "description_de": "Bulgur | Garam Masala | Hähnchen",
@@ -932,7 +730,7 @@
           "print_order": "17"
         },
         {
-          "id": "2707836",
+          "id": "2730528",
           "item_id": "17864",
           "recipe_id": "8942",
           "description_de": "Salsiccia | Lasagne | Rucola",
@@ -965,7 +763,7 @@
           "print_order": "18"
         },
         {
-          "id": "2707838",
+          "id": "2730530",
           "item_id": "17866",
           "recipe_id": "8174",
           "description_de": "Wasabi-Gnocchi | Asiatisches Gemüse | Sojaschaum",
@@ -1005,75 +803,18 @@
     "2025-07-28": {
       "Mittagessen": [
         {
-          "id": "2707840",
+          "id": "2730532",
           "item_id": "17549",
-          "recipe_id": "6166",
-          "description_de": "Maultaschen | Kichererbsen | Babyspinat",
-          "description_en": "Maultaschen | Chick Peas | Baby Spinach",
+          "recipe_id": "6355",
+          "description_de": "Hähnchen Fajita Bowl | Black Beans | Cayenne Pfeffer",
+          "description_en": "Chicken Fajita Bowl | Black Beans | Cayenne Pepper",
           "category": "COUNTER 1.1 Bowls_",
-          "price": "10.00",
-          "price_2": null,
-          "allergens": {
-            "gluten": "Glutenhaltiges Getreide",
-            "huhnerei": "Hühnerei und Hühnereierzeugnisse",
-            "milch": "Milch und Milcherzeugnisse",
-            "sellerie": "Sellerie und Sellerieerzeugnisse",
-            "senf": "Senf und Senferzeugnisse",
-            "sesam": "Sesamsamen und Sesamsamenerzeugnisse"
-          },
-          "attributes": {
-            "ohne_zucker": "Ohne_Zucker",
-            "schwein": "Schwein"
-          },
-          "nutrition": "",
-          "additives": null,
-          "co2_value": "536.00",
-          "co2_rating": "A",
-          "print_order": "0"
-        },
-        {
-          "id": "2707841",
-          "item_id": "17550",
-          "recipe_id": "8438",
-          "description_de": "Lammhüfte | Maispolenta | Peperonate | Rosmarin",
-          "description_en": "Lamb Rump | corn polenta | peperonata | rosemary",
-          "category": "COUNTER 2.1 Meat",
           "price": "12.00",
           "price_2": null,
           "allergens": {
             "huhnerei": "Hühnerei und Hühnereierzeugnisse",
-            "milch": "Milch und Milcherzeugnisse",
-            "sellerie": "Sellerie und Sellerieerzeugnisse",
-            "schwefel": "Schwefeldioxid und Sulfide"
-          },
-          "attributes": "",
-          "nutrition": "",
-          "additives": [
-            {
-              "de": "Alkohol",
-              "en": "Alcohol"
-            }
-          ],
-          "co2_value": "6542.00",
-          "co2_rating": "E",
-          "print_order": "1"
-        },
-        {
-          "id": "2707842",
-          "item_id": "17552",
-          "recipe_id": "6197",
-          "description_de": "Asiatisches Fish ‘n’ Chips | Wasabi-Mayo | Sesam",
-          "description_en": "Asian-style fish & chips | Wasabi Mayo | Sesame",
-          "category": "COUNTER 3.1 Fish",
-          "price": "12.00",
-          "price_2": null,
-          "allergens": {
-            "gluten": "Glutenhaltiges Getreide",
-            "huhnerei": "Hühnerei und Hühnereierzeugnisse",
-            "fisch": "Fisch und Fischerzeugnisse",
-            "soja": "Soja und Sojaerzeugnisse",
-            "senf": "Senf und Senferzeugnisse",
-            "sesam": "Sesamsamen und Sesamsamenerzeugnisse"
+            "erdnuss": "Erdnüsse und Erdnusserzeugnisse",
+            "senf": "Senf und Senferzeugnisse"
           },
           "attributes": "",
           "nutrition": "",
@@ -1091,12 +832,69 @@
               "en": "Antioxidation"
             }
           ],
-          "co2_value": "857.00",
+          "co2_value": "1098.00",
+          "co2_rating": "B",
+          "print_order": "0"
+        },
+        {
+          "id": "2730533",
+          "item_id": "17550",
+          "recipe_id": "3957",
+          "description_de": "Kalbsfleischpflanzerl | Spitzkohl | Kartoffelmousseline",
+          "description_en": "Veal Meatball | Pointed Cabbage | Potato Mousseline",
+          "category": "COUNTER 2.1 Meat",
+          "price": "12.00",
+          "price_2": null,
+          "allergens": {
+            "gluten": "Glutenhaltiges Getreide",
+            "huhnerei": "Hühnerei und Hühnereierzeugnisse",
+            "milch": "Milch und Milcherzeugnisse",
+            "sellerie": "Sellerie und Sellerieerzeugnisse",
+            "senf": "Senf und Senferzeugnisse",
+            "schwefel": "Schwefeldioxid und Sulfide"
+          },
+          "attributes": "",
+          "nutrition": "",
+          "additives": [
+            {
+              "de": "Alkohol",
+              "en": "Alcohol"
+            }
+          ],
+          "co2_value": "3404.00",
+          "co2_rating": "D",
+          "print_order": "1"
+        },
+        {
+          "id": "2730534",
+          "item_id": "17552",
+          "recipe_id": "8425",
+          "description_de": "Rotbarsch | Kartoffelsalat | Senfschaum | Salat",
+          "description_en": "Redfish| Potato Salad | Mustard Foam | Salad",
+          "category": "COUNTER 3.1 Fish",
+          "price": "12.00",
+          "price_2": null,
+          "allergens": {
+            "fisch": "Fisch und Fischerzeugnisse",
+            "milch": "Milch und Milcherzeugnisse",
+            "sellerie": "Sellerie und Sellerieerzeugnisse",
+            "senf": "Senf und Senferzeugnisse",
+            "schwefel": "Schwefeldioxid und Sulfide"
+          },
+          "attributes": "",
+          "nutrition": "",
+          "additives": [
+            {
+              "de": "Konservierungsstoff",
+              "en": "Preservatives"
+            }
+          ],
+          "co2_value": "824.00",
           "co2_rating": "B",
           "print_order": "3"
         },
         {
-          "id": "2707843",
+          "id": "2730535",
           "item_id": "17554",
           "recipe_id": "5047",
           "description_de": "Geschmorte Paprika | Quinoa | Kräuterpesto",
@@ -1126,13 +924,47 @@
       ],
       "Abendessen": [
         {
-          "id": "2707844",
+          "id": "2730536",
           "item_id": "17558",
-          "recipe_id": "6166",
-          "description_de": "Maultaschen | Kichererbsen | Babyspinat",
-          "description_en": "Maultaschen | Chick Peas | Baby Spinach",
+          "recipe_id": "6355",
+          "description_de": "Hähnchen Fajita Bowl | Black Beans | Cayenne Pfeffer",
+          "description_en": "Chicken Fajita Bowl | Black Beans | Cayenne Pepper",
           "category": "DINNER BOWL_",
-          "price": "10.00",
+          "price": "12.00",
+          "price_2": null,
+          "allergens": {
+            "huhnerei": "Hühnerei und Hühnereierzeugnisse",
+            "erdnuss": "Erdnüsse und Erdnusserzeugnisse",
+            "senf": "Senf und Senferzeugnisse"
+          },
+          "attributes": "",
+          "nutrition": "",
+          "additives": [
+            {
+              "de": "Süßungsmittel",
+              "en": "Sweetener"
+            },
+            {
+              "de": "Farbstoff",
+              "en": "Colouring Agent"
+            },
+            {
+              "de": "Antioxidationsmittel",
+              "en": "Antioxidation"
+            }
+          ],
+          "co2_value": "1098.00",
+          "co2_rating": "B",
+          "print_order": "9"
+        },
+        {
+          "id": "2730538",
+          "item_id": "17559",
+          "recipe_id": "3957",
+          "description_de": "Kalbsfleischpflanzerl | Spitzkohl | Kartoffelmousseline",
+          "description_en": "Veal Meatball | Pointed Cabbage | Potato Mousseline",
+          "category": "DINNER Meat_17:00-19:00",
+          "price": "12.00",
           "price_2": null,
           "allergens": {
             "gluten": "Glutenhaltiges Getreide",
@@ -1140,31 +972,6 @@
             "milch": "Milch und Milcherzeugnisse",
             "sellerie": "Sellerie und Sellerieerzeugnisse",
             "senf": "Senf und Senferzeugnisse",
-            "sesam": "Sesamsamen und Sesamsamenerzeugnisse"
-          },
-          "attributes": {
-            "ohne_zucker": "Ohne_Zucker",
-            "schwein": "Schwein"
-          },
-          "nutrition": "",
-          "additives": null,
-          "co2_value": "536.00",
-          "co2_rating": "A",
-          "print_order": "9"
-        },
-        {
-          "id": "2707846",
-          "item_id": "17559",
-          "recipe_id": "8438",
-          "description_de": "Lammhüfte | Maispolenta | Peperonate | Rosmarin",
-          "description_en": "Lamb Rump | corn polenta | peperonata | rosemary",
-          "category": "DINNER Meat_17:00-19:00",
-          "price": "12.00",
-          "price_2": null,
-          "allergens": {
-            "huhnerei": "Hühnerei und Hühnereierzeugnisse",
-            "milch": "Milch und Milcherzeugnisse",
-            "sellerie": "Sellerie und Sellerieerzeugnisse",
             "schwefel": "Schwefeldioxid und Sulfide"
           },
           "attributes": "",
@@ -1175,12 +982,12 @@
               "en": "Alcohol"
             }
           ],
-          "co2_value": "6542.00",
-          "co2_rating": "E",
+          "co2_value": "3404.00",
+          "co2_rating": "D",
           "print_order": "10"
         },
         {
-          "id": "2707848",
+          "id": "2730540",
           "item_id": "17561",
           "recipe_id": "5047",
           "description_de": "Geschmorte Paprika | Quinoa | Kräuterpesto",
@@ -1212,45 +1019,47 @@
     "2025-07-29": {
       "Mittagessen": [
         {
-          "id": "2707850",
+          "id": "2730542",
           "item_id": "17549",
-          "recipe_id": "4473",
-          "description_de": "Risoni Pasta | Gegrilltes Gemüse | Putenbrust",
-          "description_en": "Risoni Pasta | Grilled Vegetables | Turkey Breast",
+          "recipe_id": "6166",
+          "description_de": "Maultaschen | Kichererbsen | Babyspinat",
+          "description_en": "Maultaschen | Chick Peas | Baby Spinach",
           "category": "COUNTER 1.1 Bowls_",
-          "price": "11.00",
+          "price": "10.00",
           "price_2": null,
           "allergens": {
             "gluten": "Glutenhaltiges Getreide",
-            "schalenfruchte": "Schalenfrüchte und Schalenfruchterzeugnisse",
+            "huhnerei": "Hühnerei und Hühnereierzeugnisse",
             "milch": "Milch und Milcherzeugnisse",
-            "schwefel": "Schwefeldioxid und Sulfide"
+            "sellerie": "Sellerie und Sellerieerzeugnisse",
+            "senf": "Senf und Senferzeugnisse",
+            "sesam": "Sesamsamen und Sesamsamenerzeugnisse"
           },
-          "attributes": "",
+          "attributes": {
+            "ohne_zucker": "Ohne_Zucker",
+            "schwein": "Schwein"
+          },
           "nutrition": "",
-          "additives": [
-            {
-              "de": "Konservierungsstoff",
-              "en": "Preservatives"
-            }
-          ],
-          "co2_value": "1340.00",
-          "co2_rating": "B",
+          "additives": null,
+          "co2_value": "536.00",
+          "co2_rating": "A",
           "print_order": "0"
         },
         {
-          "id": "2707851",
+          "id": "2730543",
           "item_id": "17550",
-          "recipe_id": "8438",
-          "description_de": "Lammhüfte | Maispolenta | Peperonate | Rosmarin",
-          "description_en": "Lamb Rump | corn polenta | peperonata | rosemary",
+          "recipe_id": "3957",
+          "description_de": "Kalbsfleischpflanzerl | Spitzkohl | Kartoffelmousseline",
+          "description_en": "Veal Meatball | Pointed Cabbage | Potato Mousseline",
           "category": "COUNTER 2.1 Meat",
           "price": "12.00",
           "price_2": null,
           "allergens": {
+            "gluten": "Glutenhaltiges Getreide",
             "huhnerei": "Hühnerei und Hühnereierzeugnisse",
             "milch": "Milch und Milcherzeugnisse",
             "sellerie": "Sellerie und Sellerieerzeugnisse",
+            "senf": "Senf und Senferzeugnisse",
             "schwefel": "Schwefeldioxid und Sulfide"
           },
           "attributes": "",
@@ -1261,62 +1070,24 @@
               "en": "Alcohol"
             }
           ],
-          "co2_value": "6542.00",
-          "co2_rating": "E",
+          "co2_value": "3404.00",
+          "co2_rating": "D",
           "print_order": "1"
         },
         {
-          "id": "2707852",
+          "id": "2730544",
           "item_id": "17552",
-          "recipe_id": "6197",
-          "description_de": "Asiatisches Fish ‘n’ Chips | Wasabi-Mayo | Sesam",
-          "description_en": "Asian-style fish & chips | Wasabi Mayo | Sesame",
+          "recipe_id": "8425",
+          "description_de": "Rotbarsch | Kartoffelsalat | Senfschaum | Salat",
+          "description_en": "Redfish| Potato Salad | Mustard Foam | Salad",
           "category": "COUNTER 3.1 Fish",
           "price": "12.00",
           "price_2": null,
           "allergens": {
-            "gluten": "Glutenhaltiges Getreide",
-            "huhnerei": "Hühnerei und Hühnereierzeugnisse",
             "fisch": "Fisch und Fischerzeugnisse",
-            "soja": "Soja und Sojaerzeugnisse",
-            "senf": "Senf und Senferzeugnisse",
-            "sesam": "Sesamsamen und Sesamsamenerzeugnisse"
-          },
-          "attributes": "",
-          "nutrition": "",
-          "additives": [
-            {
-              "de": "Süßungsmittel",
-              "en": "Sweetener"
-            },
-            {
-              "de": "Farbstoff",
-              "en": "Colouring Agent"
-            },
-            {
-              "de": "Antioxidationsmittel",
-              "en": "Antioxidation"
-            }
-          ],
-          "co2_value": "857.00",
-          "co2_rating": "B",
-          "print_order": "3"
-        }
-      ],
-      "Abendessen": [
-        {
-          "id": "2707853",
-          "item_id": "17558",
-          "recipe_id": "4473",
-          "description_de": "Risoni Pasta | Gegrilltes Gemüse | Putenbrust",
-          "description_en": "Risoni Pasta | Grilled Vegetables | Turkey Breast",
-          "category": "DINNER BOWL_",
-          "price": "11.00",
-          "price_2": null,
-          "allergens": {
-            "gluten": "Glutenhaltiges Getreide",
-            "schalenfruchte": "Schalenfrüchte und Schalenfruchterzeugnisse",
             "milch": "Milch und Milcherzeugnisse",
+            "sellerie": "Sellerie und Sellerieerzeugnisse",
+            "senf": "Senf und Senferzeugnisse",
             "schwefel": "Schwefeldioxid und Sulfide"
           },
           "attributes": "",
@@ -1327,26 +1098,27 @@
               "en": "Preservatives"
             }
           ],
-          "co2_value": "1340.00",
+          "co2_value": "824.00",
           "co2_rating": "B",
-          "print_order": "9"
+          "print_order": "3"
         },
         {
-          "id": "2707855",
-          "item_id": "17559",
-          "recipe_id": "8438",
-          "description_de": "Lammhüfte | Maispolenta | Peperonate | Rosmarin",
-          "description_en": "Lamb Rump | corn polenta | peperonata | rosemary",
-          "category": "DINNER Meat_17:00-19:00",
-          "price": "12.00",
+          "id": "2730545",
+          "item_id": "17554",
+          "recipe_id": "7979",
+          "description_de": "Süßkartoffelgnocchi | Pilzrahm | Rucola",
+          "description_en": "Sweet Potato Gnocchi | Creamed Mushrooms | Arugula",
+          "category": "COUNTER 4.1 Vegi",
+          "price": "9.50",
           "price_2": null,
           "allergens": {
-            "huhnerei": "Hühnerei und Hühnereierzeugnisse",
-            "milch": "Milch und Milcherzeugnisse",
-            "sellerie": "Sellerie und Sellerieerzeugnisse",
+            "gluten": "Glutenhaltiges Getreide",
             "schwefel": "Schwefeldioxid und Sulfide"
           },
-          "attributes": "",
+          "attributes": {
+            "vegan": "Vegan",
+            "vegetarisch": "Vegetarisch"
+          },
           "nutrition": "",
           "additives": [
             {
@@ -1354,53 +1126,101 @@
               "en": "Alcohol"
             }
           ],
-          "co2_value": "6542.00",
-          "co2_rating": "E",
-          "print_order": "10"
-        },
+          "co2_value": "404.00",
+          "co2_rating": "B",
+          "print_order": "5"
+        }
+      ],
+      "Abendessen": [
         {
-          "id": "2707857",
-          "item_id": "17560",
-          "recipe_id": "6197",
-          "description_de": "Asiatisches Fish ‘n’ Chips | Wasabi-Mayo | Sesam",
-          "description_en": "Asian-style fish & chips | Wasabi Mayo | Sesame",
-          "category": "DINNER Fish_17:00-19:00",
-          "price": "12.00",
+          "id": "2730546",
+          "item_id": "17558",
+          "recipe_id": "6166",
+          "description_de": "Maultaschen | Kichererbsen | Babyspinat",
+          "description_en": "Maultaschen | Chick Peas | Baby Spinach",
+          "category": "DINNER BOWL_",
+          "price": "10.00",
           "price_2": null,
           "allergens": {
             "gluten": "Glutenhaltiges Getreide",
             "huhnerei": "Hühnerei und Hühnereierzeugnisse",
-            "fisch": "Fisch und Fischerzeugnisse",
-            "soja": "Soja und Sojaerzeugnisse",
+            "milch": "Milch und Milcherzeugnisse",
+            "sellerie": "Sellerie und Sellerieerzeugnisse",
             "senf": "Senf und Senferzeugnisse",
             "sesam": "Sesamsamen und Sesamsamenerzeugnisse"
+          },
+          "attributes": {
+            "ohne_zucker": "Ohne_Zucker",
+            "schwein": "Schwein"
+          },
+          "nutrition": "",
+          "additives": null,
+          "co2_value": "536.00",
+          "co2_rating": "A",
+          "print_order": "9"
+        },
+        {
+          "id": "2730548",
+          "item_id": "17560",
+          "recipe_id": "8425",
+          "description_de": "Rotbarsch | Kartoffelsalat | Senfschaum | Salat",
+          "description_en": "Redfish| Potato Salad | Mustard Foam | Salad",
+          "category": "DINNER Fish_17:00-19:00",
+          "price": "12.00",
+          "price_2": null,
+          "allergens": {
+            "fisch": "Fisch und Fischerzeugnisse",
+            "milch": "Milch und Milcherzeugnisse",
+            "sellerie": "Sellerie und Sellerieerzeugnisse",
+            "senf": "Senf und Senferzeugnisse",
+            "schwefel": "Schwefeldioxid und Sulfide"
           },
           "attributes": "",
           "nutrition": "",
           "additives": [
             {
-              "de": "Süßungsmittel",
-              "en": "Sweetener"
-            },
-            {
-              "de": "Farbstoff",
-              "en": "Colouring Agent"
-            },
-            {
-              "de": "Antioxidationsmittel",
-              "en": "Antioxidation"
+              "de": "Konservierungsstoff",
+              "en": "Preservatives"
             }
           ],
-          "co2_value": "857.00",
+          "co2_value": "824.00",
           "co2_rating": "B",
           "print_order": "11"
+        },
+        {
+          "id": "2730550",
+          "item_id": "17561",
+          "recipe_id": "7979",
+          "description_de": "Süßkartoffelgnocchi | Pilzrahm | Rucola",
+          "description_en": "Sweet Potato Gnocchi | Creamed Mushrooms | Arugula",
+          "category": "DINNER Vegi/Vegan_17:00-19:00",
+          "price": "9.50",
+          "price_2": null,
+          "allergens": {
+            "gluten": "Glutenhaltiges Getreide",
+            "schwefel": "Schwefeldioxid und Sulfide"
+          },
+          "attributes": {
+            "vegan": "Vegan",
+            "vegetarisch": "Vegetarisch"
+          },
+          "nutrition": "",
+          "additives": [
+            {
+              "de": "Alkohol",
+              "en": "Alcohol"
+            }
+          ],
+          "co2_value": "404.00",
+          "co2_rating": "B",
+          "print_order": "12"
         }
       ]
     },
     "2025-07-30": {
       "Mittagessen": [
         {
-          "id": "2707859",
+          "id": "2730552",
           "item_id": "17549",
           "recipe_id": "6693",
           "description_de": "Süßkartoffel | Lauchzwiebel | Fetakäse",
@@ -1424,47 +1244,28 @@
           "print_order": "0"
         },
         {
-          "id": "2707860",
+          "id": "2730553",
           "item_id": "17550",
-          "recipe_id": "5110",
-          "description_de": "Roastbeef | Frankfurter Grüne Sauce | Röstkartoffel",
-          "description_en": "Roastbeef | Frankfurter Green Sauce | Roasted Potatoes",
+          "recipe_id": "5118",
+          "description_de": "Maishähnchen | Ebli | Strauchtomaten | Minzayran",
+          "description_en": "Corn fed Chicken | Ebli | Tomato | Mint Ayran",
           "category": "COUNTER 2.1 Meat",
           "price": "12.00",
           "price_2": null,
           "allergens": {
-            "huhnerei": "Hühnerei und Hühnereierzeugnisse",
+            "gluten": "Glutenhaltiges Getreide",
             "milch": "Milch und Milcherzeugnisse",
-            "senf": "Senf und Senferzeugnisse"
+            "sellerie": "Sellerie und Sellerieerzeugnisse"
           },
-          "attributes": {
-            "schwein": "Schwein"
-          },
+          "attributes": "",
           "nutrition": "",
-          "additives": [
-            {
-              "de": "Süßungsmittel",
-              "en": "Sweetener"
-            },
-            {
-              "de": "Farbstoff",
-              "en": "Colouring Agent"
-            },
-            {
-              "de": "Antioxidationsmittel",
-              "en": "Antioxidation"
-            },
-            {
-              "de": "Konservierungsstoff",
-              "en": "Preservatives"
-            }
-          ],
-          "co2_value": "6025.00",
-          "co2_rating": "E",
+          "additives": null,
+          "co2_value": "1306.00",
+          "co2_rating": "C",
           "print_order": "1"
         },
         {
-          "id": "2707861",
+          "id": "2730554",
           "item_id": "17552",
           "recipe_id": "6241",
           "description_de": "Lachsfilet | Olivenölschaum | provenzalisches Gemüse",
@@ -1485,7 +1286,7 @@
           "print_order": "3"
         },
         {
-          "id": "2707862",
+          "id": "2730555",
           "item_id": "17554",
           "recipe_id": "8236",
           "description_de": "Penne Pasta | Erdnuss-Kokossauce | Baby Spinat",
@@ -1529,7 +1330,7 @@
       ],
       "Abendessen": [
         {
-          "id": "2707863",
+          "id": "2730556",
           "item_id": "17558",
           "recipe_id": "6693",
           "description_de": "Süßkartoffel | Lauchzwiebel | Fetakäse",
@@ -1553,47 +1354,28 @@
           "print_order": "9"
         },
         {
-          "id": "2707865",
+          "id": "2730558",
           "item_id": "17559",
-          "recipe_id": "5110",
-          "description_de": "Roastbeef | Frankfurter Grüne Sauce | Röstkartoffel",
-          "description_en": "Roastbeef | Frankfurter Green Sauce | Roasted Potatoes",
+          "recipe_id": "5118",
+          "description_de": "Maishähnchen | Ebli | Strauchtomaten | Minzayran",
+          "description_en": "Corn fed Chicken | Ebli | Tomato | Mint Ayran",
           "category": "DINNER Meat_17:00-19:00",
           "price": "12.00",
           "price_2": null,
           "allergens": {
-            "huhnerei": "Hühnerei und Hühnereierzeugnisse",
+            "gluten": "Glutenhaltiges Getreide",
             "milch": "Milch und Milcherzeugnisse",
-            "senf": "Senf und Senferzeugnisse"
+            "sellerie": "Sellerie und Sellerieerzeugnisse"
           },
-          "attributes": {
-            "schwein": "Schwein"
-          },
+          "attributes": "",
           "nutrition": "",
-          "additives": [
-            {
-              "de": "Süßungsmittel",
-              "en": "Sweetener"
-            },
-            {
-              "de": "Farbstoff",
-              "en": "Colouring Agent"
-            },
-            {
-              "de": "Antioxidationsmittel",
-              "en": "Antioxidation"
-            },
-            {
-              "de": "Konservierungsstoff",
-              "en": "Preservatives"
-            }
-          ],
-          "co2_value": "6025.00",
-          "co2_rating": "E",
+          "additives": null,
+          "co2_value": "1306.00",
+          "co2_rating": "C",
           "print_order": "10"
         },
         {
-          "id": "2707867",
+          "id": "2730560",
           "item_id": "17561",
           "recipe_id": "8236",
           "description_de": "Penne Pasta | Erdnuss-Kokossauce | Baby Spinat",
@@ -1639,81 +1421,59 @@
     "2025-07-31": {
       "Mittagessen": [
         {
-          "id": "2707869",
+          "id": "2730562",
           "item_id": "17549",
-          "recipe_id": "6355",
-          "description_de": "Hähnchen Fajita Bowl | Black Beans | Cayenne Pfeffer",
-          "description_en": "Chicken Fajita Bowl | Black Beans | Cayenne Pepper",
+          "recipe_id": "7139",
+          "description_de": "Nizza Salat | Thunfisch | Ei*",
+          "description_en": "Nizza Salad | Tuna | Egg*",
           "category": "COUNTER 1.1 Bowls_",
-          "price": "12.00",
+          "price": "11.00",
           "price_2": null,
           "allergens": {
             "huhnerei": "Hühnerei und Hühnereierzeugnisse",
-            "erdnuss": "Erdnüsse und Erdnusserzeugnisse",
-            "senf": "Senf und Senferzeugnisse"
+            "fisch": "Fisch und Fischerzeugnisse",
+            "senf": "Senf und Senferzeugnisse",
+            "schwefel": "Schwefeldioxid und Sulfide"
           },
           "attributes": "",
           "nutrition": "",
           "additives": [
             {
-              "de": "Süßungsmittel",
-              "en": "Sweetener"
-            },
-            {
-              "de": "Farbstoff",
-              "en": "Colouring Agent"
-            },
-            {
               "de": "Antioxidationsmittel",
               "en": "Antioxidation"
+            },
+            {
+              "de": "Alkohol",
+              "en": "Alcohol"
             }
           ],
-          "co2_value": "1098.00",
+          "co2_value": "727.00",
           "co2_rating": "B",
           "print_order": "0"
         },
         {
-          "id": "2707870",
+          "id": "2730563",
           "item_id": "17550",
-          "recipe_id": "5110",
-          "description_de": "Roastbeef | Frankfurter Grüne Sauce | Röstkartoffel",
-          "description_en": "Roastbeef | Frankfurter Green Sauce | Roasted Potatoes",
+          "recipe_id": "5118",
+          "description_de": "Maishähnchen | Ebli | Strauchtomaten | Minzayran",
+          "description_en": "Corn fed Chicken | Ebli | Tomato | Mint Ayran",
           "category": "COUNTER 2.1 Meat",
           "price": "12.00",
           "price_2": null,
           "allergens": {
-            "huhnerei": "Hühnerei und Hühnereierzeugnisse",
+            "gluten": "Glutenhaltiges Getreide",
             "milch": "Milch und Milcherzeugnisse",
-            "senf": "Senf und Senferzeugnisse"
+            "sellerie": "Sellerie und Sellerieerzeugnisse"
           },
-          "attributes": {
-            "schwein": "Schwein"
-          },
+          "attributes": "",
           "nutrition": "",
-          "additives": [
-            {
-              "de": "Süßungsmittel",
-              "en": "Sweetener"
-            },
-            {
-              "de": "Farbstoff",
-              "en": "Colouring Agent"
-            },
-            {
-              "de": "Antioxidationsmittel",
-              "en": "Antioxidation"
-            },
-            {
-              "de": "Konservierungsstoff",
-              "en": "Preservatives"
-            }
-          ],
-          "co2_value": "6025.00",
-          "co2_rating": "E",
+          "additives": null,
+          "co2_value": "1306.00",
+          "co2_rating": "C",
           "print_order": "1"
         },
         {
-          "id": "2707871",
+          "id": "2730564",
           "item_id": "17552",
           "recipe_id": "6241",
           "description_de": "Lachsfilet | Olivenölschaum | provenzalisches Gemüse",
@@ -1734,7 +1494,7 @@
           "print_order": "3"
         },
         {
-          "id": "2707872",
+          "id": "2730565",
           "item_id": "17554",
           "recipe_id": "3000",
           "description_de": "Gefüllte Aubergine | Couscous-Salat | Joghurt-Minz-Dip",
@@ -1759,81 +1519,38 @@
       ],
       "Abendessen": [
         {
-          "id": "2707873",
+          "id": "2730566",
           "item_id": "17558",
-          "recipe_id": "6355",
-          "description_de": "Hähnchen Fajita Bowl | Black Beans | Cayenne Pfeffer",
-          "description_en": "Chicken Fajita Bowl | Black Beans | Cayenne Pepper",
+          "recipe_id": "7139",
+          "description_de": "Nizza Salat | Thunfisch | Ei*",
+          "description_en": "Nizza Salad | Tuna | Egg*",
           "category": "DINNER BOWL_",
-          "price": "12.00",
+          "price": "11.00",
           "price_2": null,
           "allergens": {
             "huhnerei": "Hühnerei und Hühnereierzeugnisse",
-            "erdnuss": "Erdnüsse und Erdnusserzeugnisse",
-            "senf": "Senf und Senferzeugnisse"
+            "fisch": "Fisch und Fischerzeugnisse",
+            "senf": "Senf und Senferzeugnisse",
+            "schwefel": "Schwefeldioxid und Sulfide"
           },
           "attributes": "",
           "nutrition": "",
           "additives": [
             {
-              "de": "Süßungsmittel",
-              "en": "Sweetener"
-            },
-            {
-              "de": "Farbstoff",
-              "en": "Colouring Agent"
-            },
-            {
               "de": "Antioxidationsmittel",
               "en": "Antioxidation"
+            },
+            {
+              "de": "Alkohol",
+              "en": "Alcohol"
             }
           ],
-          "co2_value": "1098.00",
+          "co2_value": "727.00",
           "co2_rating": "B",
           "print_order": "9"
         },
         {
-          "id": "2707875",
-          "item_id": "17559",
-          "recipe_id": "5110",
-          "description_de": "Roastbeef | Frankfurter Grüne Sauce | Röstkartoffel",
-          "description_en": "Roastbeef | Frankfurter Green Sauce | Roasted Potatoes",
-          "category": "DINNER Meat_17:00-19:00",
-          "price": "12.00",
-          "price_2": null,
-          "allergens": {
-            "huhnerei": "Hühnerei und Hühnereierzeugnisse",
-            "milch": "Milch und Milcherzeugnisse",
-            "senf": "Senf und Senferzeugnisse"
-          },
-          "attributes": {
-            "schwein": "Schwein"
-          },
-          "nutrition": "",
-          "additives": [
-            {
-              "de": "Süßungsmittel",
-              "en": "Sweetener"
-            },
-            {
-              "de": "Farbstoff",
-              "en": "Colouring Agent"
-            },
-            {
-              "de": "Antioxidationsmittel",
-              "en": "Antioxidation"
-            },
-            {
-              "de": "Konservierungsstoff",
-              "en": "Preservatives"
-            }
-          ],
-          "co2_value": "6025.00",
-          "co2_rating": "E",
-          "print_order": "10"
-        },
-        {
-          "id": "2707877",
+          "id": "2730568",
           "item_id": "17560",
           "recipe_id": "6241",
           "description_de": "Lachsfilet | Olivenölschaum | provenzalisches Gemüse",
@@ -1854,7 +1571,7 @@
           "print_order": "11"
         },
         {
-          "id": "2707879",
+          "id": "2730570",
           "item_id": "17561",
           "recipe_id": "3000",
           "description_de": "Gefüllte Aubergine | Couscous-Salat | Joghurt-Minz-Dip",
@@ -1880,14 +1597,14 @@
     }
   },
   "journalistenclub": {
-    "2025-07-22": {
+    "2025-07-23": {
       "Mittagessen": [
         {
-          "id": "2707917",
+          "id": "2730599",
           "item_id": "18568",
           "recipe_id": "6698",
-          "description_de": "Garnelen-Gyoza mit pack Choi Salat, Wasabicreme und Sesam-Chips",
-          "description_en": "Prawn gyoza with pack choi salad, wasabi cream and sesame potato chips",
+          "description_de": "Geflügelleber-Ravioli mit Pfifferlingen, Liebstöckel-Öl und Zwiebelschaum",
+          "description_en": "Chicken liver ravioli with chanterelles, lovage oil, and onion foam",
           "category": "Vorspeise Lunch",
           "price": "12.00",
           "price_2": null,
@@ -1900,11 +1617,11 @@
           "print_order": "0"
         },
         {
-          "id": "2707918",
+          "id": "2730600",
           "item_id": "18569",
           "recipe_id": "6699",
-          "description_de": "Broccoli-Erbsen Suppe mit Mandelschaum",
-          "description_en": "Broccoli and pea soup with almond foam",
+          "description_de": "Spargel-Lauch Suppe mit Parmesanchip",
+          "description_en": "Asparagus and leek soup with parmesan chips",
           "category": "Suppe Lunch",
           "price": "8.00",
           "price_2": null,
@@ -1917,12 +1634,12 @@
           "print_order": "1"
         },
         {
-          "id": "2707919",
-          "item_id": "18570",
-          "recipe_id": "6700",
-          "description_de": "Rosa gegarte Entenbrust mit Pfifferlingen, Kartoffel-Kräuter Mousseline und Rosmarin-Jus",
-          "description_en": "Pink cooked duck breast with chanterelles, potato and herb mousseline and rosemary jus",
-          "category": "Hauptgang Fleisch Lunch",
+          "id": "2730601",
+          "item_id": "18571",
+          "recipe_id": "6701",
+          "description_de": "Filet vom Steinbeißer mit Bohnen, Speck, Birne und Kartoffelplätzchen",
+          "description_en": "Catfish fillet with beans, bacon, pear, and potato pancakes",
+          "category": "Hauptgang Fisch Lunch",
           "price": "27.00",
           "price_2": null,
           "allergens": null,
@@ -1931,16 +1648,16 @@
           "additives": null,
           "co2_value": "0.00",
           "co2_rating": "E",
-          "print_order": "2"
+          "print_order": "3"
         },
         {
-          "id": "2707920",
+          "id": "2730602",
           "item_id": "18572",
           "recipe_id": "6702",
-          "description_de": "Gebackene Aubergine mit Labneh, Falafel, Wildkräutersalat und lila Kartoffel-Ecken",
-          "description_en": "Baked eggplant with labneh, falafel, wild herb salad and purple potato wedges",
+          "description_de": "Variation von der Süßkartoffel mit Grilltomate, Pimientos, gebackene Aubergine und Tomatensalsa",
+          "description_en": "Variation of sweet potato with grilled tomato, pimientos, baked eggplant, and tomato salsa",
           "category": "Hauptgang Vegi / Vegan Lunch",
-          "price": "21.00",
+          "price": "22.00",
           "price_2": null,
           "allergens": null,
           "attributes": "",
@@ -1951,11 +1668,11 @@
           "print_order": "4"
         },
         {
-          "id": "2707921",
+          "id": "2730603",
           "item_id": "18573",
           "recipe_id": "6703",
-          "description_de": "Joghurt-Limetten Mousse mit Apfel-Cranberry Ragout und Baiser",
-          "description_en": "Yoghurt-lime mousse with apple-cranberry ragout and meringue",
+          "description_de": "Schokoladen-Espresso Mille Feuille mit Ananas-Kiwi Salat und Hafer-Chips",
+          "description_en": "Chocolate espresso mille feuille with pineapple and kiwi salad and oat chips",
           "category": "Dessert Lunch",
           "price": "9.00",
           "price_2": null,
