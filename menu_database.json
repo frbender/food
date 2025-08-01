@@ -1,188 +1,10 @@
 {
-  "canteen": {
-    "2025-07-31": {
-      "Mittagessen": [
-        {
-          "id": "2831454",
-          "item_id": "17549",
-          "recipe_id": "7139",
-          "description_de": "Nizza Salat | Thunfisch | Ei*",
-          "description_en": "Nizza Salad | Tuna | Egg*",
-          "category": "COUNTER 1.1 Bowls_",
-          "price": "11.00",
-          "price_2": null,
-          "allergens": {
-            "huhnerei": "Hühnerei und Hühnereierzeugnisse",
-            "fisch": "Fisch und Fischerzeugnisse",
-            "senf": "Senf und Senferzeugnisse",
-            "schwefel": "Schwefeldioxid und Sulfide"
-          },
-          "attributes": "",
-          "nutrition": "",
-          "additives": [
-            {
-              "de": "Antioxidationsmittel",
-              "en": "Antioxidation"
-            },
-            {
-              "de": "Alkohol",
-              "en": "Alcohol"
-            }
-          ],
-          "co2_value": "727.00",
-          "co2_rating": "B",
-          "print_order": "0"
-        },
-        {
-          "id": "2831455",
-          "item_id": "17550",
-          "recipe_id": "5118",
-          "description_de": "Maishähnchen | Ebli | Strauchtomaten | Minzayran",
-          "description_en": "Corn fed Chicken | Ebli | Tomato | Mint Ayran",
-          "category": "COUNTER 2.1 Meat",
-          "price": "12.00",
-          "price_2": null,
-          "allergens": {
-            "gluten": "Glutenhaltiges Getreide",
-            "milch": "Milch und Milcherzeugnisse",
-            "sellerie": "Sellerie und Sellerieerzeugnisse"
-          },
-          "attributes": "",
-          "nutrition": "",
-          "additives": null,
-          "co2_value": "1306.00",
-          "co2_rating": "C",
-          "print_order": "1"
-        },
-        {
-          "id": "2831456",
-          "item_id": "17552",
-          "recipe_id": "6241",
-          "description_de": "Lachsfilet | Olivenölschaum | provenzalisches Gemüse",
-          "description_en": "Salmon | Olive Oil foam | Provencal Vegetables",
-          "category": "COUNTER 3.1 Fish",
-          "price": "12.00",
-          "price_2": null,
-          "allergens": {
-            "fisch": "Fisch und Fischerzeugnisse",
-            "milch": "Milch und Milcherzeugnisse",
-            "sellerie": "Sellerie und Sellerieerzeugnisse"
-          },
-          "attributes": "",
-          "nutrition": "",
-          "additives": null,
-          "co2_value": "1073.00",
-          "co2_rating": "B",
-          "print_order": "3"
-        },
-        {
-          "id": "2831457",
-          "item_id": "17554",
-          "recipe_id": "3000",
-          "description_de": "Gefüllte Aubergine | Couscous-Salat | Joghurt-Minz-Dip",
-          "description_en": "Stuffed aubergine | couscous salad | yoghurt-mint dip",
-          "category": "COUNTER 4.1 Vegi",
-          "price": "9.50",
-          "price_2": null,
-          "allergens": {
-            "gluten": "Glutenhaltiges Getreide",
-            "milch": "Milch und Milcherzeugnisse",
-            "sellerie": "Sellerie und Sellerieerzeugnisse"
-          },
-          "attributes": {
-            "vegetarisch": "Vegetarisch"
-          },
-          "nutrition": "",
-          "additives": null,
-          "co2_value": "682.00",
-          "co2_rating": "C",
-          "print_order": "5"
-        }
-      ],
-      "Abendessen": [
-        {
-          "id": "2831458",
-          "item_id": "17558",
-          "recipe_id": "7139",
-          "description_de": "Nizza Salat | Thunfisch | Ei*",
-          "description_en": "Nizza Salad | Tuna | Egg*",
-          "category": "DINNER BOWL_",
-          "price": "11.00",
-          "price_2": null,
-          "allergens": {
-            "huhnerei": "Hühnerei und Hühnereierzeugnisse",
-            "fisch": "Fisch und Fischerzeugnisse",
-            "senf": "Senf und Senferzeugnisse",
-            "schwefel": "Schwefeldioxid und Sulfide"
-          },
-          "attributes": "",
-          "nutrition": "",
-          "additives": [
-            {
-              "de": "Antioxidationsmittel",
-              "en": "Antioxidation"
-            },
-            {
-              "de": "Alkohol",
-              "en": "Alcohol"
-            }
-          ],
-          "co2_value": "727.00",
-          "co2_rating": "B",
-          "print_order": "9"
-        },
-        {
-          "id": "2831460",
-          "item_id": "17560",
-          "recipe_id": "6241",
-          "description_de": "Lachsfilet | Olivenölschaum | provenzalisches Gemüse",
-          "description_en": "Salmon | Olive Oil foam | Provencal Vegetables",
-          "category": "DINNER Fish_17:00-19:00",
-          "price": "12.00",
-          "price_2": null,
-          "allergens": {
-            "fisch": "Fisch und Fischerzeugnisse",
-            "milch": "Milch und Milcherzeugnisse",
-            "sellerie": "Sellerie und Sellerieerzeugnisse"
-          },
-          "attributes": "",
-          "nutrition": "",
-          "additives": null,
-          "co2_value": "1073.00",
-          "co2_rating": "B",
-          "print_order": "11"
-        },
-        {
-          "id": "2831462",
-          "item_id": "17561",
-          "recipe_id": "3000",
-          "description_de": "Gefüllte Aubergine | Couscous-Salat | Joghurt-Minz-Dip",
-          "description_en": "Stuffed aubergine | couscous salad | yoghurt-mint dip",
-          "category": "DINNER Vegi/Vegan_17:00-19:00",
-          "price": "9.50",
-          "price_2": null,
-          "allergens": {
-            "gluten": "Glutenhaltiges Getreide",
-            "milch": "Milch und Milcherzeugnisse",
-            "sellerie": "Sellerie und Sellerieerzeugnisse"
-          },
-          "attributes": {
-            "vegetarisch": "Vegetarisch"
-          },
-          "nutrition": "",
-          "additives": null,
-          "co2_value": "682.00",
-          "co2_rating": "C",
-          "print_order": "12"
-        }
-      ]
-    }
-  },
+  "canteen": {},
   "journalistenclub": {
-    "2025-07-31": {
+    "2025-08-01": {
       "Mittagessen": [
         {
-          "id": "2831464",
+          "id": "2846050",
           "item_id": "18568",
           "recipe_id": "6698",
           "description_de": "Gebeizter Flammlachs mit grüner Gurkenemulsion, Kartoffelstroh und Joghurt",
@@ -199,7 +21,7 @@
           "print_order": "0"
         },
         {
-          "id": "2831465",
+          "id": "2846051",
           "item_id": "18569",
           "recipe_id": "6699",
           "description_de": "Kartoffel-Wildkräutersuppe mit Croûtons und Schnittlauchöl",
@@ -216,7 +38,7 @@
           "print_order": "1"
         },
         {
-          "id": "2831466",
+          "id": "2846052",
           "item_id": "18570",
           "recipe_id": "6700",
           "description_de": "Coq au Vin und Saltimbocca vom Kikok Maishähnchen mit Ratatouille, Kartoffel-Schmorzwiebelpüree und Rotweinsauce",
@@ -233,13 +55,13 @@
           "print_order": "2"
         },
         {
-          "id": "2831467",
+          "id": "2846053",
           "item_id": "18572",
           "recipe_id": "6702",
           "description_de": "Tagliolini mit Paprikacreme, Oliven-Tapenade und Manchego Chips",
           "description_en": "Tagliolini with paprika cream, olive tapenade and Manchego chips",
           "category": "Hauptgang Vegi / Vegan Lunch",
-          "price": "22.00",
+          "price": "21.00",
           "price_2": null,
           "allergens": null,
           "attributes": "",
@@ -250,13 +72,13 @@
           "print_order": "4"
         },
         {
-          "id": "2831468",
+          "id": "2846054",
           "item_id": "18573",
           "recipe_id": "6703",
-          "description_de": "Hausgemachte Apfel-Birnen-Blätterteig-Tarte mit Vanilleeis und Amaretto-Sahne",
-          "description_en": "Homemade apple and pear puff pastry tart with vanilla ice cream and amaretto cream",
+          "description_de": "Joghurt-Brombeer-Eis mit eingelegten Kirschen, Schoko-Ganache und Zitronenstreusel",
+          "description_en": "Yogurt and blackberry ice cream with preserved cherries, chocolate ganache, and lemon crumble",
           "category": "Dessert Lunch",
-          "price": "9.00",
+          "price": "10.00",
           "price_2": null,
           "allergens": null,
           "attributes": "",
