@@ -1,16 +1,135 @@
 {
-  "canteen": {},
-  "journalistenclub": {
-    "2025-08-04": {
+  "canteen": {
+    "2025-08-19": {
       "Mittagessen": [
         {
-          "id": "2861138",
+          "id": "2873631",
+          "item_id": "17549",
+          "recipe_id": "7943",
+          "description_de": "Beef Burrito Bowl | Koriander-Joghurt | Schwarze Bohnen",
+          "description_en": "Burrito Bowl | Coriander Yoghurt | Black Beans",
+          "category": "COUNTER 1.1 Bowls_",
+          "price": "11.00",
+          "price_2": null,
+          "allergens": {
+            "milch": "Milch und Milcherzeugnisse",
+            "erdnuss": "Erdnüsse und Erdnusserzeugnisse",
+            "sellerie": "Sellerie und Sellerieerzeugnisse"
+          },
+          "attributes": "",
+          "nutrition": "",
+          "additives": [
+            {
+              "de": "Antioxidationsmittel",
+              "en": "Antioxidation"
+            }
+          ],
+          "co2_value": "1446.00",
+          "co2_rating": "C",
+          "print_order": "0"
+        },
+        {
+          "id": "2873632",
+          "item_id": "17550",
+          "recipe_id": "2878",
+          "description_de": "Lammhüfte | Balsamico | Süßkartoffel | Kreuzkümmel",
+          "description_en": "Braised Lamb | Balsamico | Sweetpotato | Cumin",
+          "category": "COUNTER 2.1 Meat",
+          "price": "12.00",
+          "price_2": null,
+          "allergens": {
+            "milch": "Milch und Milcherzeugnisse",
+            "sellerie": "Sellerie und Sellerieerzeugnisse",
+            "schwefel": "Schwefeldioxid und Sulfide"
+          },
+          "attributes": "",
+          "nutrition": "",
+          "additives": [
+            {
+              "de": "Konservierungsstoff",
+              "en": "Preservatives"
+            },
+            {
+              "de": "Alkohol",
+              "en": "Alcohol"
+            }
+          ],
+          "co2_value": "5966.00",
+          "co2_rating": "E",
+          "print_order": "1"
+        },
+        {
+          "id": "2873633",
+          "item_id": "17552",
+          "recipe_id": "7576",
+          "description_de": "Lachs | Reisnudeln | Rote Bete | Fenchel",
+          "description_en": "Salmon | Rice Noodles | Beeteroot | Fennel",
+          "category": "COUNTER 3.1 Fish",
+          "price": "12.00",
+          "price_2": null,
+          "allergens": {
+            "gluten": "Glutenhaltiges Getreide",
+            "fisch": "Fisch und Fischerzeugnisse",
+            "milch": "Milch und Milcherzeugnisse",
+            "sellerie": "Sellerie und Sellerieerzeugnisse",
+            "schwefel": "Schwefeldioxid und Sulfide"
+          },
+          "attributes": "",
+          "nutrition": "",
+          "additives": [
+            {
+              "de": "Antioxidationsmittel",
+              "en": "Antioxidation"
+            },
+            {
+              "de": "Alkohol",
+              "en": "Alcohol"
+            }
+          ],
+          "co2_value": "1179.00",
+          "co2_rating": "B",
+          "print_order": "3"
+        },
+        {
+          "id": "2873634",
+          "item_id": "17554",
+          "recipe_id": "4691",
+          "description_de": "Lauwarmer Linsensalat | Tofu | Avocado",
+          "description_en": "Warm Lentilsalad | Tofu | Avocado",
+          "category": "COUNTER 4.1 Vegi",
+          "price": "9.50",
+          "price_2": null,
+          "allergens": {
+            "gluten": "Glutenhaltiges Getreide",
+            "soja": "Soja und Sojaerzeugnisse",
+            "sellerie": "Sellerie und Sellerieerzeugnisse",
+            "senf": "Senf und Senferzeugnisse",
+            "schwefel": "Schwefeldioxid und Sulfide"
+          },
+          "attributes": {
+            "vegan": "Vegan",
+            "vegetarisch": "Vegetarisch"
+          },
+          "nutrition": "",
+          "additives": null,
+          "co2_value": "201.00",
+          "co2_rating": "A",
+          "print_order": "5"
+        }
+      ]
+    }
+  },
+  "journalistenclub": {
+    "2025-08-05": {
+      "Mittagessen": [
+        {
+          "id": "2873635",
           "item_id": "18568",
           "recipe_id": "6698",
           "description_de": "Chicorée und Endivie mit gegrillter Aprikose, gebackenem Reblochon und Trauben-Vinaigrette",
-          "description_en": "Chicory and endive with grilled apricot, baked Reblochon cheese, and grape vinaigrette",
+          "description_en": "Chicory and endive with grilled apricot, baked Reblochon cheese and grape vinaigrette",
           "category": "Vorspeise Lunch",
-          "price": "13.00",
+          "price": "12.00",
           "price_2": null,
           "allergens": null,
           "attributes": "",
@@ -21,7 +140,7 @@
           "print_order": "0"
         },
         {
-          "id": "2861139",
+          "id": "2873636",
           "item_id": "18569",
           "recipe_id": "6699",
           "description_de": "Kohlrabisuppe mit frischer Mango und Minze",
@@ -38,13 +157,13 @@
           "print_order": "1"
         },
         {
-          "id": "2861140",
+          "id": "2873637",
           "item_id": "18571",
           "recipe_id": "6701",
           "description_de": "Gebratenes Makrelenfilet mit rotem Sellerie, grünem Spargel und Ahorn-Umami-Sud",
           "description_en": "Pan-fried mackerel fillet with red celery, green asparagus, and maple umami broth",
           "category": "Hauptgang Fisch Lunch",
-          "price": "26.00",
+          "price": "25.00",
           "price_2": null,
           "allergens": null,
           "attributes": "",
@@ -55,13 +174,13 @@
           "print_order": "3"
         },
         {
-          "id": "2861141",
+          "id": "2873638",
           "item_id": "18572",
           "recipe_id": "6702",
-          "description_de": "Rote Bete Bulgur mit gebackener Zucchini, Sesam-Joghurt und Radieschen-Frühlingslauch Vinaigrette",
+          "description_de": "Rote Bete Bulgur mit gebackener Zucchini, Sesam-Joghurt und Radieschen-Frühlingslauch-Vinaigrette",
           "description_en": "Beetroot bulgur with baked zucchini, sesame yogurt, and radish and spring onion vinaigrette",
           "category": "Hauptgang Vegi / Vegan Lunch",
-          "price": "21.00",
+          "price": "22.00",
           "price_2": null,
           "allergens": null,
           "attributes": "",
@@ -72,7 +191,7 @@
           "print_order": "4"
         },
         {
-          "id": "2861142",
+          "id": "2873639",
           "item_id": "18573",
           "recipe_id": "6703",
           "description_de": "Nougat-Mousse mit eingelegtem Pfirsich, Mohn-Küchlein und Pfeffer-Karamell",
