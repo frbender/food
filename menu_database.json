@@ -1,204 +1,5 @@
 {
   "canteen": {
-    "2026-03-03": {
-      "Mittagessen": [
-        {
-          "id": "6084568",
-          "item_id": "17549",
-          "recipe_id": "4040",
-          "description_de": "Glasnudeln | Champignons | Tofu",
-          "description_en": "Glass Noodles | Mushrooms | Tofu",
-          "category": "COUNTER 1.1 Bowls_",
-          "price": "10.00",
-          "price_2": null,
-          "allergens": {
-            "gluten": "Glutenhaltiges Getreide",
-            "soja": "Soja und Sojaerzeugnisse",
-            "erdnuss": "Erdnüsse und Erdnusserzeugnisse",
-            "sesam": "Sesamsamen und Sesamsamenerzeugnisse"
-          },
-          "attributes": {
-            "vegan": "Vegan",
-            "vegetarisch": "Vegetarisch"
-          },
-          "nutrition": "",
-          "additives": null,
-          "co2_value": "759.00",
-          "co2_rating": "B",
-          "print_order": "0"
-        },
-        {
-          "id": "6084569",
-          "item_id": "17550",
-          "recipe_id": "9083",
-          "description_de": "Putenbraten | Gnocchi | Buttergemüse",
-          "description_en": "Turkey Roast | Gnocchi | Butter Vegetables",
-          "category": "COUNTER 2.1 Meat",
-          "price": "12.00",
-          "price_2": null,
-          "allergens": {
-            "gluten": "Glutenhaltiges Getreide",
-            "milch": "Milch und Milcherzeugnisse",
-            "sellerie": "Sellerie und Sellerieerzeugnisse",
-            "schwefel": "Schwefeldioxid und Sulfide"
-          },
-          "attributes": "",
-          "nutrition": "",
-          "additives": [
-            {
-              "de": "Alkohol",
-              "en": "Alcohol"
-            }
-          ],
-          "co2_value": "1710.00",
-          "co2_rating": "B",
-          "print_order": "1"
-        },
-        {
-          "id": "6084570",
-          "item_id": "17552",
-          "recipe_id": "2941",
-          "description_de": "Warm geräucherter Lachs | Kartoffelrösti | Schnittlauch-Crème fraîche",
-          "description_en": "Warm-Smoked Salmon | Potato Rösti | Chive Crème Fraîche",
-          "category": "COUNTER 3.1 Fish",
-          "price": "12.00",
-          "price_2": null,
-          "allergens": {
-            "fisch": "Fisch und Fischerzeugnisse",
-            "milch": "Milch und Milcherzeugnisse",
-            "senf": "Senf und Senferzeugnisse",
-            "schwefel": "Schwefeldioxid und Sulfide"
-          },
-          "attributes": "",
-          "nutrition": "",
-          "additives": [
-            {
-              "de": "geschwefelt",
-              "en": "Sulphurous"
-            },
-            {
-              "de": "Antioxidationsmittel",
-              "en": "Antioxidation"
-            },
-            {
-              "de": "Konservierungsstoff",
-              "en": "Preservatives"
-            }
-          ],
-          "co2_value": "1143.00",
-          "co2_rating": "B",
-          "print_order": "3"
-        },
-        {
-          "id": "6084571",
-          "item_id": "17554",
-          "recipe_id": "4976",
-          "description_de": "Kichererbsenragout | Aubergine | Gebackener Halloumi",
-          "description_en": "Chick Pea Stew | Aubergine | Baked Halloumi",
-          "category": "COUNTER 4.1 Vegi",
-          "price": "9.50",
-          "price_2": null,
-          "allergens": {
-            "milch": "Milch und Milcherzeugnisse",
-            "sellerie": "Sellerie und Sellerieerzeugnisse",
-            "sesam": "Sesamsamen und Sesamsamenerzeugnisse"
-          },
-          "attributes": {
-            "vegetarisch": "Vegetarisch"
-          },
-          "nutrition": "",
-          "additives": null,
-          "co2_value": "1050.00",
-          "co2_rating": "B",
-          "print_order": "5"
-        }
-      ],
-      "Abendessen": [
-        {
-          "id": "6084572",
-          "item_id": "17558",
-          "recipe_id": "4040",
-          "description_de": "Glasnudeln | Champignons | Tofu",
-          "description_en": "Glass Noodles | Mushrooms | Tofu",
-          "category": "DINNER BOWL_",
-          "price": "10.00",
-          "price_2": null,
-          "allergens": {
-            "gluten": "Glutenhaltiges Getreide",
-            "soja": "Soja und Sojaerzeugnisse",
-            "erdnuss": "Erdnüsse und Erdnusserzeugnisse",
-            "sesam": "Sesamsamen und Sesamsamenerzeugnisse"
-          },
-          "attributes": {
-            "vegan": "Vegan",
-            "vegetarisch": "Vegetarisch"
-          },
-          "nutrition": "",
-          "additives": null,
-          "co2_value": "759.00",
-          "co2_rating": "B",
-          "print_order": "9"
-        },
-        {
-          "id": "6084574",
-          "item_id": "17560",
-          "recipe_id": "2941",
-          "description_de": "Warm geräucherter Lachs | Kartoffelrösti | Schnittlauch-Crème fraîche",
-          "description_en": "Warm-Smoked Salmon | Potato Rösti | Chive Crème Fraîche",
-          "category": "DINNER Fish_17:00-19:00",
-          "price": "12.00",
-          "price_2": null,
-          "allergens": {
-            "fisch": "Fisch und Fischerzeugnisse",
-            "milch": "Milch und Milcherzeugnisse",
-            "senf": "Senf und Senferzeugnisse",
-            "schwefel": "Schwefeldioxid und Sulfide"
-          },
-          "attributes": "",
-          "nutrition": "",
-          "additives": [
-            {
-              "de": "geschwefelt",
-              "en": "Sulphurous"
-            },
-            {
-              "de": "Antioxidationsmittel",
-              "en": "Antioxidation"
-            },
-            {
-              "de": "Konservierungsstoff",
-              "en": "Preservatives"
-            }
-          ],
-          "co2_value": "1143.00",
-          "co2_rating": "B",
-          "print_order": "11"
-        },
-        {
-          "id": "6084576",
-          "item_id": "17561",
-          "recipe_id": "4976",
-          "description_de": "Kichererbsenragout | Aubergine | Gebackener Halloumi",
-          "description_en": "Chick Pea Stew | Aubergine | Baked Halloumi",
-          "category": "DINNER Vegi/Vegan_17:00-19:00",
-          "price": "9.50",
-          "price_2": null,
-          "allergens": {
-            "milch": "Milch und Milcherzeugnisse",
-            "sellerie": "Sellerie und Sellerieerzeugnisse",
-            "sesam": "Sesamsamen und Sesamsamenerzeugnisse"
-          },
-          "attributes": {
-            "vegetarisch": "Vegetarisch"
-          },
-          "nutrition": "",
-          "additives": null,
-          "co2_value": "1050.00",
-          "co2_rating": "B",
-          "print_order": "12"
-        }
-      ]
-    },
     "2026-03-04": {
       "Mittagessen": [
         {
@@ -3409,95 +3210,6 @@
     }
   },
   "journalistenclub": {
-    "2026-03-03": {
-      "Mittagessen": [
-        {
-          "id": "6084727",
-          "item_id": "18568",
-          "recipe_id": "6698",
-          "description_de": "Vitello Tonnato mit confierten Tomaten, Limette und gebackenen Kapern",
-          "description_en": "Vitello tonnato with confit tomatoes, lime, and baked capers",
-          "category": "Vorspeise Lunch",
-          "price": "13.00",
-          "price_2": null,
-          "allergens": null,
-          "attributes": "",
-          "nutrition": "",
-          "additives": null,
-          "co2_value": "0.00",
-          "co2_rating": "E",
-          "print_order": "0"
-        },
-        {
-          "id": "6084728",
-          "item_id": "18569",
-          "recipe_id": "6699",
-          "description_de": "Pilzcremesuppe mit Croûtons und Kräuter-Öl",
-          "description_en": "Mushroom cream soup with croutons and herb oil",
-          "category": "Suppe Lunch",
-          "price": "9.00",
-          "price_2": null,
-          "allergens": null,
-          "attributes": "",
-          "nutrition": "",
-          "additives": null,
-          "co2_value": "0.00",
-          "co2_rating": "E",
-          "print_order": "1"
-        },
-        {
-          "id": "6084729",
-          "item_id": "18571",
-          "recipe_id": "6701",
-          "description_de": "Schwarzes Risotto mit confiertem Saibling, Fenchel-Gemüse und Oliven-Öl Espuma",
-          "description_en": "Black risotto with confit char, fennel vegetables, and olive oil espuma",
-          "category": "Hauptgang Fisch Lunch",
-          "price": "28.00",
-          "price_2": null,
-          "allergens": null,
-          "attributes": "",
-          "nutrition": "",
-          "additives": null,
-          "co2_value": "0.00",
-          "co2_rating": "E",
-          "print_order": "3"
-        },
-        {
-          "id": "6084730",
-          "item_id": "18572",
-          "recipe_id": "6702",
-          "description_de": "Risotto von Fregola Sarda mit mariniertem veganen Feta und Sauerampfer-Pesto",
-          "description_en": "Risotto made with Fregola Sarda pasta, marinated vegan feta cheese and sorrel pesto",
-          "category": "Hauptgang Vegi / Vegan Lunch",
-          "price": "24.00",
-          "price_2": null,
-          "allergens": null,
-          "attributes": "",
-          "nutrition": "",
-          "additives": null,
-          "co2_value": "0.00",
-          "co2_rating": "E",
-          "print_order": "4"
-        },
-        {
-          "id": "6084731",
-          "item_id": "18573",
-          "recipe_id": "6703",
-          "description_de": "Schokoladen-Bisquit mit Vanillecreme, pochierter Birne und Portwein-Buttermilch-Eis",
-          "description_en": "Chocolate sponge cake with vanilla cream, poached pear, and port wine buttermilk ice cream",
-          "category": "Dessert Lunch",
-          "price": "9.00",
-          "price_2": null,
-          "allergens": null,
-          "attributes": "",
-          "nutrition": "",
-          "additives": null,
-          "co2_value": "0.00",
-          "co2_rating": "E",
-          "print_order": "5"
-        }
-      ]
-    },
     "2026-03-04": {
       "Mittagessen": [
         {
@@ -3857,13 +3569,13 @@
     "2026-03-10": {
       "Mittagessen": [
         {
-          "id": "6169741",
+          "id": "6181585",
           "item_id": "18568",
           "recipe_id": "6698",
-          "description_de": "Confierter Kabeljau auf Steckrübencreme, Wirsing-Strudel, Birnen-Chutney und Orangen Beurre Blanc",
+          "description_de": "Confierter Kabeljau auf Steckrübencreme, Wirsing-Strudel, Birnen-Chutney und Orangen-Beurre-Blanc",
           "description_en": "Confit cod on rutabaga cream, savoy cabbage strudel, pear chutney, and orange beurre blanc",
           "category": "Vorspeise Lunch",
-          "price": "12.00",
+          "price": "13.00",
           "price_2": null,
           "allergens": null,
           "attributes": "",
@@ -3874,13 +3586,13 @@
           "print_order": "0"
         },
         {
-          "id": "6169742",
+          "id": "6181586",
           "item_id": "18569",
           "recipe_id": "6699",
-          "description_de": "Zitronengras Consommé mit Eierstich und Schnittlauch",
+          "description_de": "Zitronengras-Consommé mit Eierstich und Schnittlauch",
           "description_en": "Lemongrass consommé with egg dumplings and chives",
           "category": "Suppe Lunch",
-          "price": "8.00",
+          "price": "9.00",
           "price_2": null,
           "allergens": null,
           "attributes": "",
@@ -3891,10 +3603,10 @@
           "print_order": "1"
         },
         {
-          "id": "6169743",
+          "id": "6181587",
           "item_id": "18570",
           "recipe_id": "6700",
-          "description_de": "Schaufelbraten mit Wurzelgemüse, Kartoffel-Meerrettich Mousseline und Rosmarin-Jus",
+          "description_de": "Schaufelbraten mit Wurzelgemüse, Kartoffel-Meerrettich-Mousseline und Rosmarin-Jus",
           "description_en": "Roast pork with root vegetables, potato and horseradish mousseline, and rosemary jus",
           "category": "Hauptgang Fleisch Lunch",
           "price": "27.00",
@@ -3908,10 +3620,10 @@
           "print_order": "2"
         },
         {
-          "id": "6169744",
+          "id": "6181588",
           "item_id": "18572",
           "recipe_id": "6702",
-          "description_de": "Trüffelpasta mit Tempura Bete, Ofenlauch und Sauerampfer-Pesto",
+          "description_de": "Trüffelpasta mit Tempura-Bete, Ofenlauch und Sauerampfer-Pesto",
           "description_en": "Truffle pasta with tempura beetroot, oven-roasted leeks, and sorrel pesto",
           "category": "Hauptgang Vegi / Vegan Lunch",
           "price": "22.00",
@@ -3925,7 +3637,7 @@
           "print_order": "4"
         },
         {
-          "id": "6169745",
+          "id": "6181589",
           "item_id": "18573",
           "recipe_id": "6703",
           "description_de": "Vanille Panna Cotta mit Beerenragout, salziges Karamell und Tonka-Hippe",
