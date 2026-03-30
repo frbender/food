@@ -1,221 +1,5 @@
 {
   "canteen": {
-    "2026-03-22": {
-      "Abendessen": [
-        {
-          "id": "6365388",
-          "item_id": "17864",
-          "recipe_id": "9000",
-          "description_de": "Currywurst | Fritten | Salat",
-          "description_en": "Curry Sausage | Steakhouse Chips | Salad",
-          "category": "DINNER Meat _|",
-          "price": "12.00",
-          "price_2": null,
-          "allergens": {
-            "huhnerei": "Hühnerei und Hühnereierzeugnisse",
-            "sellerie": "Sellerie und Sellerieerzeugnisse",
-            "senf": "Senf und Senferzeugnisse",
-            "schwefel": "Schwefeldioxid und Sulfide"
-          },
-          "attributes": "",
-          "nutrition": "",
-          "additives": [
-            {
-              "de": "Süßungsmittel",
-              "en": "Sweetener"
-            },
-            {
-              "de": "Phosphat",
-              "en": "Phosphate"
-            },
-            {
-              "de": "Farbstoff",
-              "en": "Colouring Agent"
-            },
-            {
-              "de": "Antioxidationsmittel",
-              "en": "Antioxidation"
-            },
-            {
-              "de": "Konservierungsstoff",
-              "en": "Preservatives"
-            }
-          ],
-          "co2_value": "1013.00",
-          "co2_rating": "B",
-          "print_order": "18"
-        },
-        {
-          "id": "6365391",
-          "item_id": "17865",
-          "recipe_id": "8972",
-          "description_de": "Rotbarschfilet | Kartoffel-Blumenkohlpüree | Weißweinsauce",
-          "description_en": "Redfish | Potato and Cauliflower Purée | White Wine Sauce",
-          "category": "DINNER Fish _|",
-          "price": "12.00",
-          "price_2": null,
-          "allergens": {
-            "fisch": "Fisch und Fischerzeugnisse",
-            "milch": "Milch und Milcherzeugnisse",
-            "sellerie": "Sellerie und Sellerieerzeugnisse",
-            "schwefel": "Schwefeldioxid und Sulfide"
-          },
-          "attributes": "",
-          "nutrition": "",
-          "additives": [
-            {
-              "de": "Alkohol",
-              "en": "Alcohol"
-            }
-          ],
-          "co2_value": "1165.00",
-          "co2_rating": "B",
-          "print_order": "19"
-        },
-        {
-          "id": "6365394",
-          "item_id": "17866",
-          "recipe_id": "4564",
-          "description_de": "Kichererbsen-Masala | Basmati | Papadam",
-          "description_en": "Chickpea Masala | Basmati Rice | Papadam",
-          "category": "DINNER Vegi / Vegan_|",
-          "price": "9.50",
-          "price_2": null,
-          "allergens": {
-            "sellerie": "Sellerie und Sellerieerzeugnisse"
-          },
-          "attributes": {
-            "vegan": "Vegan",
-            "vegetarisch": "Vegetarisch"
-          },
-          "nutrition": "",
-          "additives": [
-            {
-              "de": "Süßungsmittel",
-              "en": "Sweetener"
-            },
-            {
-              "de": "Phenylalaninquelle",
-              "en": "Phenylalanine"
-            },
-            {
-              "de": "Konservierungsstoff",
-              "en": "Preservatives"
-            }
-          ],
-          "co2_value": "530.00",
-          "co2_rating": "A",
-          "print_order": "20"
-        }
-      ],
-      "Mittagessen": [
-        {
-          "id": "6365389",
-          "item_id": "17864",
-          "recipe_id": "9000",
-          "description_de": "Currywurst | Fritten | Salat",
-          "description_en": "Curry Sausage | Steakhouse Chips | Salad",
-          "category": "DINNER Meat _|",
-          "price": "12.00",
-          "price_2": null,
-          "allergens": {
-            "huhnerei": "Hühnerei und Hühnereierzeugnisse",
-            "sellerie": "Sellerie und Sellerieerzeugnisse",
-            "senf": "Senf und Senferzeugnisse",
-            "schwefel": "Schwefeldioxid und Sulfide"
-          },
-          "attributes": "",
-          "nutrition": "",
-          "additives": [
-            {
-              "de": "Süßungsmittel",
-              "en": "Sweetener"
-            },
-            {
-              "de": "Phosphat",
-              "en": "Phosphate"
-            },
-            {
-              "de": "Farbstoff",
-              "en": "Colouring Agent"
-            },
-            {
-              "de": "Antioxidationsmittel",
-              "en": "Antioxidation"
-            },
-            {
-              "de": "Konservierungsstoff",
-              "en": "Preservatives"
-            }
-          ],
-          "co2_value": "1013.00",
-          "co2_rating": "B",
-          "print_order": "18"
-        },
-        {
-          "id": "6365392",
-          "item_id": "17865",
-          "recipe_id": "8972",
-          "description_de": "Rotbarschfilet | Kartoffel-Blumenkohlpüree | Weißweinsauce",
-          "description_en": "Redfish | Potato and Cauliflower Purée | White Wine Sauce",
-          "category": "DINNER Fish _|",
-          "price": "12.00",
-          "price_2": null,
-          "allergens": {
-            "fisch": "Fisch und Fischerzeugnisse",
-            "milch": "Milch und Milcherzeugnisse",
-            "sellerie": "Sellerie und Sellerieerzeugnisse",
-            "schwefel": "Schwefeldioxid und Sulfide"
-          },
-          "attributes": "",
-          "nutrition": "",
-          "additives": [
-            {
-              "de": "Alkohol",
-              "en": "Alcohol"
-            }
-          ],
-          "co2_value": "1165.00",
-          "co2_rating": "B",
-          "print_order": "19"
-        },
-        {
-          "id": "6365395",
-          "item_id": "17866",
-          "recipe_id": "4564",
-          "description_de": "Kichererbsen-Masala | Basmati | Papadam",
-          "description_en": "Chickpea Masala | Basmati Rice | Papadam",
-          "category": "DINNER Vegi / Vegan_|",
-          "price": "9.50",
-          "price_2": null,
-          "allergens": {
-            "sellerie": "Sellerie und Sellerieerzeugnisse"
-          },
-          "attributes": {
-            "vegan": "Vegan",
-            "vegetarisch": "Vegetarisch"
-          },
-          "nutrition": "",
-          "additives": [
-            {
-              "de": "Süßungsmittel",
-              "en": "Sweetener"
-            },
-            {
-              "de": "Phenylalaninquelle",
-              "en": "Phenylalanine"
-            },
-            {
-              "de": "Konservierungsstoff",
-              "en": "Preservatives"
-            }
-          ],
-          "co2_value": "530.00",
-          "co2_rating": "A",
-          "print_order": "20"
-        }
-      ]
-    },
     "2026-03-23": {
       "Mittagessen": [
         {
@@ -3966,6 +3750,95 @@
           "recipe_id": "6703",
           "description_de": "Crème Brûlée mit mariniertem Obst und Quark-Brombeer Eis",
           "description_en": "Crème brûlée with marinated fruit and blackberry quark ice cream",
+          "category": "Dessert Lunch",
+          "price": "9.00",
+          "price_2": null,
+          "allergens": null,
+          "attributes": "",
+          "nutrition": "",
+          "additives": null,
+          "co2_value": "0.00",
+          "co2_rating": "E",
+          "print_order": "5"
+        }
+      ]
+    },
+    "2026-03-30": {
+      "Mittagessen": [
+        {
+          "id": "6498574",
+          "item_id": "18568",
+          "recipe_id": "6698",
+          "description_de": "Tatar von der geräucherten Urkarotte \nmit Aprikose, gelbe Bete, Joghurt-Emulsion",
+          "description_en": "Smoked heirloom carrot tartare \nwith apricot, yellow beet, and yogurt emulsion",
+          "category": "Vorspeise Lunch",
+          "price": "12.00",
+          "price_2": null,
+          "allergens": null,
+          "attributes": "",
+          "nutrition": "",
+          "additives": null,
+          "co2_value": "0.00",
+          "co2_rating": "E",
+          "print_order": "0"
+        },
+        {
+          "id": "6498575",
+          "item_id": "18569",
+          "recipe_id": "6699",
+          "description_de": "Tomaten-Consommé mit Concassé und Kräutern",
+          "description_en": "Tomato consommé with concassé and herbs",
+          "category": "Suppe Lunch",
+          "price": "9.00",
+          "price_2": null,
+          "allergens": null,
+          "attributes": "",
+          "nutrition": "",
+          "additives": null,
+          "co2_value": "0.00",
+          "co2_rating": "E",
+          "print_order": "1"
+        },
+        {
+          "id": "6498576",
+          "item_id": "18570",
+          "recipe_id": "6700",
+          "description_de": "Maishähnchenbrust mit Kräuterkruste, Ofengemüse und Kürbis,\nKartoffel-Kräutermousseline und Rosmarin-Jus",
+          "description_en": "Corn-fed chicken breast with herb crust, \nroasted vegetables, and pumpkin,\npotato and herb mousseline, and rosemary jus",
+          "category": "Hauptgang Fleisch Lunch",
+          "price": "29.00",
+          "price_2": null,
+          "allergens": null,
+          "attributes": "",
+          "nutrition": "",
+          "additives": null,
+          "co2_value": "0.00",
+          "co2_rating": "E",
+          "print_order": "2"
+        },
+        {
+          "id": "6498577",
+          "item_id": "18572",
+          "recipe_id": "6702",
+          "description_de": "Blätterteigtasche mit Spitzkohl, Spinat und Feta, \ndazu Süßkartoffelmousseline und Tomatenschaum",
+          "description_en": "Puff pastry pocket with pointed cabbage, spinach, and feta, \nserved with sweet potato mousseline and tomato foam",
+          "category": "Hauptgang Vegi / Vegan Lunch",
+          "price": "24.00",
+          "price_2": null,
+          "allergens": null,
+          "attributes": "",
+          "nutrition": "",
+          "additives": null,
+          "co2_value": "0.00",
+          "co2_rating": "E",
+          "print_order": "4"
+        },
+        {
+          "id": "6498578",
+          "item_id": "18573",
+          "recipe_id": "6703",
+          "description_de": "Crème Brûlée Törtchen mit Waldbeerragout, \nApfel-Karamell-Eis und Kakao-Crumble",
+          "description_en": "Crème brûlée tartlet with wild berry ragout, \napple-caramel ice cream, and cocoa crumble",
           "category": "Dessert Lunch",
           "price": "9.00",
           "price_2": null,
