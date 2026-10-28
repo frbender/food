@@ -1,185 +1,5 @@
 {
   "canteen": {
-    "2026-10-20": {
-      "Mittagessen": [
-        {
-          "id": "10866967",
-          "item_id": "17549",
-          "recipe_id": "4473",
-          "description_de": "Risoni-Pasta | Gegrilltes Gemüse | Putengyros",
-          "description_en": "Orzo Pasta | Grilled Vegetables | Turkey Gyrost",
-          "category": "COUNTER 1.1 Bowls_",
-          "price": "12.00",
-          "price_2": null,
-          "allergens": {
-            "gluten": "Glutenhaltiges Getreide",
-            "schalenfruchte": "Schalenfrüchte und Schalenfruchterzeugnisse",
-            "milch": "Milch und Milcherzeugnisse",
-            "schwefel": "Schwefeldioxid und Sulfide"
-          },
-          "attributes": "",
-          "nutrition": null,
-          "additives": [
-            {
-              "de": "Konservierungsstoff",
-              "en": "Preservatives"
-            }
-          ],
-          "co2_value": "1584.00",
-          "co2_rating": "B",
-          "print_order": "0"
-        },
-        {
-          "id": "10866968",
-          "item_id": "17550",
-          "recipe_id": "9300",
-          "description_de": "Bolognese | Tagliatelle | Parmesan",
-          "description_en": "Bolognese | Tagliatelle | Parmesan",
-          "category": "COUNTER 2.1 Meat",
-          "price": "12.00",
-          "price_2": null,
-          "allergens": {
-            "gluten": "Glutenhaltiges Getreide",
-            "schalenfruchte": "Schalenfrüchte und Schalenfruchterzeugnisse",
-            "milch": "Milch und Milcherzeugnisse",
-            "sellerie": "Sellerie und Sellerieerzeugnisse",
-            "schwefel": "Schwefeldioxid und Sulfide"
-          },
-          "attributes": "",
-          "nutrition": null,
-          "additives": [
-            {
-              "de": "Konservierungsstoff",
-              "en": "Preservatives"
-            },
-            {
-              "de": "Alkohol",
-              "en": "Alcohol"
-            }
-          ],
-          "co2_value": "1807.00",
-          "co2_rating": "B",
-          "print_order": "1"
-        },
-        {
-          "id": "10866969",
-          "item_id": "17552",
-          "recipe_id": "9523",
-          "description_de": "Hoki Sichaun  | Asia Gemüse | Jasmin Reis",
-          "description_en": "Sichuan-style Hoki | Asian Vegetables | Jasmin Rice",
-          "category": "COUNTER 3.1 Fish",
-          "price": "12.00",
-          "price_2": null,
-          "allergens": {
-            "gluten": "Glutenhaltiges Getreide",
-            "fisch": "Fisch und Fischerzeugnisse",
-            "soja": "Soja und Sojaerzeugnisse",
-            "sellerie": "Sellerie und Sellerieerzeugnisse"
-          },
-          "attributes": "",
-          "nutrition": null,
-          "additives": null,
-          "co2_value": "1065.00",
-          "co2_rating": "C",
-          "print_order": "3"
-        },
-        {
-          "id": "10866970",
-          "item_id": "17554",
-          "recipe_id": "9332",
-          "description_de": "Mushroots Pilz Bällchen | Kichererbsen | Harissa",
-          "description_en": "Mushroots Mushroom Dumplings | Chick Peas | Harissa",
-          "category": "COUNTER 4.1 Vegi",
-          "price": "10.00",
-          "price_2": null,
-          "allergens": {
-            "gluten": "Glutenhaltiges Getreide",
-            "schalenfruchte": "Schalenfrüchte und Schalenfruchterzeugnisse",
-            "sellerie": "Sellerie und Sellerieerzeugnisse",
-            "weizen": "Weizen"
-          },
-          "attributes": "",
-          "nutrition": null,
-          "additives": null,
-          "co2_value": "390.00",
-          "co2_rating": "A",
-          "print_order": "6"
-        }
-      ],
-      "Abendessen": [
-        {
-          "id": "10866971",
-          "item_id": "17558",
-          "recipe_id": "4473",
-          "description_de": "Risoni-Pasta | Gegrilltes Gemüse | Putengyros",
-          "description_en": "Orzo Pasta | Grilled Vegetables | Turkey Gyrost",
-          "category": "DINNER BOWL_",
-          "price": "12.00",
-          "price_2": null,
-          "allergens": {
-            "gluten": "Glutenhaltiges Getreide",
-            "schalenfruchte": "Schalenfrüchte und Schalenfruchterzeugnisse",
-            "milch": "Milch und Milcherzeugnisse",
-            "schwefel": "Schwefeldioxid und Sulfide"
-          },
-          "attributes": "",
-          "nutrition": null,
-          "additives": [
-            {
-              "de": "Konservierungsstoff",
-              "en": "Preservatives"
-            }
-          ],
-          "co2_value": "1584.00",
-          "co2_rating": "B",
-          "print_order": "10"
-        },
-        {
-          "id": "10866973",
-          "item_id": "17560",
-          "recipe_id": "9523",
-          "description_de": "Hoki Sichaun  | Asia Gemüse | Jasmin Reis",
-          "description_en": "Sichuan-style Hoki | Asian Vegetables | Jasmin Rice",
-          "category": "DINNER Fish_17:00-19:00",
-          "price": "12.00",
-          "price_2": null,
-          "allergens": {
-            "gluten": "Glutenhaltiges Getreide",
-            "fisch": "Fisch und Fischerzeugnisse",
-            "soja": "Soja und Sojaerzeugnisse",
-            "sellerie": "Sellerie und Sellerieerzeugnisse"
-          },
-          "attributes": "",
-          "nutrition": null,
-          "additives": null,
-          "co2_value": "1065.00",
-          "co2_rating": "C",
-          "print_order": "12"
-        },
-        {
-          "id": "10866975",
-          "item_id": "17561",
-          "recipe_id": "9332",
-          "description_de": "Mushroots Pilz Bällchen | Kichererbsen | Harissa",
-          "description_en": "Mushroots Mushroom Dumplings | Chick Peas | Harissa",
-          "category": "DINNER Vegi/Vegan_17:00-19:00",
-          "price": "10.00",
-          "price_2": null,
-          "allergens": {
-            "gluten": "Glutenhaltiges Getreide",
-            "schalenfruchte": "Schalenfrüchte und Schalenfruchterzeugnisse",
-            "sellerie": "Sellerie und Sellerieerzeugnisse",
-            "weizen": "Weizen"
-          },
-          "attributes": "",
-          "nutrition": null,
-          "additives": null,
-          "co2_value": "390.00",
-          "co2_rating": "A",
-          "print_order": "13"
-        }
-      ]
-    },
     "2026-10-21": {
       "Mittagessen": [
         {
@@ -1233,7 +1053,7 @@
     "2026-10-27": {
       "Mittagessen": [
         {
-          "id": "11033224",
+          "id": "11041369",
           "item_id": "17549",
           "recipe_id": "9591",
           "description_de": "Couscous-Salat | Schweinefilet | BBQ-Rub",
@@ -1255,7 +1075,7 @@
           "print_order": "0"
         },
         {
-          "id": "11033225",
+          "id": "11041370",
           "item_id": "17550",
           "recipe_id": "8760",
           "description_de": "Thai-Hähnchen | Sesam-Eiernudeln | Pak Choi",
@@ -1279,7 +1099,7 @@
           "print_order": "1"
         },
         {
-          "id": "11033226",
+          "id": "11041371",
           "item_id": "17552",
           "recipe_id": "7335",
           "description_de": "Seelachs | Lauwarmer Kartoffel-Thymian-Salat | Parmesan",
@@ -1308,7 +1128,7 @@
           "print_order": "3"
         },
         {
-          "id": "11033227",
+          "id": "11041372",
           "item_id": "17554",
           "recipe_id": "9172",
           "description_de": "Veganes Curry-Laksa | Tofu | Röstzwiebeln",
@@ -1335,7 +1155,7 @@
       ],
       "Abendessen": [
         {
-          "id": "11033228",
+          "id": "11041373",
           "item_id": "17558",
           "recipe_id": "9591",
           "description_de": "Couscous-Salat | Schweinefilet | BBQ-Rub",
@@ -1357,7 +1177,7 @@
           "print_order": "10"
         },
         {
-          "id": "11033230",
+          "id": "11041375",
           "item_id": "17560",
           "recipe_id": "7335",
           "description_de": "Seelachs | Lauwarmer Kartoffel-Thymian-Salat | Parmesan",
@@ -1386,7 +1206,7 @@
           "print_order": "12"
         },
         {
-          "id": "11033232",
+          "id": "11041377",
           "item_id": "17561",
           "recipe_id": "9172",
           "description_de": "Veganes Curry-Laksa | Tofu | Röstzwiebeln",
@@ -1415,13 +1235,13 @@
     "2026-10-28": {
       "Mittagessen": [
         {
-          "id": "11033234",
+          "id": "11077844",
           "item_id": "17549",
           "recipe_id": "7852",
-          "description_de": "Harissa-Falafel | Bulgur | Spinat-Hummus",
-          "description_en": "Harissa Falafel | Bulgur | Spinach Hummus",
+          "description_de": "Harissa-Falafel | Bulgur | Paprika-Hummus",
+          "description_en": "Harissa Falafel | Bulgur | Pepper Hummus",
           "category": "COUNTER 1.1 Bowls_",
-          "price": "",
+          "price": "11.00",
           "price_2": null,
           "allergens": {
             "gluten": "Glutenhaltiges Getreide",
@@ -1440,13 +1260,13 @@
           "print_order": "0"
         },
         {
-          "id": "11033235",
+          "id": "11077845",
           "item_id": "17550",
           "recipe_id": "8760",
           "description_de": "Thai-Hähnchen | Sesam-Eiernudeln | Pak Choi",
           "description_en": "Thai Chicken | Sesame Egg Noodles | Pak Choi",
           "category": "COUNTER 2.1 Meat",
-          "price": "",
+          "price": "12.00",
           "price_2": null,
           "allergens": {
             "gluten": "Glutenhaltiges Getreide",
@@ -1464,13 +1284,13 @@
           "print_order": "1"
         },
         {
-          "id": "11033236",
+          "id": "11077846",
           "item_id": "17552",
           "recipe_id": "7335",
           "description_de": "Seelachs | Lauwarmer Kartoffel-Thymian-Salat | Parmesan",
           "description_en": "Pollock | Warm Potato and Thyme Salad | Parmesan",
           "category": "COUNTER 3.1 Fish",
-          "price": "",
+          "price": "12.00",
           "price_2": null,
           "allergens": {
             "gluten": "Glutenhaltiges Getreide",
@@ -1493,13 +1313,13 @@
           "print_order": "3"
         },
         {
-          "id": "11033237",
+          "id": "11077847",
           "item_id": "17554",
           "recipe_id": "2391",
           "description_de": "Halloumi | Sesam | Geröstete Kartoffeln | Tomate",
           "description_en": "Halloumi | Sesame | Roasted Potatoes | Tomato",
           "category": "COUNTER 4.1 Vegi",
-          "price": "",
+          "price": "10.00",
           "price_2": null,
           "allergens": {
             "milch": "Milch und Milcherzeugnisse",
@@ -1528,13 +1348,13 @@
       ],
       "Abendessen": [
         {
-          "id": "11033238",
+          "id": "11077848",
           "item_id": "17558",
           "recipe_id": "7852",
-          "description_de": "Harissa-Falafel | Bulgur | Spinat-Hummus",
-          "description_en": "Harissa Falafel | Bulgur | Spinach Hummus",
+          "description_de": "Harissa-Falafel | Bulgur | Paprika-Hummus",
+          "description_en": "Harissa Falafel | Bulgur | Pepper Hummus",
           "category": "DINNER BOWL_",
-          "price": "",
+          "price": "11.00",
           "price_2": null,
           "allergens": {
             "gluten": "Glutenhaltiges Getreide",
@@ -1553,13 +1373,13 @@
           "print_order": "10"
         },
         {
-          "id": "11033240",
+          "id": "11077850",
           "item_id": "17559",
           "recipe_id": "8760",
           "description_de": "Thai-Hähnchen | Sesam-Eiernudeln | Pak Choi",
           "description_en": "Thai Chicken | Sesame Egg Noodles | Pak Choi",
           "category": "DINNER Meat_17:00-19:00",
-          "price": "",
+          "price": "12.00",
           "price_2": null,
           "allergens": {
             "gluten": "Glutenhaltiges Getreide",
@@ -1577,13 +1397,13 @@
           "print_order": "11"
         },
         {
-          "id": "11033242",
+          "id": "11077852",
           "item_id": "17561",
           "recipe_id": "2391",
           "description_de": "Halloumi | Sesam | Geröstete Kartoffeln | Tomate",
           "description_en": "Halloumi | Sesame | Roasted Potatoes | Tomato",
           "category": "DINNER Vegi/Vegan_17:00-19:00",
-          "price": "",
+          "price": "10.00",
           "price_2": null,
           "allergens": {
             "milch": "Milch und Milcherzeugnisse",
@@ -1614,7 +1434,7 @@
     "2026-10-29": {
       "Mittagessen": [
         {
-          "id": "11033244",
+          "id": "11077854",
           "item_id": "17549",
           "recipe_id": "8289",
           "description_de": "Vegane Fajita | Blumenkohlreis | Chipotle-Paprika",
@@ -1641,7 +1461,7 @@
           "print_order": "0"
         },
         {
-          "id": "11033245",
+          "id": "11077855",
           "item_id": "17550",
           "recipe_id": "8760",
           "description_de": "Thai-Hähnchen | Sesam-Eiernudeln | Pak Choi",
@@ -1665,7 +1485,7 @@
           "print_order": "1"
         },
         {
-          "id": "11033246",
+          "id": "11077856",
           "item_id": "17552",
           "recipe_id": "7335",
           "description_de": "Seelachs | Lauwarmer Kartoffel-Thymian-Salat | Parmesan",
@@ -1694,7 +1514,7 @@
           "print_order": "3"
         },
         {
-          "id": "11033247",
+          "id": "11077857",
           "item_id": "17554",
           "recipe_id": "8331",
           "description_de": "Tofu-Chow-Mein | Junglauch | Reis",
@@ -1738,7 +1558,7 @@
       ],
       "Abendessen": [
         {
-          "id": "11033248",
+          "id": "11077858",
           "item_id": "17558",
           "recipe_id": "8289",
           "description_de": "Vegane Fajita | Blumenkohlreis | Chipotle-Paprika",
@@ -1765,7 +1585,7 @@
           "print_order": "10"
         },
         {
-          "id": "11033250",
+          "id": "11077860",
           "item_id": "17560",
           "recipe_id": "7335",
           "description_de": "Seelachs | Lauwarmer Kartoffel-Thymian-Salat | Parmesan",
@@ -1794,7 +1614,7 @@
           "print_order": "12"
         },
         {
-          "id": "11033252",
+          "id": "11077862",
           "item_id": "17561",
           "recipe_id": "8331",
           "description_de": "Tofu-Chow-Mein | Junglauch | Reis",
@@ -1840,7 +1660,7 @@
     "2026-10-30": {
       "Mittagessen": [
         {
-          "id": "11033254",
+          "id": "11077864",
           "item_id": "17549",
           "recipe_id": "4062",
           "description_de": "Süßkartoffel | Quinoa | Apfel-Zimt-Joghurt",
@@ -1862,7 +1682,7 @@
           "print_order": "0"
         },
         {
-          "id": "11033255",
+          "id": "11077865",
           "item_id": "17550",
           "recipe_id": "8760",
           "description_de": "Thai-Hähnchen | Sesam-Eiernudeln | Pak Choi",
@@ -1886,7 +1706,7 @@
           "print_order": "1"
         },
         {
-          "id": "11033256",
+          "id": "11077866",
           "item_id": "17552",
           "recipe_id": "7335",
           "description_de": "Seelachs | Lauwarmer Kartoffel-Thymian-Salat | Parmesan",
@@ -1915,7 +1735,7 @@
           "print_order": "3"
         },
         {
-          "id": "11033257",
+          "id": "11077867",
           "item_id": "17554",
           "recipe_id": "8739",
           "description_de": "Texas-Bohnen | BBQ-Sauce | Rosmarinkartoffeln",
@@ -1946,7 +1766,7 @@
       ],
       "Abendessen": [
         {
-          "id": "11033258",
+          "id": "11077868",
           "item_id": "17558",
           "recipe_id": "4062",
           "description_de": "Süßkartoffel | Quinoa | Apfel - Zimt Joghurt",
@@ -1968,7 +1788,7 @@
           "print_order": "10"
         },
         {
-          "id": "11033260",
+          "id": "11077870",
           "item_id": "17559",
           "recipe_id": "8760",
           "description_de": "Thai-Hähnchen | Sesam-Eiernudeln | Pak Choi",
@@ -1992,7 +1812,7 @@
           "print_order": "11"
         },
         {
-          "id": "11033262",
+          "id": "11077872",
           "item_id": "17561",
           "recipe_id": "8739",
           "description_de": "Texas-Bohnen | BBQ-Sauce | Rosmarin Kartoffeln",
@@ -2025,7 +1845,7 @@
     "2026-10-31": {
       "Abendessen": [
         {
-          "id": "11033264",
+          "id": "11077874",
           "item_id": "17564",
           "recipe_id": "8922",
           "description_de": "Lachsfilet | Pesto-Gnocchi | Zuckerschoten",
@@ -2047,7 +1867,7 @@
           "print_order": "16"
         },
         {
-          "id": "11033266",
+          "id": "11077876",
           "item_id": "17565",
           "recipe_id": "9249",
           "description_de": "Kürbis Falafel | Rote Bete Hummus | Sesam Joghurt",
@@ -2077,7 +1897,7 @@
           "print_order": "17"
         },
         {
-          "id": "11033268",
+          "id": "11077878",
           "item_id": "17566",
           "recipe_id": "9000",
           "description_de": "Currywurst | Fritten | Salat",
@@ -2124,7 +1944,7 @@
     "2026-11-01": {
       "Abendessen": [
         {
-          "id": "11033270",
+          "id": "11077880",
           "item_id": "17864",
           "recipe_id": "9023",
           "description_de": "Hähnchen-Korma | Blumenkohl | Basmati-Reis",
@@ -2144,7 +1964,7 @@
           "print_order": "19"
         },
         {
-          "id": "11033273",
+          "id": "11077883",
           "item_id": "17865",
           "recipe_id": "8493",
           "description_de": "Backfisch | Rahmspinat | Kartoffelstampf",
@@ -2168,7 +1988,7 @@
           "print_order": "20"
         },
         {
-          "id": "11033276",
+          "id": "11077886",
           "item_id": "17866",
           "recipe_id": "5172",
           "description_de": "Muschelnudeln | Pilzrahm | Baby Spinat",
@@ -2199,7 +2019,7 @@
       ],
       "Mittagessen": [
         {
-          "id": "11033271",
+          "id": "11077881",
           "item_id": "17864",
           "recipe_id": "9023",
           "description_de": "Hähnchen-Korma | Blumenkohl | Basmati-Reis",
@@ -2219,7 +2039,7 @@
           "print_order": "19"
         },
         {
-          "id": "11033274",
+          "id": "11077884",
           "item_id": "17865",
           "recipe_id": "8493",
           "description_de": "Backfisch | Rahmspinat | Kartoffelstampf",
@@ -2243,7 +2063,7 @@
           "print_order": "20"
         },
         {
-          "id": "11033277",
+          "id": "11077887",
           "item_id": "17866",
           "recipe_id": "5172",
           "description_de": "Muschelnudeln | Pilzrahm | Baby Spinat",
@@ -2276,7 +2096,7 @@
     "2026-11-02": {
       "Mittagessen": [
         {
-          "id": "11033279",
+          "id": "11077889",
           "item_id": "17549",
           "recipe_id": "8273",
           "description_de": "Planted Chicken | Udon | Scharfe Kokossauce",
@@ -2310,7 +2130,7 @@
           "print_order": "0"
         },
         {
-          "id": "11033280",
+          "id": "11077890",
           "item_id": "17550",
           "recipe_id": "6936",
           "description_de": "Entenbrust | Honigglasur | Erbsen | Pilze",
@@ -2342,7 +2162,7 @@
           "print_order": "1"
         },
         {
-          "id": "11033281",
+          "id": "11077891",
           "item_id": "17552",
           "recipe_id": "9128",
           "description_de": "Rotbarsch | Rosmarin-Polenta | Tomaten-Sugo",
@@ -2370,7 +2190,7 @@
           "print_order": "3"
         },
         {
-          "id": "11033282",
+          "id": "11077892",
           "item_id": "17554",
           "recipe_id": "7369",
           "description_de": "Pierogi | Kartoffeln | Smetana  | Rote Beete",
@@ -2408,7 +2228,7 @@
       ],
       "Abendessen": [
         {
-          "id": "11033283",
+          "id": "11077893",
           "item_id": "17558",
           "recipe_id": "8273",
           "description_de": "Planted Chicken | Udon | Scharfe Kokossauce",
@@ -2442,7 +2262,7 @@
           "print_order": "10"
         },
         {
-          "id": "11033285",
+          "id": "11077895",
           "item_id": "17559",
           "recipe_id": "6936",
           "description_de": "Entenbrust | Honigglasur | Erbsen | Pilze",
@@ -2474,7 +2294,7 @@
           "print_order": "11"
         },
         {
-          "id": "11033287",
+          "id": "11077897",
           "item_id": "17561",
           "recipe_id": "7369",
           "description_de": "Pierogi | Kartoffeln | Smetana  | Rote Beete",
@@ -2514,7 +2334,7 @@
     "2026-11-03": {
       "Mittagessen": [
         {
-          "id": "11033289",
+          "id": "11077899",
           "item_id": "17549",
           "recipe_id": "7881",
           "description_de": "Pute | Gyros | Tzatziki",
@@ -2540,7 +2360,7 @@
           "print_order": "0"
         },
         {
-          "id": "11033290",
+          "id": "11077900",
           "item_id": "17550",
           "recipe_id": "6936",
           "description_de": "Entenbrust | Honigglasur | Erbsen | Pilze",
@@ -2572,7 +2392,7 @@
           "print_order": "1"
         },
         {
-          "id": "11033291",
+          "id": "11077901",
           "item_id": "17552",
           "recipe_id": "9128",
           "description_de": "Rotbarsch | Rosmarin-Polenta | Tomaten-Sugo",
@@ -2600,7 +2420,7 @@
           "print_order": "3"
         },
         {
-          "id": "11033292",
+          "id": "11077902",
           "item_id": "17554",
           "recipe_id": "8598",
           "description_de": "Süßkartoffel | Schwarzes Bohnen-Chili | Joghurt",
@@ -2631,7 +2451,7 @@
       ],
       "Abendessen": [
         {
-          "id": "11033293",
+          "id": "11077903",
           "item_id": "17558",
           "recipe_id": "7881",
           "description_de": "Pute | Gyros | Tzatziki",
@@ -2657,7 +2477,7 @@
           "print_order": "10"
         },
         {
-          "id": "11033295",
+          "id": "11077905",
           "item_id": "17560",
           "recipe_id": "9128",
           "description_de": "Rotbarsch | Rosmarin-Polenta | Tomaten-Sugo",
@@ -2685,7 +2505,7 @@
           "print_order": "12"
         },
         {
-          "id": "11033297",
+          "id": "11077907",
           "item_id": "17561",
           "recipe_id": "8598",
           "description_de": "Süßkartoffel | Schwarzes Bohnen-Chili | Joghurt",
@@ -2718,7 +2538,7 @@
     "2026-11-04": {
       "Mittagessen": [
         {
-          "id": "11033299",
+          "id": "11077909",
           "item_id": "17549",
           "recipe_id": "7311",
           "description_de": "Belugalinsen | Sauerkraut | Butternutkürbis",
@@ -2747,7 +2567,7 @@
           "print_order": "0"
         },
         {
-          "id": "11033300",
+          "id": "11077910",
           "item_id": "17550",
           "recipe_id": "6936",
           "description_de": "Entenbrust | Honigglasur | Erbsen | Pilze",
@@ -2779,7 +2599,7 @@
           "print_order": "1"
         },
         {
-          "id": "11033301",
+          "id": "11077911",
           "item_id": "17552",
           "recipe_id": "9128",
           "description_de": "Rotbarsch | Rosmarin-Polenta | Tomaten-Sugo",
@@ -2807,7 +2627,7 @@
           "print_order": "3"
         },
         {
-          "id": "11033302",
+          "id": "11077912",
           "item_id": "17554",
           "recipe_id": "8754",
           "description_de": "Schupfnudeln | Curry-Tofu | Kokos",
@@ -2833,7 +2653,7 @@
       ],
       "Abendessen": [
         {
-          "id": "11033303",
+          "id": "11077913",
           "item_id": "17558",
           "recipe_id": "7311",
           "description_de": "Belugalinsen | Sauerkraut | Butternutkürbis",
@@ -2862,7 +2682,7 @@
           "print_order": "10"
         },
         {
-          "id": "11033305",
+          "id": "11077915",
           "item_id": "17559",
           "recipe_id": "6936",
           "description_de": "Entenbrust | Honigglasur | Erbsen | Pilze",
@@ -2894,7 +2714,7 @@
           "print_order": "11"
         },
         {
-          "id": "11033307",
+          "id": "11077917",
           "item_id": "17561",
           "recipe_id": "8754",
           "description_de": "Schupfnudeln | Curry-Tofu | Kokos",
@@ -2922,7 +2742,7 @@
     "2026-11-05": {
       "Mittagessen": [
         {
-          "id": "11033309",
+          "id": "11077919",
           "item_id": "17549",
           "recipe_id": "5651",
           "description_de": "Rote-Bete-Falafel | Römersalat | Joghurt",
@@ -2957,7 +2777,7 @@
           "print_order": "0"
         },
         {
-          "id": "11033310",
+          "id": "11077920",
           "item_id": "17550",
           "recipe_id": "6936",
           "description_de": "Entenbrust | Honigglasur | Erbsen | Pilze",
@@ -2989,7 +2809,7 @@
           "print_order": "1"
         },
         {
-          "id": "11033311",
+          "id": "11077921",
           "item_id": "17552",
           "recipe_id": "9128",
           "description_de": "Rotbarsch | Rosmarin-Polenta | Tomaten-Sugo",
@@ -3017,7 +2837,7 @@
           "print_order": "3"
         },
         {
-          "id": "11033312",
+          "id": "11077922",
           "item_id": "17554",
           "recipe_id": "8701",
           "description_de": "Haferflockenschnitzel | Kartoffel Kichererbsen Salat |",
@@ -3043,7 +2863,7 @@
       ],
       "Abendessen": [
         {
-          "id": "11033313",
+          "id": "11077923",
           "item_id": "17558",
           "recipe_id": "5651",
           "description_de": "Rote-Bete-Falafel | Römersalat | Joghurt",
@@ -3078,7 +2898,7 @@
           "print_order": "10"
         },
         {
-          "id": "11033315",
+          "id": "11077925",
           "item_id": "17560",
           "recipe_id": "9128",
           "description_de": "Rotbarsch | Rosmarin-Polenta | Tomaten-Sugo",
@@ -3106,7 +2926,7 @@
           "print_order": "12"
         },
         {
-          "id": "11033317",
+          "id": "11077927",
           "item_id": "17561",
           "recipe_id": "8701",
           "description_de": "Haferflockenschnitzel | Kartoffel Kichererbsen Salat |",
@@ -3134,7 +2954,7 @@
     "2026-11-06": {
       "Mittagessen": [
         {
-          "id": "11033319",
+          "id": "11077929",
           "item_id": "17549",
           "recipe_id": "8974",
           "description_de": "Chicken Wings | Spicy Nudelsalat | Chili-Mayo",
@@ -3171,7 +2991,7 @@
           "print_order": "0"
         },
         {
-          "id": "11033320",
+          "id": "11077930",
           "item_id": "17550",
           "recipe_id": "6936",
           "description_de": "Entenbrust | Honigglasur | Erbsen | Pilze",
@@ -3203,7 +3023,7 @@
           "print_order": "1"
         },
         {
-          "id": "11033321",
+          "id": "11077931",
           "item_id": "17552",
           "recipe_id": "9128",
           "description_de": "Rotbarsch | Rosmarin-Polenta | Tomaten-Sugo",
@@ -3231,7 +3051,7 @@
           "print_order": "3"
         },
         {
-          "id": "11033322",
+          "id": "11077932",
           "item_id": "17554",
           "recipe_id": "4476",
           "description_de": "Buchweizentaler | Hummus | Rucola",
@@ -3257,7 +3077,7 @@
       ],
       "Abendessen": [
         {
-          "id": "11033323",
+          "id": "11077933",
           "item_id": "17558",
           "recipe_id": "8974",
           "description_de": "Chicken Wings | Spicy Nudelsalat | Chili-Mayo",
@@ -3294,7 +3114,7 @@
           "print_order": "10"
         },
         {
-          "id": "11033325",
+          "id": "11077935",
           "item_id": "17559",
           "recipe_id": "6936",
           "description_de": "Entenbrust | Honigglasur | Erbsen | Pilze",
@@ -3326,7 +3146,7 @@
           "print_order": "11"
         },
         {
-          "id": "11033327",
+          "id": "11077937",
           "item_id": "17561",
           "recipe_id": "4476",
           "description_de": "Buchweizentaler | Hummus | Rucola",
@@ -3354,7 +3174,7 @@
     "2026-11-07": {
       "Abendessen": [
         {
-          "id": "11033329",
+          "id": "11077939",
           "item_id": "17563",
           "recipe_id": "3957",
           "description_de": "Kalbsfleischpflanzerl | Spitzkohl | Kartoffelmousseline",
@@ -3384,7 +3204,7 @@
           "print_order": "15"
         },
         {
-          "id": "11033331",
+          "id": "11077941",
           "item_id": "17564",
           "recipe_id": "9602",
           "description_de": "Brathering | Bratkartoffel | Gurkensalat",
@@ -3413,7 +3233,7 @@
           "print_order": "16"
         },
         {
-          "id": "11033333",
+          "id": "11077943",
           "item_id": "17565",
           "recipe_id": "9603",
           "description_de": "Rösti | Kräuterjoghurt | Zucchini",
@@ -3438,11 +3258,11 @@
     "2026-11-08": {
       "Abendessen": [
         {
-          "id": "11033335",
+          "id": "11077945",
           "item_id": "17864",
-          "recipe_id": "8013",
-          "description_de": "Gratiniertes Schweinefilet |Herzoginkartoffel | Salat",
-          "description_en": "Pork Tenderloin| Duchess Potatoes | Salad",
+          "recipe_id": "9606",
+          "description_de": "Schweinefilet | Speckbohnen | Herzoginkartoffel",
+          "description_en": "Pork Filet | Becon Beans | Duchess Potatoes",
           "category": "DINNER Meat _|",
           "price": "",
           "price_2": null,
@@ -3451,12 +3271,9 @@
             "huhnerei": "Hühnerei und Hühnereierzeugnisse",
             "milch": "Milch und Milcherzeugnisse",
             "sellerie": "Sellerie und Sellerieerzeugnisse",
-            "senf": "Senf und Senferzeugnisse",
             "schwefel": "Schwefeldioxid und Sulfide"
           },
-          "attributes": {
-            "schwein": "Schwein"
-          },
+          "attributes": "",
           "nutrition": null,
           "additives": [
             {
@@ -3464,16 +3281,20 @@
               "en": "Antioxidation"
             },
             {
+              "de": "Konservierungsstoff",
+              "en": "Preservatives"
+            },
+            {
               "de": "Alkohol",
               "en": "Alcohol"
             }
           ],
-          "co2_value": null,
-          "co2_rating": null,
+          "co2_value": "4869.00",
+          "co2_rating": "D",
           "print_order": "19"
         },
         {
-          "id": "11033338",
+          "id": "11077948",
           "item_id": "17865",
           "recipe_id": "2931",
           "description_de": "Zander | Kohlrabi-Gemüse | Kapernsauce",
@@ -3496,7 +3317,7 @@
           "print_order": "20"
         },
         {
-          "id": "11033341",
+          "id": "11077951",
           "item_id": "17866",
           "recipe_id": "9469",
           "description_de": "Linsen-Burger | Tandoori-Creme | Mango-Salsa",
@@ -3527,11 +3348,11 @@
       ],
       "Mittagessen": [
         {
-          "id": "11033336",
+          "id": "11077946",
           "item_id": "17864",
-          "recipe_id": "8013",
-          "description_de": "Gratiniertes Schweinefilet |Herzoginkartoffel | Salat",
-          "description_en": "Pork Tenderloin| Duchess Potatoes | Salad",
+          "recipe_id": "9606",
+          "description_de": "Schweinefilet | Speckbohnen | Herzoginkartoffel",
+          "description_en": "Pork Filet | Becon Beans | Duchess Potatoes",
           "category": "DINNER Meat _|",
           "price": "",
           "price_2": null,
@@ -3540,12 +3361,9 @@
             "huhnerei": "Hühnerei und Hühnereierzeugnisse",
             "milch": "Milch und Milcherzeugnisse",
             "sellerie": "Sellerie und Sellerieerzeugnisse",
-            "senf": "Senf und Senferzeugnisse",
             "schwefel": "Schwefeldioxid und Sulfide"
           },
-          "attributes": {
-            "schwein": "Schwein"
-          },
+          "attributes": "",
           "nutrition": null,
           "additives": [
             {
@@ -3553,16 +3371,20 @@
               "en": "Antioxidation"
             },
             {
+              "de": "Konservierungsstoff",
+              "en": "Preservatives"
+            },
+            {
               "de": "Alkohol",
               "en": "Alcohol"
             }
           ],
-          "co2_value": null,
-          "co2_rating": null,
+          "co2_value": "4869.00",
+          "co2_rating": "D",
           "print_order": "19"
         },
         {
-          "id": "11033339",
+          "id": "11077949",
           "item_id": "17865",
           "recipe_id": "2931",
           "description_de": "Zander | Kohlrabi-Gemüse | Kapernsauce",
@@ -3585,7 +3407,7 @@
           "print_order": "20"
         },
         {
-          "id": "11033342",
+          "id": "11077952",
           "item_id": "17866",
           "recipe_id": "9469",
           "description_de": "Linsen-Burger | Tandoori-Creme | Mango-Salsa",
@@ -3618,7 +3440,7 @@
     "2026-11-09": {
       "Mittagessen": [
         {
-          "id": "11033344",
+          "id": "11077954",
           "item_id": "17549",
           "recipe_id": "4811",
           "description_de": "Tomatenbulgur | Fetakäse | Rote Zwiebeln",
@@ -3642,7 +3464,7 @@
           "print_order": "0"
         },
         {
-          "id": "11033345",
+          "id": "11077955",
           "item_id": "17550",
           "recipe_id": "4746",
           "description_de": "Carbonara | Schweinebäckchen | Grana Padano",
@@ -3676,7 +3498,7 @@
           "print_order": "1"
         },
         {
-          "id": "11033346",
+          "id": "11077956",
           "item_id": "17552",
           "recipe_id": "8027",
           "description_de": "Gegrilltes Lachsfilet | Salsa Verde | Kichererbsenstampf",
@@ -3704,12 +3526,12 @@
               "en": "Alcohol"
             }
           ],
-          "co2_value": "802.00",
+          "co2_value": "804.00",
           "co2_rating": "B",
           "print_order": "3"
         },
         {
-          "id": "11033347",
+          "id": "11077957",
           "item_id": "17554",
           "recipe_id": "6492",
           "description_de": "Gemüse Curry | Falafel | Kräutersauce",
@@ -3739,7 +3561,7 @@
       ],
       "Abendessen": [
         {
-          "id": "11033348",
+          "id": "11077958",
           "item_id": "17558",
           "recipe_id": "4811",
           "description_de": "Tomatenbulgur | Fetakäse | Rote Zwiebeln",
@@ -3763,7 +3585,7 @@
           "print_order": "10"
         },
         {
-          "id": "11033350",
+          "id": "11077960",
           "item_id": "17559",
           "recipe_id": "4746",
           "description_de": "Carbonara | Schweinebäckchen | Grana Padano",
@@ -3797,7 +3619,7 @@
           "print_order": "11"
         },
         {
-          "id": "11033352",
+          "id": "11077962",
           "item_id": "17561",
           "recipe_id": "6492",
           "description_de": "Gemüse Curry | Falafel | Kräutersauce",
@@ -3829,7 +3651,7 @@
     "2026-11-10": {
       "Mittagessen": [
         {
-          "id": "11033354",
+          "id": "11077964",
           "item_id": "17549",
           "recipe_id": "8278",
           "description_de": "Pastrami | Cranberry | Edamame",
@@ -3872,7 +3694,7 @@
           "print_order": "0"
         },
         {
-          "id": "11033355",
+          "id": "11077965",
           "item_id": "17550",
           "recipe_id": "4746",
           "description_de": "Carbonara | Schweinebäckchen | Grana Padano",
@@ -3906,7 +3728,7 @@
           "print_order": "1"
         },
         {
-          "id": "11033356",
+          "id": "11077966",
           "item_id": "17552",
           "recipe_id": "8027",
           "description_de": "Gegrilltes Lachsfilet | Salsa Verde | Kichererbsenstampf",
@@ -3934,12 +3756,12 @@
               "en": "Alcohol"
             }
           ],
-          "co2_value": "802.00",
+          "co2_value": "804.00",
           "co2_rating": "B",
           "print_order": "3"
         },
         {
-          "id": "11033357",
+          "id": "11077967",
           "item_id": "17554",
           "recipe_id": "4449",
           "description_de": "Fagottini | Pommodori | Basilikum",
@@ -3964,7 +3786,7 @@
       ],
       "Abendessen": [
         {
-          "id": "11033358",
+          "id": "11077968",
           "item_id": "17560",
           "recipe_id": "8027",
           "description_de": "Gegrilltes Lachsfilet | Salsa Verde | Kichererbsenstampf",
@@ -3992,12 +3814,12 @@
               "en": "Alcohol"
             }
           ],
-          "co2_value": "802.00",
+          "co2_value": "804.00",
           "co2_rating": "B",
           "print_order": "12"
         },
         {
-          "id": "11033360",
+          "id": "11077970",
           "item_id": "17561",
           "recipe_id": "4449",
           "description_de": "Fagottini | Pommodori | Basilikum",
@@ -4020,98 +3842,218 @@
           "print_order": "13"
         }
       ]
-    }
-  },
-  "journalistenclub": {
-    "2026-10-20": {
+    },
+    "2026-11-11": {
       "Mittagessen": [
         {
-          "id": "10867146",
-          "item_id": "18568",
-          "recipe_id": "6698",
-          "description_de": "Hausgeräucherter Burratini \nmit Tomatensalat, Petersilien-Pesto und Ciabatta-Chips",
-          "description_en": "Home-smoked burratini \nwith tomato salad, parsley pesto \nand ciabatta chips",
-          "category": "Vorspeise Lunch",
-          "price": "12.00",
+          "id": "11077972",
+          "item_id": "17549",
+          "recipe_id": "4747",
+          "description_de": "Buchweizen | Ofengemüse | Granatapfel*",
+          "description_en": "Buckwheat | Oven vegetables | Pomegranate*",
+          "category": "COUNTER 1.1 Bowls_",
+          "price": "",
           "price_2": null,
-          "allergens": null,
-          "attributes": "",
+          "allergens": {
+            "sellerie": "Sellerie und Sellerieerzeugnisse",
+            "senf": "Senf und Senferzeugnisse"
+          },
+          "attributes": {
+            "vegan": "Vegan",
+            "vegetarisch": "Vegetarisch"
+          },
           "nutrition": null,
           "additives": null,
-          "co2_value": "0.00",
-          "co2_rating": "E",
+          "co2_value": "218.00",
+          "co2_rating": "A",
           "print_order": "0"
         },
         {
-          "id": "10867147",
-          "item_id": "18569",
-          "recipe_id": "6699",
-          "description_de": "Paprikacreme-Suppe mit Graubrot-Croûtons und Rucola-Öl",
-          "description_en": "Cream of pepper soup with brown bread croutons and rocket oil",
-          "category": "Suppe Lunch",
-          "price": "9.00",
+          "id": "11077973",
+          "item_id": "17550",
+          "recipe_id": "4746",
+          "description_de": "Carbonara | Schweinebäckchen | Grana Padano",
+          "description_en": "Carbonara | Braised Pork Cheeks | Grana Padano",
+          "category": "COUNTER 2.1 Meat",
+          "price": "",
           "price_2": null,
-          "allergens": null,
-          "attributes": "",
+          "allergens": {
+            "gluten": "Glutenhaltiges Getreide",
+            "huhnerei": "Hühnerei und Hühnereierzeugnisse",
+            "milch": "Milch und Milcherzeugnisse",
+            "sellerie": "Sellerie und Sellerieerzeugnisse",
+            "schwefel": "Schwefeldioxid und Sulfide"
+          },
+          "attributes": {
+            "schwein": "Schwein"
+          },
           "nutrition": null,
-          "additives": null,
-          "co2_value": "0.00",
-          "co2_rating": "E",
+          "additives": [
+            {
+              "de": "Antioxidationsmittel",
+              "en": "Antioxidation"
+            },
+            {
+              "de": "Konservierungsstoff",
+              "en": "Preservatives"
+            }
+          ],
+          "co2_value": "904.00",
+          "co2_rating": "A",
           "print_order": "1"
         },
         {
-          "id": "10867148",
-          "item_id": "18571",
-          "recipe_id": "6701",
-          "description_de": "Lachs gebraten mit Sellerie-Gemüse, Kartoffel-Chorizo-Mousseline und Salbei-Nage",
-          "description_en": "fried salmon with celery and vegetables, potato and chorizo mousseline,",
-          "category": "Hauptgang Fisch Lunch",
-          "price": "27.00",
+          "id": "11077974",
+          "item_id": "17552",
+          "recipe_id": "8027",
+          "description_de": "Gegrilltes Lachsfilet | Salsa Verde | Kichererbsenstampf",
+          "description_en": "Grilled Salmon | Salsa Verde | Chick Pea Mash",
+          "category": "COUNTER 3.1 Fish",
+          "price": "",
           "price_2": null,
-          "allergens": null,
-          "attributes": "",
+          "allergens": {
+            "fisch": "Fisch und Fischerzeugnisse",
+            "milch": "Milch und Milcherzeugnisse",
+            "senf": "Senf und Senferzeugnisse",
+            "schwefel": "Schwefeldioxid und Sulfide"
+          },
+          "attributes": {
+            "ohne_zucker": "Ohne_Zucker"
+          },
           "nutrition": null,
-          "additives": null,
-          "co2_value": "0.00",
-          "co2_rating": "E",
+          "additives": [
+            {
+              "de": "Antioxidationsmittel",
+              "en": "Antioxidation"
+            },
+            {
+              "de": "Alkohol",
+              "en": "Alcohol"
+            }
+          ],
+          "co2_value": "804.00",
+          "co2_rating": "B",
           "print_order": "3"
         },
         {
-          "id": "10867149",
-          "item_id": "18572",
-          "recipe_id": "6702",
-          "description_de": "Gegrillte Artischocke, asiatisch mariniert, mit Bohnen-Sesam-Creme, Sellerie-Romanesco-Gemüse und Zitrusfrucht-Schaum",
-          "description_en": "Grilled artichoke, marinated  Asian-style, served with a bean and sesame cream, a celery and romanesco vegetable , and a citrus foam",
-          "category": "Hauptgang Vegi / Vegan Lunch",
-          "price": "23.00",
+          "id": "11077975",
+          "item_id": "17554",
+          "recipe_id": "8015",
+          "description_de": "Kartoffel-Kürbistortilla | Warmer Tomatensalat | Rucola",
+          "description_en": "Potato - Pumpkintortilla | Warm Tomato salad | Rucola",
+          "category": "COUNTER 4.1 Vegi",
+          "price": "",
           "price_2": null,
-          "allergens": null,
-          "attributes": "",
+          "allergens": {
+            "huhnerei": "Hühnerei und Hühnereierzeugnisse",
+            "milch": "Milch und Milcherzeugnisse",
+            "schwefel": "Schwefeldioxid und Sulfide"
+          },
+          "attributes": {
+            "vegetarisch": "Vegetarisch"
+          },
+          "nutrition": null,
+          "additives": [
+            {
+              "de": "Antioxidationsmittel",
+              "en": "Antioxidation"
+            }
+          ],
+          "co2_value": "413.00",
+          "co2_rating": "B",
+          "print_order": "6"
+        }
+      ],
+      "Abendessen": [
+        {
+          "id": "11077976",
+          "item_id": "17558",
+          "recipe_id": "4747",
+          "description_de": "Buchweizen | Ofengemüse | Granatapfel*",
+          "description_en": "Buckwheat | Oven vegetables | Pomegranate*",
+          "category": "DINNER BOWL_",
+          "price": "",
+          "price_2": null,
+          "allergens": {
+            "sellerie": "Sellerie und Sellerieerzeugnisse",
+            "senf": "Senf und Senferzeugnisse"
+          },
+          "attributes": {
+            "vegan": "Vegan",
+            "vegetarisch": "Vegetarisch"
+          },
           "nutrition": null,
           "additives": null,
-          "co2_value": "0.00",
-          "co2_rating": "E",
-          "print_order": "4"
+          "co2_value": "218.00",
+          "co2_rating": "A",
+          "print_order": "10"
         },
         {
-          "id": "10867150",
-          "item_id": "18573",
-          "recipe_id": "6703",
-          "description_de": "Dunkle Schokoladen-Mousse mit eingelegter Ananas und Kürbiskern-Krokant",
-          "description_en": "Dark Chocolate Mousse with Candied Pineapple and Pumpkin Seed Brittle",
-          "category": "Dessert Lunch",
-          "price": "9.00",
+          "id": "11077978",
+          "item_id": "17559",
+          "recipe_id": "4746",
+          "description_de": "Carbonara | Schweinebäckchen | Grana Padano",
+          "description_en": "Carbonara | Braised Pork Cheeks | Grana Padano",
+          "category": "DINNER Meat_17:00-19:00",
+          "price": "",
           "price_2": null,
-          "allergens": null,
-          "attributes": "",
+          "allergens": {
+            "gluten": "Glutenhaltiges Getreide",
+            "huhnerei": "Hühnerei und Hühnereierzeugnisse",
+            "milch": "Milch und Milcherzeugnisse",
+            "sellerie": "Sellerie und Sellerieerzeugnisse",
+            "schwefel": "Schwefeldioxid und Sulfide"
+          },
+          "attributes": {
+            "schwein": "Schwein"
+          },
           "nutrition": null,
-          "additives": null,
-          "co2_value": "0.00",
-          "co2_rating": "E",
-          "print_order": "5"
+          "additives": [
+            {
+              "de": "Antioxidationsmittel",
+              "en": "Antioxidation"
+            },
+            {
+              "de": "Konservierungsstoff",
+              "en": "Preservatives"
+            }
+          ],
+          "co2_value": "904.00",
+          "co2_rating": "A",
+          "print_order": "11"
+        },
+        {
+          "id": "11077980",
+          "item_id": "17561",
+          "recipe_id": "8015",
+          "description_de": "Kartoffel-Kürbistortilla | Warmer Tomatensalat | Rucola",
+          "description_en": "Potato - Pumpkintortilla | Warm Tomato salad | Rucola",
+          "category": "DINNER Vegi/Vegan_17:00-19:00",
+          "price": "",
+          "price_2": null,
+          "allergens": {
+            "huhnerei": "Hühnerei und Hühnereierzeugnisse",
+            "milch": "Milch und Milcherzeugnisse",
+            "schwefel": "Schwefeldioxid und Sulfide"
+          },
+          "attributes": {
+            "vegetarisch": "Vegetarisch"
+          },
+          "nutrition": null,
+          "additives": [
+            {
+              "de": "Antioxidationsmittel",
+              "en": "Antioxidation"
+            }
+          ],
+          "co2_value": "413.00",
+          "co2_rating": "B",
+          "print_order": "13"
         }
       ]
-    },
+    }
+  },
+  "journalistenclub": {
     "2026-10-21": {
       "Mittagessen": [
         {
@@ -4471,7 +4413,7 @@
     "2026-10-27": {
       "Mittagessen": [
         {
-          "id": "11033398",
+          "id": "11041543",
           "item_id": "18568",
           "recipe_id": "6698",
           "description_de": "Kalbssemerrolle, rosa gegart, mit Rotkohlsalat, Granatapfel, marinierter Feldsalat und Brot-Crunch",
@@ -4488,7 +4430,7 @@
           "print_order": "0"
         },
         {
-          "id": "11033399",
+          "id": "11041544",
           "item_id": "18569",
           "recipe_id": "6699",
           "description_de": "Kürbiscremesuppe mit Kräuter-Öl und Kürbiskernen",
@@ -4505,7 +4447,7 @@
           "print_order": "1"
         },
         {
-          "id": "11033400",
+          "id": "11041545",
           "item_id": "18571",
           "recipe_id": "6701",
           "description_de": "Wolfsbarsch gebraten mit getrüffeltem Wirsing, Steinpilz-Gnocchi, Dijonsenf-Nage",
@@ -4522,7 +4464,7 @@
           "print_order": "3"
         },
         {
-          "id": "11033401",
+          "id": "11041546",
           "item_id": "18572",
           "recipe_id": "6702",
           "description_de": "Tagliatelle mit gebratenen Pilzen, Kräuterpesto, geschmolzene Tomaten und Parmesan-Chip",
@@ -4539,11 +4481,100 @@
           "print_order": "4"
         },
         {
-          "id": "11033402",
+          "id": "11041547",
           "item_id": "18573",
           "recipe_id": "6703",
           "description_de": "Erdnuss-Nougat mit Portwein-Feigen, Vanilleschaum und Hafer-Crumble",
           "description_en": "Peanut nougat with port-soaked figs, vanilla mousse, and oat crumble",
+          "category": "Dessert Lunch",
+          "price": "9.00",
+          "price_2": null,
+          "allergens": null,
+          "attributes": "",
+          "nutrition": null,
+          "additives": null,
+          "co2_value": "0.00",
+          "co2_rating": "E",
+          "print_order": "5"
+        }
+      ]
+    },
+    "2026-10-28": {
+      "Mittagessen": [
+        {
+          "id": "11078009",
+          "item_id": "18568",
+          "recipe_id": "6698",
+          "description_de": "Grilltomate mit gegrilltem Feta karmalisiert, Estragonschaum, eingelegte Zwiebel und Honigmelone",
+          "description_en": "Grilled tomato with caramelised grilled feta, tarragon foam, pickled onion and honeydew melon",
+          "category": "Vorspeise Lunch",
+          "price": "13.00",
+          "price_2": null,
+          "allergens": null,
+          "attributes": "",
+          "nutrition": null,
+          "additives": null,
+          "co2_value": "0.00",
+          "co2_rating": "E",
+          "print_order": "0"
+        },
+        {
+          "id": "11078010",
+          "item_id": "18569",
+          "recipe_id": "6699",
+          "description_de": "Rote Bete-Consommé mit Schnittlauch-Flädle und Rucola-Öl",
+          "description_en": "Beetroot consommé with chive pancakes and rocket oil",
+          "category": "Suppe Lunch",
+          "price": "9.00",
+          "price_2": null,
+          "allergens": null,
+          "attributes": "",
+          "nutrition": null,
+          "additives": null,
+          "co2_value": "0.00",
+          "co2_rating": "E",
+          "print_order": "1"
+        },
+        {
+          "id": "11078011",
+          "item_id": "18570",
+          "recipe_id": "6700",
+          "description_de": "Rehkeule geschmort mit Rosenkohl, Romanesco, Steckrüben-Püree und Rotwein-Sauce",
+          "description_en": "Braised leg of venison with Brussels sprouts, romanesco, rutabaga purée and red wine sauce",
+          "category": "Hauptgang Fleisch Lunch",
+          "price": "28.00",
+          "price_2": null,
+          "allergens": null,
+          "attributes": "",
+          "nutrition": null,
+          "additives": null,
+          "co2_value": "0.00",
+          "co2_rating": "E",
+          "print_order": "2"
+        },
+        {
+          "id": "11078012",
+          "item_id": "18572",
+          "recipe_id": "6702",
+          "description_de": "Gebackener Kohlrabi mit Romanesco, Rosenkohl, Steckrüben-Püree und Kräuter-Pesto",
+          "description_en": "Baked kohlrabi with romanesco, Brussels sprouts, rutabaga purée and herb pesto",
+          "category": "Hauptgang Vegi / Vegan Lunch",
+          "price": "22.00",
+          "price_2": null,
+          "allergens": null,
+          "attributes": "",
+          "nutrition": null,
+          "additives": null,
+          "co2_value": "0.00",
+          "co2_rating": "E",
+          "print_order": "4"
+        },
+        {
+          "id": "11078013",
+          "item_id": "18573",
+          "recipe_id": "6703",
+          "description_de": "Schokoladen-Himbeer-Haselnuss-Schnitte, Cassis-Eis und Aprikosen-Gel",
+          "description_en": "Chocolate, raspberry and hazelnut slice, blackcurrant ice cream and apricot gel",
           "category": "Dessert Lunch",
           "price": "9.00",
           "price_2": null,
