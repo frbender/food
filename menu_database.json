@@ -1,104 +1,5 @@
 {
   "canteen": {
-    "2026-10-31": {
-      "Abendessen": [
-        {
-          "id": "11161217",
-          "item_id": "17564",
-          "recipe_id": "8922",
-          "description_de": "Lachsfilet | Pesto-Gnocchi | Zuckerschoten",
-          "description_en": "Salmon | Pesto Gnocchi | Sugar Snap Peas",
-          "category": "LUNCH Fish_",
-          "price": "12.00",
-          "price_2": null,
-          "allergens": {
-            "gluten": "Glutenhaltiges Getreide",
-            "fisch": "Fisch und Fischerzeugnisse",
-            "milch": "Milch und Milcherzeugnisse",
-            "sellerie": "Sellerie und Sellerieerzeugnisse"
-          },
-          "attributes": "",
-          "nutrition": null,
-          "additives": null,
-          "co2_value": "1078.00",
-          "co2_rating": "B",
-          "print_order": "16"
-        },
-        {
-          "id": "11161219",
-          "item_id": "17565",
-          "recipe_id": "9249",
-          "description_de": "Kürbis-Falafel | Rote-Bete-Hummus | Sesam-Joghurt",
-          "description_en": "Pumkin Falafel | Betroot Hummus | Sesame Yoghurt",
-          "category": "LUNCH Vegi/Vegan_",
-          "price": "10.00",
-          "price_2": null,
-          "allergens": {
-            "gluten": "Glutenhaltiges Getreide",
-            "schalenfruchte": "Schalenfrüchte und Schalenfruchterzeugnisse",
-            "sellerie": "Sellerie und Sellerieerzeugnisse",
-            "sesam": "Sesamsamen und Sesamsamenerzeugnisse"
-          },
-          "attributes": {
-            "vegan": "Vegan",
-            "vegetarisch": "Vegetarisch"
-          },
-          "nutrition": null,
-          "additives": [
-            {
-              "de": "Süßungsmittel",
-              "en": "Sweetener"
-            }
-          ],
-          "co2_value": "276.00",
-          "co2_rating": "A",
-          "print_order": "17"
-        },
-        {
-          "id": "11161221",
-          "item_id": "17566",
-          "recipe_id": "9000",
-          "description_de": "Currywurst | Fritten | Salat",
-          "description_en": "Curry Sausage | Steakhouse Chips | Salad",
-          "category": "LUNCH Classic_",
-          "price": "12.00",
-          "price_2": null,
-          "allergens": {
-            "huhnerei": "Hühnerei und Hühnereierzeugnisse",
-            "sellerie": "Sellerie und Sellerieerzeugnisse",
-            "senf": "Senf und Senferzeugnisse",
-            "schwefel": "Schwefeldioxid und Sulfide"
-          },
-          "attributes": "",
-          "nutrition": null,
-          "additives": [
-            {
-              "de": "Süßungsmittel",
-              "en": "Sweetener"
-            },
-            {
-              "de": "Phosphat",
-              "en": "Phosphate"
-            },
-            {
-              "de": "Farbstoff",
-              "en": "Colouring Agent"
-            },
-            {
-              "de": "Antioxidationsmittel",
-              "en": "Antioxidation"
-            },
-            {
-              "de": "Konservierungsstoff",
-              "en": "Preservatives"
-            }
-          ],
-          "co2_value": "1057.00",
-          "co2_rating": "A",
-          "print_order": "18"
-        }
-      ]
-    },
     "2026-11-01": {
       "Abendessen": [
         {
@@ -1422,7 +1323,7 @@
           "description_de": "Schweinefilet | Speckbohnen | Herzoginkartoffel",
           "description_en": "Pork Filet | Bacon Beans | Duchess Potatoes",
           "category": "DINNER Meat _|",
-          "price": "",
+          "price": "12.00",
           "price_2": null,
           "allergens": {
             "gluten": "Glutenhaltiges Getreide",
@@ -1458,7 +1359,7 @@
           "description_de": "Zander | Kohlrabi-Gemüse | Kapernsauce",
           "description_en": "Pike-Perch | Kohlrabi | Caper Sauce",
           "category": "DINNER Fish _|",
-          "price": "",
+          "price": "12.00",
           "price_2": null,
           "allergens": {
             "gluten": "Glutenhaltiges Getreide",
@@ -1481,7 +1382,7 @@
           "description_de": "Linsen-Burger | Tandoori-Creme | Mango-Salsa",
           "description_en": "Lentil Burger | Tandoori Cream | Mango Salsa",
           "category": "DINNER Vegi / Vegan_|",
-          "price": "",
+          "price": "10.00",
           "price_2": null,
           "allergens": {
             "gluten": "Glutenhaltiges Getreide",
@@ -1512,7 +1413,7 @@
           "description_de": "Schweinefilet | Speckbohnen | Herzoginkartoffel",
           "description_en": "Pork Filet | Bacon Beans | Duchess Potatoes",
           "category": "DINNER Meat _|",
-          "price": "",
+          "price": "12.00",
           "price_2": null,
           "allergens": {
             "gluten": "Glutenhaltiges Getreide",
@@ -1548,7 +1449,7 @@
           "description_de": "Zander | Kohlrabi-Gemüse | Kapernsauce",
           "description_en": "Pike-Perch | Kohlrabi | Caper Sauce",
           "category": "DINNER Fish _|",
-          "price": "",
+          "price": "12.00",
           "price_2": null,
           "allergens": {
             "gluten": "Glutenhaltiges Getreide",
@@ -1571,7 +1472,7 @@
           "description_de": "Linsen-Burger | Tandoori-Creme | Mango-Salsa",
           "description_en": "Lentil Burger | Tandoori Cream | Mango Salsa",
           "category": "DINNER Vegi / Vegan_|",
-          "price": "",
+          "price": "10.00",
           "price_2": null,
           "allergens": {
             "gluten": "Glutenhaltiges Getreide",
